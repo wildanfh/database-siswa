@@ -1,0 +1,39 @@
+// Load the Excel file using PHPExcel library
+require_once 'PHPExcel/PHPExcel.php';
+$file_path = 'path/to/excel/file.xlsx';
+$excel = PHPExcel_IOFactory::load($file_path);
+
+// Get the active sheet
+$sheet = $excel->getActiveSheet();
+
+// Get the highest row and column index
+$highestRow = $sheet->getHighestDataRow();
+$highestColumn = $sheet->getHighestDataColumn();
+
+// Loop through each row
+for ($row = 2; $row <= $highestRow; $row++) {
+    // Get the values of each cell in the row
+    $id = $sheet->getCell('A' . $row)->getValue();
+    $kelas_id = $sheet->getCell('B' . $row)->getValue();
+    $nisn = $sheet->getCell('C' . $row)->getValue();
+    $nis = $sheet->getCell('D' . $row)->getValue();
+    $nik = $sheet->getCell('E' . $row)->getValue();
+    $no_akta = $sheet->getCell('F' . $row)->getValue();
+    $nama_siswa = $sheet->getCell('G' . $row)->getValue();
+    $tahun_masuk = $sheet->getCell('H' . $row)->getValue();
+    $panggilan = $sheet->getCell('I' . $row)->getValue();
+    $jenis_kelamin = $sheet->getCell('J' . $row)->getValue();
+    $tpa = $sheet->getCell('K' . $row)->getValue();
+    $tempat_lahir = $sheet->getCell('L' . $row)->getValue();
+    $tanggal_lahir = $sheet->getCell('M' . $row)->getValue();
+    $nama_ayah = $sheet->getCell('N' . $row)->getValue();
+    $pekerjaan_ayah = $sheet->getCell('O' . $row)->getValue();
+    $nama_ibu = $sheet->getCell('P' . $row)->getValue();
+    $pekerjaan_ibu = $sheet->getCell('Q' . $row)->getValue();
+    $alamat = $sheet->getCell('R' . $row)->getValue();
+    $alamat_domisili = $sheet->getCell('S' . $row)->getValue();
+    $no_telepon = $sheet->getCell('T' . $row)->getValue();
+
+    // Do something with the values, e.g. insert into database
+    // ...
+}

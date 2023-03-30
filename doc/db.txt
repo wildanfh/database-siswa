@@ -1,0 +1,50 @@
+A. category
+1. id
+2. category
+
+id | category
+1  | Siswa
+2  | Daftar
+
+B. unit
+1. id
+2. category_id
+3. unit
+
+id | category_id | unit
+1  | 1           | SDIT Ghilmani
+2  | 1           | TK Wildani 1
+
+C. kelas
+1. id
+2. unit_id
+3. kelas
+
+id | unit_id | kelas
+1  | 1       | 1A
+2  | 1       | 1B
+
+C. data_siswa
+1. id
+2. kelas_id
+3. nisn->nullable()
+4. nis
+5. nik->nullable()
+6. no_akta->nullable()
+7. nama_siswa
+8. tahun_masuk->nullable()
+9. panggilan->nullable()
+10. jenis_kelamin->nullable()
+11. tpa->bool
+12. tempat_lahir->nullable()
+13. tgl_lahir->nullable()
+14. nama_ayah->nullable()
+15. pekerjaan_ayah->nullable()
+16. nama_ibu->nullable()
+17. pekerjaan_ibu->nullable()
+18. alamat->nullable()
+19. no_telepon->nullable()
+
+id | kelas_id | nisn | nis          | no_akta | nama_siswa              | tahun_masuk | nama_panggilan | jenis_kelamin | tpa  | tempat_lahir | tanggal_lahir   | nama_ayah     | pekerjaan_ayah | nama_ibu            | pekerjaan_ibu    | alamat                                   | alamat_domisili                          | no_telepon
+1  | 1        | 1A   | 03.2022.1615 | number  | Abyan Maulana Al Farisy | 2022        | string         | Laki-laki     | bool | Gresik       | 23 Maret 2016   | Hari priyatno | Wiraswasta     | Yuni astutik        | Wiraswasta       | Jl. Karang rejo timur 1a no 6 surabaya   | Jl. Karang rejo timur 1b no 5            | 089543674322
+2  | 1        | 1B   | 03.2022.1617 |         | Afif Fadin Alvaro       | 2022        |                | Laki-laki     |      | Surabaya     | 17 Agustus 2015 | Aliman        | Wiraswasta     | Nanik Puspita Rini  | ibu rumah tangga | Desa Ringinrejo RT 01/RW 01 Wates Blitar | Desa Ringinrejo RT 01/RW 01 Wates Blitar | 07682344344
