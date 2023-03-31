@@ -1,15 +1,13 @@
-# How to Start a Laravel Project from GitHub
+# Start Database Siswa Project
 
-To start a Laravel project from GitHub, follow these steps:
+To start a Database Siswa Project from GitHub, follow these steps:
 
 1. **Clone the GitHub repository**
 
    Clone the Laravel project from the GitHub repository using the following command in your terminal:
    
-   git clone <repository-url>
+   git clone https://github.com/wildanfh/database-siswa.git
 
-
-Replace `<repository-url>` with the URL of the GitHub repository that you want to clone.
 
 2. **Install dependencies**
 
