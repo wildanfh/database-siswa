@@ -13,6 +13,7 @@
 <body>
   <div class="md:flex">
 
+    @if(auth()->check())
     <!-- sidebar -->
     <div class="sidebar max-h-screen top-0 h-screen bg-gray-800 text-blue-100 w-64 fixed inset-y-0 left-0 transform transition duration-200 ease-in-out z-50" x-data="{ open: true }" x-on:togglesidebar.window=" open = !open" x-show="true" :class="open === true ? 'md:translate-x-0 md:sticky ':'-translate-x-full' ">
 
@@ -117,6 +118,7 @@
 
     </div>
     <!-- End sidebar -->
+    @endif
 
 
     <!-- content -->
@@ -173,26 +175,17 @@
 
 
                 <!-- Profile dropdown -->
-                <div class="relative bg-gray-700 px-4 text-gray-400 hover:text-white text-sm cursor-pointer" x-data="{open: false}">
-                  <div class="flex items-center min-h-full" @click="open = !open">
-
-                    <div class="max-w-xs bg-gray-800 rounded-full flex items-center text-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white" id="user-menu-button" aria-expanded="false" aria-haspopup="true">
-                      <span class="sr-only">Open user menu</span>
-                      <img class="h-8 w-8 rounded-full" src="https://assets.codepen.io/3321250/internal/avatars/users/default.png?fit=crop&format=auto&height=512&version=1646800353&width=512" alt="">
-                    </div>
-
-                    <div class="flex flex-col ml-4">
-                      <span>Fares Arnous</span>
-                      <span>Admin</span>
+                <div class="relative bg-gray-700 px-6 text-gray-400 hover:text-white text-sm cursor-pointer" x-data="{open: false}">
+                  <div class="flex items-center h-14" @click="open = !open">
+                    <div class="flex flex-col">
+                      <span>{{ $user->name ?? 'Admin' }}</span>
+                      <span class="text-xs">{{ $user->email ?? 'example@gmail.com' }}</span>
                     </div>
                   </div>
 
                   <div x-show="open" @click.away="open = false" class="origin-top-right absolute right-0 mt-0 min-w-full rounded-b-md shadow py-1 bg-white ring-1 ring-black ring-opacity-5 focus:outline-none" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" role="menu" aria-orientation="vertical" aria-labelledby="user-menu-button" tabindex="-1">
-                    <a href="#" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100" role="menuitem" tabindex="-1" id="user-menu-item-0">My Profile</a>
 
-                    <a href="#" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100" role="menuitem" tabindex="-1" id="user-menu-item-1">Projects</a>
-
-                    <a href="#" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100" role="menuitem" tabindex="-1" id="user-menu-item-1">Sign
+                    <a href="{{ route('signout') }}" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100" role="menuitem" tabindex="-1" id="user-menu-item-1">Sign
                       out</a>
                   </div>
                 </div>
@@ -221,36 +214,22 @@
         <div class="md:hidden absolute bg-gray-800 w-full" id="mobile-menu" x-show="mobilemenue" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" @click.away="mobilemenue = false
 
                 ">
-          <div class="px-2 pt-2 pb-3 space-y-1 sm:px-3">
-            <a href="#" class="bg-gray-900 text-white block px-3 py-2 rounded-md text-base font-medium" aria-current="page">Dashboard</a>
-
-            <a href="#" class="text-gray-300 hover:bg-gray-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Team</a>
-          </div>
 
           <div class="pt-4 pb-3 border-t border-gray-700">
             <!-- profile menue for mobile -->
             <div class="flex items-center px-5">
-              <div class="flex-shrink-0">
-                <img class="h-10 w-10 rounded-full" src="https://assets.codepen.io/3321250/internal/avatars/users/default.png?fit=crop&format=auto&height=512&version=1646800353&width=512" alt="">
-              </div>
               <div class="ml-3">
-                <div class="text-base font-medium leading-none text-white">Tom Cook</div>
-                <div class="text-sm font-medium leading-none text-gray-400">tom@example.com</div>
+                <div class="text-base font-medium leading-none text-white">{{ $user->name ?? '' }}</div>
+                <div class="text-sm font-medium leading-none text-gray-400 mt-2">{{ $user->email ?? '' }}</div>
               </div>
-              <button type="button" class="ml-auto bg-gray-800 flex-shrink-0 p-1 rounded-full text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white">
-                <span class="sr-only">View notifications</span>
-                <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9" />
-                </svg>
-              </button>
 
             </div>
             <div class="mt-3 px-2 space-y-1">
-              <a href="#" class="block px-3 py-2 rounded-md text-base font-medium text-gray-400 hover:text-white hover:bg-gray-700">Your
-                Profile</a>
-
-              <a href="#" class="block px-3 py-2 rounded-md text-base font-medium text-gray-400 hover:text-white hover:bg-gray-700">Sign
+              @if(auth()->check())
+              <a href="{{ route('signout') }}" class="block px-3 py-2 rounded-md text-base font-medium text-gray-400 hover:text-white hover:bg-gray-700">Sign
                 out</a>
+              @endif
+
             </div>
           </div>
         </div>
@@ -288,9 +267,12 @@
           @endif
         </div>
       </main>
+
+      @if (auth()->check())
       <footer class="border-t p-4 pb-3 text-xs bg-gray-100">
         2023 © Design & Develop by Haramain.
       </footer>
+      @endif
     </div>
 
   </div>

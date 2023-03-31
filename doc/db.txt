@@ -48,3 +48,16 @@ C. data_siswa
 id | kelas_id | nisn | nis          | no_akta | nama_siswa              | tahun_masuk | nama_panggilan | jenis_kelamin | tpa  | tempat_lahir | tanggal_lahir   | nama_ayah     | pekerjaan_ayah | nama_ibu            | pekerjaan_ibu    | alamat                                   | alamat_domisili                          | no_telepon
 1  | 1        | 1A   | 03.2022.1615 | number  | Abyan Maulana Al Farisy | 2022        | string         | Laki-laki     | bool | Gresik       | 23 Maret 2016   | Hari priyatno | Wiraswasta     | Yuni astutik        | Wiraswasta       | Jl. Karang rejo timur 1a no 6 surabaya   | Jl. Karang rejo timur 1b no 5            | 089543674322
 2  | 1        | 1B   | 03.2022.1617 |         | Afif Fadin Alvaro       | 2022        |                | Laki-laki     |      | Surabaya     | 17 Agustus 2015 | Aliman        | Wiraswasta     | Nanik Puspita Rini  | ibu rumah tangga | Desa Ringinrejo RT 01/RW 01 Wates Blitar | Desa Ringinrejo RT 01/RW 01 Wates Blitar | 07682344344
+
+
+add in .env
+SESSION_DRIVER=database
+
+@if (session('success'))
+          <div id="success-notification" class="bg-green-100 border border-green-400 text-green-700 px-4 py-3 rounded relative" role="alert">
+            <strong class="font-bold">Success!</strong>
+            <span class="block sm:inline">{{ session('success') }}</span>
+            <span id="success-close-btn" class="absolute top-0 bottom-0 right-0 px-4 py-3">x
+            </span>
+          </div>
+          @endif update this code to error notification

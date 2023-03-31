@@ -2,6 +2,19 @@
 @tailwind components;
 @tailwind utilities;
 
+.input-login {
+  border: none;
+  outline: none;
+  padding: 10px;
+  font-weight: normal;
+  border-radius: .5rem;
+}
+
+input.form-checkbox:focus {
+  outline: 0;
+  box-shadow: 0 0 0 2px rgba(74, 85, 104, 0.2);
+}
+
 .scroller {
     scrollbar-color: #a0aec0 #141b2a;
     scrollbar-width: none !important;

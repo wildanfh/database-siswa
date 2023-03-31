@@ -7,13 +7,19 @@ use App\Models\Group;
 use App\Models\Student;
 use App\Models\Unit;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
 
 class ViewController extends Controller
 {
   function categories()
   {
-    $categories = Category::all();
-    return view('app', compact('categories'));
+    if(Auth::check()) {
+      $categories = Category::all();
+      $user = Auth::user();
+      return view('app', compact('categories', 'user'));
+    } else {
+      return redirect('/login');
+    }
   }
 
   /**
