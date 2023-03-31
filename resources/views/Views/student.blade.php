@@ -3,22 +3,17 @@
 @section('content')
 <section>
   <div class="container mx-auto">
-    <h2 class="text-slate-700">Students</h2>
+    <h2 class="text-slate-700 font-semibold text-2xl">Students</h2>
     <div class="mb-4 mt-3" x-data="{ showSearch: false }">
       <button @click="showSearch = !showSearch" class="bg-slate-500 hover:bg-slate-700 text-white font-bold py-1 px-2 rounded focus:outline-none focus:shadow-outline text-sm mb-2">
         Search
       </button>
-      <form x-show="showSearch" id="search-form" action="{{ route('students.index') }}" method="GET" class="flex h-8">
+      <form x-show="showSearch" id="search-form" action="{{ route('views.unit.group.student', ['category' => $category, 'unit' => $unit, 'group' => $group]) }}" method="GET" class="flex h-8">
         <input type="text" name="search" placeholder="Search by student" class="shadow appearance-none border rounded w-3/4 py-2 px-3 text-gray-700 text-sm focus:outline-none focus:shadow-outline">
         <button type="submit" class="bg-slate-500 hover:bg-slate-700 text-white font-bold py-1 px-2 ml-2 rounded focus:outline-none focus:shadow-outline text-sm">
           Search
         </button>
       </form>
-    </div>
-    <div class="flex justify-end mb-4">
-      <a href="{{ route('students.create') }}" class="bg-gray-500 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded text-sm">
-        Create
-      </a>
     </div>
     @if($students->isEmpty())
     <p class="text-gray-700 leading-tight">No Data found.</p>
@@ -85,12 +80,6 @@
                 </td>
                 <td class="px-6 py-4 whitespace-nowrap text-sm font-medium">
                   <a href="{{ route('students.show', $student->id) }}" class="text-indigo-600 hover:text-indigo-900">View</a>
-                  <a href="{{ route('students.edit', $student->id) }}" class="text-yellow-600 hover:text-yellow-900">Edit</a>
-                  <form action="{{ route('students.destroy', $student->id) }}" method="POST" class="inline-block">
-                    @csrf
-                    @method('DELETE')
-                    <button type="submit" class="text-red-600 hover:text-red-900">Delete</button>
-                  </form>
                 </td>
               </tr>
               @endforeach

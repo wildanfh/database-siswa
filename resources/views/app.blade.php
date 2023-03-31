@@ -5,9 +5,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   @vite(['resources/css/app.css', 'resources/js/app.js'])
-  <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.12.0/dist/cdn.min.js"></script>
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-  <script src="resources/js/app.js" defer></script>
+
 </head>
 
 <body>
@@ -17,18 +17,13 @@
     <div class="sidebar max-h-screen top-0 h-screen bg-gray-800 text-blue-100 w-64 fixed inset-y-0 left-0 transform transition duration-200 ease-in-out z-50" x-data="{ open: true }" x-on:togglesidebar.window=" open = !open" x-show="true" :class="open === true ? 'md:translate-x-0 md:sticky ':'-translate-x-full' ">
 
 
-      <header class=" h-[64px] py-2 shadow-lg px-4 md:sticky top-0 bg-gray-800 z-40">
+      <header class=" h-[64px] py-2 shadow-lg px-4 md:sticky top-0 bg-gray-800 z-40 flex justify-center">
         <!-- logo -->
         <a href="#" class="text-white flex items-center space-x-2 group hover:text-white">
-          <div>
-            <svg class="h-8 w-8 transition-transform duration-300 group-hover:-rotate-45 " fill="none" viewBox="0 0 24 24" stroke="currentColor">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2 2v2m4 6h.01M5 20h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
-            </svg>
-          </div>
 
-          <div>
-            <span class="text-2xl font-extrabold">FARNOUS</span>
-            <span class="text-xs block">Project Management</span>
+          <div class="text-center">
+            <span class="text-2xl font-extrabold">DATABASE</span>
+            <span class="text-xs block">Siswa</span>
           </div>
         </a>
       </header>
@@ -59,9 +54,11 @@
           <li class="text-sm text-gray-500 ">
             <a href="{{ route('categories.index') }}" class="flex items-center w-full py-1 px-2 rounded relative hover:text-white hover:bg-gray-700 ">
               <div class="pr-2">
-                <svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01" />
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-5 h-5">
+                  <path d="M2 3a1 1 0 00-1 1v1a1 1 0 001 1h16a1 1 0 001-1V4a1 1 0 00-1-1H2z" />
+                  <path fill-rule="evenodd" d="M2 7.5h16l-.811 7.71a2 2 0 01-1.99 1.79H4.802a2 2 0 01-1.99-1.79L2 7.5zM7 11a1 1 0 011-1h4a1 1 0 110 2H8a1 1 0 01-1-1z" clip-rule="evenodd" />
                 </svg>
+
               </div>
               <div>Categories </div>
             </a>
@@ -71,8 +68,8 @@
           <li class="text-sm text-gray-500 ">
             <a href="{{ route('groups.index') }}" class="flex items-center w-full py-1 px-2 rounded relative hover:text-white hover:bg-gray-700 ">
               <div class="pr-2">
-                <svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01" />
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 7.125C2.25 6.504 2.754 6 3.375 6h6c.621 0 1.125.504 1.125 1.125v3.75c0 .621-.504 1.125-1.125 1.125h-6a1.125 1.125 0 01-1.125-1.125v-3.75zM14.25 8.625c0-.621.504-1.125 1.125-1.125h5.25c.621 0 1.125.504 1.125 1.125v8.25c0 .621-.504 1.125-1.125 1.125h-5.25a1.125 1.125 0 01-1.125-1.125v-8.25zM3.75 16.125c0-.621.504-1.125 1.125-1.125h5.25c.621 0 1.125.504 1.125 1.125v2.25c0 .621-.504 1.125-1.125 1.125h-5.25a1.125 1.125 0 01-1.125-1.125v-2.25z" />
                 </svg>
               </div>
               <div>Groups</div>
@@ -82,8 +79,8 @@
           <li class="text-sm text-gray-500 ">
             <a href="{{ route('units.index') }}" class="flex items-center w-full py-1 px-2 rounded relative hover:text-white hover:bg-gray-700 ">
               <div class="pr-2">
-                <svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-                  <path stroke-linecap="round" stroke-linejoin="round" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                <svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01" />
                 </svg>
               </div>
               <div>Units</div>
@@ -93,9 +90,11 @@
           <li class="text-sm text-gray-500 ">
             <a href="{{ route('entryYears.index') }}" class="flex items-center w-full py-1 px-2 rounded relative hover:text-white hover:bg-gray-700 ">
               <div class="pr-2">
-                <svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-                  <path stroke-linecap="round" stroke-linejoin="round" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-5 h-5">
+                  <path fill-rule="evenodd" d="M5.75 2a.75.75 0 01.75.75V4h7V2.75a.75.75 0 011.5 0V4h.25A2.75 2.75 0 0118 6.75v8.5A2.75 2.75 0 0115.25 18H4.75A2.75 2.75 0 012 15.25v-8.5A2.75 2.75 0 014.75 4H5V2.75A.75.75 0 015.75 2zm-1 5.5c-.69 0-1.25.56-1.25 1.25v6.5c0 .69.56 1.25 1.25 1.25h10.5c.69 0 1.25-.56 1.25-1.25v-6.5c0-.69-.56-1.25-1.25-1.25H4.75z" clip-rule="evenodd" />
                 </svg>
+
+
               </div>
               <div>Tahun Masuk</div>
             </a>
@@ -104,192 +103,13 @@
           <li class="text-sm text-gray-500 ">
             <a href="{{ route('students.index') }}" class="flex items-center w-full py-1 px-2 rounded relative hover:text-white hover:bg-gray-700 ">
               <div class="pr-2">
-                <svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-                  <path stroke-linecap="round" stroke-linejoin="round" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" class="w-5 h-5">
+                  <path d="M10 8a3 3 0 100-6 3 3 0 000 6zM3.465 14.493a1.23 1.23 0 00.41 1.412A9.957 9.957 0 0010 18c2.31 0 4.438-.784 6.131-2.1.43-.333.604-.903.408-1.41a7.002 7.002 0 00-13.074.003z" />
                 </svg>
               </div>
               <div>Students</div>
             </a>
           </li>
-
-          <!-- Section Devider -->
-          <div class="section border-b pt-4 mb-4 text-xs text-gray-600 border-gray-700 pb-1 pl-3">
-            Managment
-          </div>
-
-          <!-- List ITEM -->
-          <li class="text-sm text-gray-500 ">
-            <a href="#" @click.prevent="selected = (selected === 'Team' ? '':'Team')" class="flex items-center w-full py-1 px-2 rounded relative hover:text-white hover:bg-gray-700">
-              <div class="pr-2">
-                <svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z" />
-                </svg>
-              </div>
-              <div>Team</div>
-              <div class="absolute right-1.5 transition-transform duration-300" :class="{ 'rotate-180': (selected === 'Team') }">
-                <svg class=" h-3 w-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-                </svg>
-              </div>
-            </a>
-
-
-            <div class="pl-4 pr-2 overflow-hidden transition-all transform translate duration-300 max-h-0 " :style="(selected === 'Team') ? 'max-height: ' + $el.scrollHeight + 'px':''">
-              <ul class="flex flex-col mt-2 pl-2 text-gray-500 border-l border-gray-700 space-y-1 text-xs">
-                <!-- Item -->
-                <li class="text-sm text-gray-500 ">
-                  <a href="#" class="flex items-center w-full py-1 px-2 rounded relative hover:text-white hover:bg-gray-700">
-                    <div> Users List </div>
-                  </a>
-                </li>
-                <!-- Item -->
-                <li class="text-sm text-gray-500 ">
-                  <a href="#" class="flex items-center w-full py-1 px-2 rounded relative hover:text-white hover:bg-gray-700">
-                    <div> Create User </div>
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </li>
-
-          <!-- List ITEM -->
-          <li class="text-sm text-gray-500 ">
-            <a href="#" @click.prevent="selected = (selected === 'Projects' ? '':'Projects')" class="flex items-center w-full py-1 px-2 rounded relative hover:text-white hover:bg-gray-700">
-              <div class="pr-2">
-                <svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 7v10a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-6l-2-2H5a2 2 0 00-2 2z" />
-                </svg>
-              </div>
-              <div>Projects</div>
-              <div class="absolute right-1.5 transition-transform duration-300" :class="{ 'rotate-180': (selected === 'Projects') }">
-                <svg class=" h-3 w-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-                </svg>
-              </div>
-            </a>
-
-
-            <div class="pl-4 pr-2 overflow-hidden transition-all transform translate duration-300 max-h-0 " :style="(selected === 'Projects') ? 'max-height: ' + $el.scrollHeight + 'px':''">
-              <ul class="flex flex-col mt-2 pl-2 text-gray-500 border-l border-gray-700 space-y-1 text-xs">
-                <!-- Item -->
-                <li class="text-sm text-gray-500 ">
-                  <a href="#" class="flex items-center w-full py-1 px-2 rounded relative hover:text-white hover:bg-gray-700">
-                    <div>List </div>
-                  </a>
-                </li>
-                <!-- Item -->
-                <li class="text-sm text-gray-500 ">
-                  <a href="#" class="flex items-center w-full py-1 px-2 rounded relative hover:text-white hover:bg-gray-700">
-                    <div> Create Project </div>
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </li>
-
-
-          <!-- List ITEM -->
-          <li class="text-sm text-gray-500 ">
-            <a href="#" @click.prevent="selected = (selected === 'Tasks' ? '':'Tasks')" class="flex items-center w-full py-1 px-2 rounded relative hover:text-white hover:bg-gray-700">
-              <div class="pr-2">
-                <svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01" />
-                </svg>
-              </div>
-              <div>Tasks</div>
-              <div class="absolute right-1.5 transition-transform duration-300" :class="{ 'rotate-180': (selected === 'Tasks') }">
-                <svg class=" h-3 w-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
-                </svg>
-              </div>
-            </a>
-
-
-            <div class="pl-4 pr-2 overflow-hidden transition-all transform translate duration-300 max-h-0 " :style="(selected === 'Tasks') ? 'max-height: ' + $el.scrollHeight + 'px':''">
-              <ul class="flex flex-col mt-2 pl-2 text-gray-500 border-l border-gray-700 space-y-1 text-xs">
-                <!-- Item -->
-                <li class="text-sm text-gray-500 ">
-                  <a href="#" class="flex items-center w-full py-1 px-2 rounded relative hover:text-white hover:bg-gray-700">
-                    <div>List </div>
-                  </a>
-                </li>
-                <!-- Item -->
-                <li class="text-sm text-gray-500 ">
-                  <a href="#" class="flex items-center w-full py-1 px-2 rounded relative hover:text-white hover:bg-gray-700">
-                    <div> My tasks </div>
-                  </a>
-                </li>
-                <li class="text-sm text-gray-500 ">
-                  <a href="#" class="flex items-center w-full py-1 px-2 rounded relative hover:text-white hover:bg-gray-700">
-                    <div> Create Task </div>
-                  </a>
-                </li>
-
-                <li class="text-sm text-gray-500 ">
-                  <a href="#" class="flex items-center w-full py-1 px-2 rounded relative hover:text-white hover:bg-gray-700">
-                    <div> Active Task </div>
-                  </a>
-                </li>
-                <li class="text-sm text-gray-500 ">
-                  <a href="#" class="flex items-center w-full py-1 px-2 rounded relative hover:text-white hover:bg-gray-700">
-                    <div> In Progress </div>
-                  </a>
-                </li>
-                <li class="text-sm text-gray-500 ">
-                  <a href="#" class="flex items-center w-full py-1 px-2 rounded relative hover:text-white hover:bg-gray-700">
-                    <div> Closed Task </div>
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
         </ul>
       </nav>
@@ -328,15 +148,11 @@
               <div class="flex-shrink-0 md:hidden">
 
                 <a href="#" class="text-white flex items-center space-x-2 group">
-                  <div>
-                    <svg class="h-8 w-8 transition-transform duration-300 group-hover:-rotate-45 " fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 13.255A23.931 23.931 0 0112 15c-3.183 0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4a2 2 0 00-2 2v2m4 6h.01M5 20h14a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
-                    </svg>
-                  </div>
 
-                  <div>
-                    <span class="text-2xl font-extrabold">FARNOUS</span>
-                    <span class="text-xs block">Project Managment</span>
+
+                  <div class="text-center">
+                    <span class="text-2xl font-extrabold">DATABASE</span>
+                    <span class="text-xs block">Siswa</span>
                   </div>
                 </a>
               </div>
@@ -349,31 +165,12 @@
               </div>
 
 
-              <div class="hidden lg:block">
-                <!-- Search -->
-                <form action="" class="app-search" method="GET">
-                  <div class="relative group ">
-                    <input type="text" class="form-input rounded-md bg-gray-700 text-sm text-gray-300 pl-10 py-1.5 ml-5 border-transparent border-none outline-none focus:ring-0 focus:text-white transition-all duration-300 ease-in-out focus:w-60 w-48" placeholder="Search..." autocomplete="off">
-                    <span class="absolute left-44 bottom-2 text-gray-400 transition-all duration-300 ease-in-out group-focus-within:left-8">
-                      <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-                      </svg>
-                    </span>
-                  </div>
-                </form>
-              </div>
+
             </div>
             <div class="hidden md:flex items-stretch">
               <!-- Profile Menu DT -->
               <div class="ml-4 flex md:ml-6 ">
-                <div class="relative flex justify-center items-center mr-4">
-                  <div class="bg-gray-700 block hover:text-white p-1 rounded-full text-gray-400">
-                    <span class="sr-only">View notifications</span>
-                    <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
-                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9" />
-                    </svg>
-                  </div>
-                </div>
+
 
                 <!-- Profile dropdown -->
                 <div class="relative bg-gray-700 px-4 text-gray-400 hover:text-white text-sm cursor-pointer" x-data="{open: false}">
@@ -463,35 +260,36 @@
 
 
       <main class="bg-[#f3f3f9] mb-auto flex-grow">
-        <div class="border-b bg-white border-gray-300 px-3 py-2 shadow-sm  text-xl font-bold">
+        <div class="border-b bg-white border-gray-300 px-3 py-2 shadow-sm  text-xl font-bold min-h-max">
           @if(Request::is('/'))
-          <div class="max-w-sm rounded overflow-hidden shadow-lg bg-white mx-auto">
-            <div class="px-6 py-4">
-              <div class="flex items-center justify-center">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
-                  <rect width="256" height="256" fill="none" />
-                  <line x1="128" y1="192" x2="128" y2="224" fill="none" stroke="text-red-200" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" />
-                  <circle cx="84" cy="140" r="10" />
-                  <circle cx="172" cy="140" r="10" />
-                  <line x1="128" y1="48" x2="128" y2="88" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" />
-                  <polyline points="144 176 128 192 112 176" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" />
-                  <line x1="96" y1="53" x2="96" y2="88" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" />
-                  <line x1="160" y1="53" x2="160" y2="88" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" />
-                  <path d="M32,136V51.3a8,8,0,0,1,13.7-5.6L67.6,67.6h0A100.8,100.8,0,0,1,128,48a100.8,100.8,0,0,1,60.4,19.6h0l21.9-21.9A8,8,0,0,1,224,51.3V136c0,48.6-43,88-96,88S32,184.6,32,136Z" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" />
+          <h1 class="text-3xl font-semibold">Dashboard</h1>
+          <div class=" flex justify-center items-center min-h-max">
+            <div class="flex flex-wrap">
+              @foreach($categories as $category)
+              <a href="{{ route('views.unit', $category->category) }}" class="m-2 py-6 px-12 bg-slate-200 rounded-lg shadow-lg hover:bg-gray-400 transition duration-300">
+                @if($category->category === 'Siswa')
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 m-auto text-slate-900" style="width: 96px; height: 96px;">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M17.982 18.725A7.488 7.488 0 0012 15.75a7.488 7.488 0 00-5.982 2.975m11.963 0a9 9 0 10-11.963 0m11.963 0A8.966 8.966 0 0112 21a8.966 8.966 0 01-5.982-2.275M15 9.75a3 3 0 11-6 0 3 3 0 016 0z" />
                 </svg>
-              </div>
-              <div class="mt-4">
-                <h1 class="text-3xl font-bold text-gray-900 mb-2 text-center text-red-400">Welcome</h1>
-              </div>
+                @else
+                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 text-slate-900" style="width: 96px; height: 96px;">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M20.25 7.5l-.625 10.632a2.25 2.25 0 01-2.247 2.118H6.622a2.25 2.25 0 01-2.247-2.118L3.75 7.5M10 11.25h4M3.375 7.5h17.25c.621 0 1.125-.504 1.125-1.125v-1.5c0-.621-.504-1.125-1.125-1.125H3.375c-.621 0-1.125.504-1.125 1.125v1.5c0 .621.504 1.125 1.125 1.125z" />
+                </svg>
+
+                @endif
+                <h2 class="text-2xl font-semibold mb-2 text-gray-800 text-center">{{ $category->category }}</h2>
+              </a>
+              @endforeach
             </div>
           </div>
+
           @else
           @yield('content')
           @endif
         </div>
       </main>
       <footer class="border-t p-4 pb-3 text-xs bg-gray-100">
-        2023 © Design & Develop by Wildan.
+        2023 © Design & Develop by Haramain.
       </footer>
     </div>
 

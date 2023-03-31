@@ -6,6 +6,9 @@ module.exports = {
         "./resources/**/*.vue",
     ],
     theme: {
+      minHeight: {
+        '4/5': '80%',
+      },
         extend: {},
     },
     plugins: [],
