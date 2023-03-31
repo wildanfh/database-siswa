@@ -26,7 +26,7 @@ class AuthController extends Controller
                         ->withSuccess('Signed in');
         }
 
-        return redirect("login")->withSuccess('Login details are not valid');
+        return redirect("login")->with('error', 'Wrong Email / Password');
     }
 
     public function registration()
