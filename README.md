@@ -6,14 +6,14 @@ To start a Database Siswa Project from GitHub, follow these steps:
 
    Clone the Laravel project from the GitHub repository using the following command in your terminal:
    
-   git clone https://github.com/wildanfh/database-siswa.git
+   `git clone https://github.com/wildanfh/database-siswa.git`
 
 
 2. **Install dependencies**
 
 Navigate into the project folder in your terminal and run the following command to install the required dependencies:
   
-  composer install
+  `composer install`
 
 
 This will install all the required packages and dependencies for the Laravel project.
@@ -26,17 +26,19 @@ Copy the `.env.example` file in the root of your project and rename it to `.env`
 
 open .env and search these variables and change the value like this
   
-  DB_DATABASE=database-siswa2
+  `DB_DATABASE=database-siswa2`
   *
   *
-  SESSION_DRIVER=database
+  `SESSION_DRIVER=database`
+  
+and create database `database-siswa2` in `localhost/phpmyadmin`.
   
 
 5. **Generate an application key**
 
 Run the following command to generate an application key for your Laravel project:
   
-  php artisan key:generate
+  `php artisan key:generate`
 
 
 This will generate a random key that Laravel will use to secure your application.
@@ -45,21 +47,21 @@ This will generate a random key that Laravel will use to secure your application
 
 If the Laravel project you cloned has a database, run migrations to create the required tables using the following command:
   
-  php artisan migrate
+  `php artisan migrate`
   
 7. **Install npm dependencies**
 
 Navigate into the project folder in your terminal and run the following command to install the required dependencies:
   
-  npm install
+  `npm install`
 
 
 8. **Start the server**
 
 Finally, start the Laravel development server and vite in another terminal by running the following command:
   
-  php artisan serve
-  npm run dev
+  `php artisan serve`
+  `npm run dev`
   
 
 This will start the server on the default port 8000. You can access the application by opening your web browser and navigating to `http://localhost:8000`.
