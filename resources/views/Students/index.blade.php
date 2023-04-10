@@ -62,7 +62,7 @@
               @foreach ($students as $i => $student)
               <tr>
                 <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
-                  {{ $i + 1 }}
+                {{ ($students->currentPage() - 1) * $students->perPage() + $i + 1 }}
                 </td>
                 <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
                   {{ $student->category->category }}

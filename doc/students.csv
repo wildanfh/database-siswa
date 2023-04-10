@@ -1,0 +1,813 @@
+id;category_id;group_id;entry_year_id;nisn;nis;nik;no_akta;nama_siswa;panggilan;jenis_kelamin;tpa;tempat_lahir;tanggal_lahir;nama_ayah;pekerjaan_ayah;nama_ibu;pekerjaan_ibu;alamat;alamat_domisili
+1;2;9;3;;03.2022.1615;;;Abyan Maulana Al Farisy;;Laki-laki;;Gresik; 23 Maret 2016;Hari priyatno;Wiraswasta;Yuni astutik;Wiraswasta;Jl. Karang rejo timur 1a no 6 surabaya;Jl. Karang rejo timur 1b no 5
+2;2;9;3;;03.2022.1617;;;Afif Fadin Alvaro;;Laki-laki;;Surabaya; 17 Agustus 2015;Aliman;wiraswasta;Nanik Puspita Rini;ibu rumah tangga;Desa Ringinrejo RT 01/RW 01 Wates Blitar;
+3;2;9;3;;03.2022.1619;;;Ahmad Firza Ismail;;Laki-laki;;Surabaya; 16 Maret 2015;RIAN RAMDANI;DOKTER HEWAN;FINNU IMAMAH;IBU RUMAH TANGGA;Jl Menanggal III no 20 N Surabaya;JL. KEBONSARI LVK VII NO. 37 
+4;2;9;3;;03.2022.1622;;;Ahmad Sa'dan Hayat;;Laki-laki;;Surabaya; 03 Februari 2016;Suryanto;Swasta;Ninik Sri Wahyuni;Ibu rumah tangga;ketintang barat  III no 71;
+5;2;9;3;;03.2022.1629;;;DARREN ELVANO PUTRA KIANU;;Laki-laki;;Surabaya; 13 April 2015;RIZKY SENA FACHROMI;DIGITAL CONSULTANT;ULFA ASANI;FINANCE;KARANGREJO VI / 117 K;
+6;2;9;3;;03.2022.1630;;;El-Zafran Muhammad Kiano Arifin;;Laki-laki;;Surabaya; 19 Mei 2015;Zainal Arifin;Karyawan Swasta;Triyas Dewi Kurniawati;Karyawan swasta;JL. Jemur Wonosari IV/06;Jl. Jambangan No. 101
+7;2;9;3;;03.2022.1631;;;Emir Abdurrahman Hafizh;;Laki-laki;;Surabaya; 03 Juni 2015;Yan Putra Timur;Wiraswasta;Dyah Permata Sari;Dosen;Royal Ketintang Regency E-2 Surabaya;
+8;2;9;3;;03.2022.1632;;;Falah Assahib Rahmat ;;Laki-laki;;Surabaya; 18 Januari 2016;Rahmat Sholihin ;Swasta;Reny Hendriyani ;Perawat ;Pulosari 3H no 8 sby;
+9;2;9;3;;03.2022.1634;;;Gamma Jauhari Ilman;;Laki-laki;;Sidoarjo; 10 Maret 2016;Slamet Budiprayitno, ST, MT;Dosen;Hafidah Khoiriah, ST;Ibu Rumah Tangga;Wonokromo SS no 2C Surabaya;
+10;2;9;3;;03.2022.1635;;;HAFIDH AGAM AL KHALIFI;;Laki-laki;;Surabaya; 31 Januari 2016;SUTRISNO;SWASTA;HENNY RACHMAWATI;Guru SD;KETINTANG BARU XVI / 25 SURABAYA;
+11;2;9;3;;03.2022.1636;;;Helmi Yaqdhan Harto;;Laki-laki;;Surabaya; 16 Januari 2015;HARTO BAWONO;PEGAWAI SWASTA;EVA MUSDALIFAH;IBU RUMAH TANGGA;Jambangan Baru Selatan No 5 Surabaya;
+12;2;9;3;;03.2022.1637;;;M. Zulfan Tsany Abbasy;;Laki-laki;;Surabaya; 16 Mei 2015;Marjiono;Swasta;Liliya Fitrotin Nadhifa;Mengurus Rumah Tangga;Tempel Sukorejo 5/10A;Tempel sukorejo Gg I no 65 Surabaya
+13;2;9;3;;03.2022.1644;;;Muhammad Fa'al dzakir khafadi;;Laki-laki;;Surabaya; 16 Oktober 2015;Zainuddin;Wiraswasta ;Nazirotus Sa’adah;-;Jalan Jojoran III Nomer 52 A Surabaya;
+14;2;9;3;;03.2022.1646;;;Muhammad Fatih Syarifuddin Chalief;;Laki-laki;;Surabaya; 05 Juni 2016;Andi Rahmadiansah;Dosen ITS;Siti Chotijah;;Ketintang Regency Tahap l no. 9 Surabaya;
+15;2;9;3;;03.2022.1648;;;Muhammad Mirza Al Faqih Pradhipta;;Laki-laki;;Surabaya; 14 Mei 2015;Danar Syahrial Pradhipta,S.ST;Swasta;Dinar Fitrah Sari Sholihah,AMD.AK;Analis Kesehatan;Jagir sidoresmo IV no 31 Surabaya;
+16;2;9;3;;03.2022.1651;;;Muhammad Shalahuddin Al-Ayyubi;;Laki-laki;;Surabaya; 12 Mei 2015;Lukman Hakim;Wiraswasta;Noor Aisah;ibu rumah tangga;Wonokromo SS Baru 28 RT 5/RW 5,Wonokromo,Surabaya,60243;
+17;2;9;3;;03.2022.1653;;;Muhammad Umar Al Fatih ;;Laki-laki;;Surabaya; 03 Juni 2016;Muchammad Yusuf;;;;Deles 4 No. 18 B Surabaya ;
+18;2;9;3;;03.2022.1654;;;Muhammad Ziyad Al Fatih;;Laki-laki;;Surabaya; 22 Agustus 2015;Subhi Zahir;Aparatur Sipil Negara;Devy Chrisdewanthy;BUMN;Simpang Darmo Pemai Selatan 2/39 Surabaya;Royal Ketintang Regency Blok D-08
+19;2;9;3;;03.2022.1655;;;MUKHAMMAD MAHBUBI;;Laki-laki;;Surabaya; 24 Desember 2014;Muhammad Arifin;swasta;Siti Rohmah;ibu rumah tangga;KEDONDONG KIDUL 1/35;
+20;2;9;3;;03.2022.1656;;;Naufal Afkar Makarim;;Laki-laki;;Surabaya; 12 Maret 2016;Didi Badri;PNS;Sulis Setiyowati;PNS;Karah Agung Regency B-11;
+21;2;9;3;;03.2022.1657;;;Panglima Abror Harahap;;Laki-laki;;Surabaya; 01 September 2015;Billy Ramaulud Harahap;Pegawai Swasta;Novita Dwi Rahayu;Ibu Rumah Tangga;Jl. Wisma Menanggal 4 / 19, Gayungan - Surabaya (60234);Puri Taman Asri C-16
+22;2;9;3;;03.2022.1659;;;Rafif Azka Affandy;;Laki-laki;;Surabaya; 25 Mei 2015;Ragil Yudha Affandi;Wiraswasta;Evi Dwi Putri Nuryani;ibu rumah tangga;Gunung Sari Indah blok GG no 29;
+23;2;9;3;;03.2022.1660;;;Rafif Ramadhan Kusuma;;Laki-laki;;Malang; 11 Juli 2015;Adi Kusuma;Pegawai BUMN;Nurul Indawati;Dosen;Jl. Terusan Wijaya Kusuma Atas no.5 Malang;Jl. Mawar no. AK 19A
+24;2;9;3;;03.2022.1662;;;Salman Mukti Akbar;;Laki-laki;;Surabaya; 16 Juli 2015;Djoko Santoso;Swasta;Woro Widyaningtyas;BUMD;"Jalan Ketintang Selatan II no 35, RT.02 RW.09, 
+Kelurahan Karah, Kecamatan Jambangan, Kota Surabaya";"Jalan Ketintang Selatan II no 35, RT.02 RW.09, 
+Kelurahan Karah, Kecamatan Jambangan, Kota Surabaya"
+25;2;13;3;;03.2022.1616;;;ABYANTARA FAYYADH RAFFASYA;;Laki-laki;;Surabaya; 12 Desember 2015;RIDHO YANUAR DWI PRIMAYUDHA;KARYAWAN SWASTA;BINGAH JAYANTI;KARYAWAN SWASTA;Surabaya, 12 Desember 2015;JL. KETINTANG II NO. 2C RT 03 RW 01 WONOKROMO SURABAYA
+26;2;13;3;;03.2022.1618;;;Ahmad Farih Dawam Abu Nawal;;Laki-laki;;Sidoarjo; 12 Mei 2015;Mustofa Khoiri ;Guru ;Ririn Herlinawati;Ibu rumah tangga;Sidoarjo, 12 Mei 2015;Kapas Baru 11 No 3 Surabaya
+27;2;13;3;;03.2022.1620;;;AHMAD HUMAIDY ABDURROHMAN;;Laki-laki;;Surabaya; 10 April 2015;Abdurrohman;Swasta;Nurul hidayati;Ibu rumah tangga;Surabaya, 10 April 2015;WONOREJO IV NO 63 surabaya
+28;2;13;3;;03.2022.1621;;;Ahmad Kevin Safiq kamaluddin;;Laki-laki;;Kediri; 20 Juni 2015;Suryadi;wiraswasta;Sumiati;ibu rumah tangga;Kediri, 20 Juni 2015;"Dsn.gunung butak
+RT/RW : 008/006
+Desa/kelurahan :Bulusari
+Kecamatan: Tarikan
+Kabupaten/kota : Kediri
+Kode pos: 64152
+Provinsi : Jawa timur"
+29;2;13;3;;03.2022.1623;;;Ahmad Zainun  Nuha Abu Rifqy;;Laki-laki;;Surabaya; 15 Nopember 2015;Muhamad Sholeh, M.Pd.;Dosen ;dr. Mery Susantri, Sp.A;Dokter;Surabaya, 15 Nopember 2015;Jl.Bungah Teratai 74 Benjeng, Gresik
+30;2;13;3;;03.2022.1624;;;Airlangga Abhinara Basuki;;Laki-laki;;Surabaya; 05 April 2015;RIZKI YUNANTHA BASUKI (ALM);PNS;ANITA RAHAYU;GURU TK;Surabaya, 05 April 2015;ASPOL KETINTANG Blok M-11 Surabaya
+31;2;13;3;;03.2022.1625;;;Alzam ghifary;;Laki-laki;;Surabaya; 30 Juli 2015;Arif rochman novianto;Swasta;Fradita afifa rizkia;Ibu rumah tangga;Surabaya, 30 Juli 2015;Jl Karangrejo 6/111
+32;2;13;3;;03.2022.1626;;;Arthareza Melvin Siswanto;;Laki-laki;;Surabaya; 09 Februari 2016;Edi Siswanto;wiraswasta;Purwati;wiraswasta;Surabaya, 09 Februari 2016;Ketintang Baru XVI/21
+33;2;13;3;;03.2022.1627;;;ATHAR ZAFRAN HAMIZAN;;Laki-laki;;Surabaya; 09 Desember 2015;ANDRE BASTIAN;SWASTA;EMILLIA RIZKYANSYAH;IBU RUMAH TANGGA;Surabaya, 09 Desember 2015;JL KARAH 158 C SURABAYA
+34;2;13;3;;03.2022.1628;;;Batara Respati Luhung;;Laki-laki;;Surabaya; 01 Agustus 2015;Rewijian Gayuh Wisudana;Swasta;Febrina Rizky;Ibu rumah tangga;Surabaya, 01 Agustus 2015;Jl Kebonsari LVK VII/39 Surabaya
+35;2;13;3;;03.2022.1633;;;Faza Farhan Ahnaf;;Laki-laki;;Surabaya; 29 Juni 2016;Abdul Fatah, S.H.,M.H. (Almarhum);;Finda Fauziah, S.H.,M.Kn.;Karyawan Swasta;Surabaya, 29 Juni 2016;Menanggal V/6 Surabaya
+36;2;13;3;;03.2022.1638;;;MAZAYA SYAKHSHY ABDI GHANI;;Laki-laki;;Surabaya; 13 Januari 2015;MANSHUR GHANI SANUSI;SWASTA;DESI SUSILAWATI;;Surabaya, 13 Januari 2015;JL. SAWUNGGALING III JEMUNDO, TAMAN, SIDOARJO
+37;2;13;3;;03.2022.1639;;;MOCHAMMAD ABDILAH RAMADHAN;;Laki-laki;;Surabaya; 15 Juni 2015;Mustafa Risal ;swasta ;Nur Aini Fatmawati,S.Psi;swasta;Surabaya, 15 Juni 2015;KETINTANG BARU XIII NO 14 SURABAYA
+38;2;13;3;;03.2022.1640;;;Muhammad Al Fatih Rizki Ramadhan;;Laki-laki;;Surabaya; 22 Juni 2016;Felli Lamono;Guru;Yuli Astutik;Ibu Rumah Tangga;Surabaya, 22 Juni 2016;"Simomulyo Baru 4C No. 3
+"
+39;2;13;3;;03.2022.1641;;;Muhammad Alghozali farzana utomo;;Laki-laki;;Surabaya; 04 Maret 2016;Rachmat agus budi utomo;Mitra Gojek;Nurul huda agustina;Ibu rumah tangga;Surabaya, 04 Maret 2016;Jl margorejo masjid no 3E, Surabaya
+40;2;13;3;;03.2022.1642;;;Muhammad Arsenio Multazam Putra;;Laki-laki;;Surabaya; 26 April 2016;tri maryono SH;swasta;nur hidayatiningsih;swasta;Surabaya, 26 April 2016;Jl.Wonokromo SS Baru VI/20
+41;2;13;3;;03.2022.1643;;;MUHAMMAD DZAKY MAULANA;;Laki-laki;;Surabaya; 19 Januari 2016;MOCHAMAD HAINUM MUNDIR;PNS;NISHA DHARMAYANTI RINARTO;DOSEN;Surabaya, 19 Januari 2016;KEMILAU GRIYAKU REGENCY BLOK C NO 31, RT 04/RW 03, KEL. BALASKLUMPRIK, KEC. WIYUNG, KOTA SURABAYA.
+42;2;13;3;;03.2022.1645;;;Muhammad Fatih Alkhaliffi;;Laki-laki;;Surabaya; 18 Mei 2016;Eko Prasetiawan;Pedagang;Choirunnisa;Ibu rumah tangga;Surabaya, 18 Mei 2016;Jalan Tandes Lor 3 no 2
+43;2;13;3;;03.2022.1647;;;Muhammad Ibra Ghaisan Arafi;;Laki-laki;;Surabaya; 18 Agustus 2015;Yoga rehatna wuri;Swasta;Alifia Rachmawati;Swasta;Surabaya, 18 Agustus 2015;Ketintang Baru 15/24A RT3/RW 3,
+44;2;13;3;;03.2022.1649;;;Muhammad Raffardhan Calief Setiawan;;Laki-laki;;Surabaya; 15 Desember 2015;Bima Restu Setiawan;Swasta;Isnaini Hidayati;Swasta;Surabaya, 15 Desember 2015;Taman Jambangan Indah Kav 24
+45;2;13;3;;03.2022.1650;;;Muhammad Rifky Al Arkhan;;Laki-laki;;Kediri; 22 Mei 2015;Yoki Angga Prayoga;Karyawan BUMN;Irna Suselowati;Ibu Rumah Tangga;Kediri, 22 Mei 2015;Jl Dr Saharjo Gang IV C no 7 Kota Kediri
+46;2;13;3;;03.2022.1652;;;Muhammad Sultan Raihan Pradika;;Laki-laki;;Surabaya; 08 Januari 2016;Novaldy Arief Pradika S.E,M Ak;Dosen UWK;Annisa Sabrina;Ibu rumah tangga;Surabaya, 08 Januari 2016;Jl. Karah indah II blok H 23
+47;2;13;3;;03.2022.1658;;;Radjo Alby Al Ghazali;;Laki-laki;;Surabaya; 10 Januari 2016;Roni Setiawan;Wirausaha;Chichi Widiyawati;Ibu rumah tangga;Surabaya, 10 Januari 2016;Jl.Kupang Panjaan VII/18
+48;2;13;3;;03.2022.1661;;;Sabit Senna Indrajit;;Laki-laki;;Surabaya; 12 Nopember 2015;Induk Indrajit;Swasta;Amanda Editasia;Irt;Surabaya, 12 November 2015;Dukuh kramat 1A no.19 Surabaya
+49;2;14;3;;03.2022.1663;;;Adeefa maheera Dzati Izzah;;Perempuan;;Surabaya; 29 April 2015;SUKIRAN;PELAUT;PUJI HASTUTI;DOSEN;Perumahan Bendul Merisi Jalan Bendul Merisi Besar No. 47 Surabaya;
+50;2;14;3;;03.2022.1664;;;Afifah Ainur Rachma ;;Perempuan;;Surabaya; 11 Oktober 2015;FAISOL;WIRASWASTA;FII ISYATIN RODIYAH;WIRASWASTA;Jl. Wonorejo 4/95 Rt/Rw. 005/006  Kelurahan Wonorejo Kecamatan Tegalsari kota Surabaya Jawa Timur;Jl Wonorejo 4/95D
+51;2;14;3;;03.2022.1666;;;Aisya Azzahra;;Perempuan;;Sidoarjo; 26 Mei 2016;Moch. Choliq;Swasta ;Mei Hariyati;Guru ;Pagesangan 4/101 .Surabaya;Jl Sepanjang Asri blok H no 10
+52;2;14;3;;03.2022.1667;;;Alesha naila putri ramadhani;;Perempuan;;Sidoarjo; 16 Juni 2016;Budi Setyo Wiratmo;Wiraswasta;Kurnia Aviati;Dokter Umum;Kramat jegu rt 006 rw 001, kecamatan Taman, kabupaten Sidoarjo;Perum Jade Sidorejo Blok L-24
+53;2;14;3;;03.2022.1668;;;ALILA QONITA DINILLAH;;Perempuan;;Surabaya; 06 Januari 2016;Mohammad Syahri;SWASTA;Listyyo Rukiyatiningsih;guru MTS;KARAH V NO 47B;-
+54;2;14;3;;03.2022.1671;;;Atika Zahra Ratifa;;Perempuan;;Surabaya; 08 Februari 2015;Nurhayati;;;;Kalikepiting Jaya IV no 4 Surabaya;
+55;2;14;3;;03.2022.1673;;;Azkadina Sausany Zubaidah;;Perempuan;;Surabaya; 26 April 2016;Ponco Sri Ariyanto;Swasta;Erna Widiyastuti;IRT;JL.permata jambangan no.34;
+56;2;14;3;;03.2022.1675;;;Azzelea Khanza Putri Handoko;;Perempuan;;Surabaya; 14 Oktober 2015;johan Handoko;SWASTA;Tri Indarwati;Guru;Pagesangan 4 kencana 2 no. 3 Surabaya;-
+57;2;14;3;;03.2022.1677;;;Edelweis Anuja Athalia Kusuma;;Perempuan;;Surabaya; 17 Nopember 2014;Silvi firdausy carolina;Wiraswasta;Novandri cahya kusuma ;;Jalan ketintang no177 wonokromo surabaya;
+58;2;14;3;;03.2022.1681;;;Hasna Kayyisa Mulia;;Perempuan;;Surabaya; 21 Agustus 2015;Mulyono;TUKANG CETAK;NADIA TITISARI;IRT;Karang Rejo 10/40 Wonokromo Surabaya;
+59;2;14;3;;03.2022.1682;;;Inara Syauqiya Karran;;Perempuan;;Madiun; 01 Oktober 2015;M Arif Koerniawan,S.H;PNS;Tituk Yuliati,S.H;PNS;Perum Merak Indah Jl.Elang V No.11 Mangunharjo, Madiun;Ketintang Barat I no 47 C Surabaya
+60;2;14;3;;03.2022.1685;;;Kayyisah Clara Aqeela Sujatmiko;;Perempuan;;Surabaya; 27 Oktober 2015;Heri Bintoro Sujatmiko;TNI AL;Candra Novita Dewi;TNI AL;Jalan Pagesangan Timur VI no 11 RT 2/RW 2 ;
+61;2;14;3;;03.2022.1686;;;Khansa Adelia Naifah Putri;;Perempuan;;Surabaya; 04 Nopember 2015;AGUS DWI SUNANDAR;Wiraswasta;YUNI WULANDARI;Ibu rumah tangga;Kutisari selatan 1 no 9 c;Sepanjang Indah Babakan XII no 37 A
+62;2;14;3;;03.2022.1687;;;Khumaira Aliyya Putri;;Perempuan;;Surabaya; 19 Januari 2016;Freddy Hendrawan;-;Lina;ibu rumah tangga;Wonorejo 2/6 A-1 Surabaya;Wonorejo 2/6 A-1 Surabaya
+63;2;14;3;;03.2022.1688;;;Kirana Aninditia Mariza;;Perempuan;;Sidoarjo; 06 Maret 2016;Rudi Yuniar Purnomo;Swasta;Ustantia Pratiwi Putri;Mengurus Rumah Tangga;Banyu Urip Kidul Gg VI/27;Banyu Urip Kidul Gg. VI No. 27
+64;2;14;3;;03.2022.1690;;;Maisyaa Azzalia Muzakki;;Perempuan;;Surabaya; 17 Agustus 2015;Shinta Putriandhini;;;;Jl. Cipta Menanggal 01 Blok 03D;
+65;2;14;3;;03.2022.1692;;;Mei Rosalina Maria Deva;;Perempuan;;Malang; 17 Mei 2015;Mariono;SWASTA;Siti Maimunah;ibu rumah tangga;Sukorejo RT049,RW 010,Tumpakrejo Gedangan;JL Ketintang No 11 Surabaya
+66;2;14;3;;03.2022.1693;;;Mikhayla Adreena Shareen;;Perempuan;;Surabaya; 05 Juli 2016;Putra Alistya Pratama;Swasta;Siti Kemala Andam Sari;Swasta;Jl. Karah 47 E, RT 06 / RW 06, Kel. Karah, Kec. Jambangan, Kota Surabaya;Jl. Karah 47E
+67;2;14;3;;03.2022.1698;;;Nur Izza Aulia Rahmani;;Perempuan;;Sidoarjo; 26 Nopember 2015;Mochamad Choirul Hudah;Karyawan Swasta;Titik Utami;Ibu Rumah Tangga;Medokan GG. 2/21;Jl. Puri Jambangan Baru III / E No. 9
+68;2;14;3;;03.2022.1700;;;Qorir Abawaeni Umi Aun;;Perempuan;;Surabaya; 12 April 2016;Khusaini Al Mubaraq;Guru;Siti Wulandari;Guru;Jl.Jarak RT 1 RW 1 Jarak Kulon, Jogoroto, Jombang;Jl.Balas Klumprik 12       
+69;2;14;3;;03.2022.1704;;;Riveira Afsheen Myesha;;Perempuan;;Surabaya; 19 Agustus 2015;Bibit Sutaji;Operator XXI;Eka Hapsari Hari Apriliyanti;Ibu Rumah Tangga;Gayungan 8 Gg Anggrek no 14 Surabaya;
+70;2;14;3;;03.2022.1706;;;Silvatul Badi'ah;;Perempuan;;Surabaya; 10 Oktober 2015;Ayu aresta ;;;;Jln karangrejo VI no 111; - 
+71;2;14;3;;03.2022.1707;;;Unaisah Rosyada Ummi Hafshin;;Perempuan;;Surabaya; 21 Februari 2016;Mochammad Baidowi;guru;Aisatus sakdiyah;Ibu rumah tangga;Kapas Baru Gg VII no 87 surabaya;Kapas baru 6 no 98
+72;2;19;3;;03.2022.1665;;;Afiqah Azzahra;;Perempuan;;Sidoarjo; 03 September 2015;Sigit Mudzakir;wiraswasta;Tri Trisnaningsih;Ibu rumah tangga;Siwalankerto Utara 25-B;Jetis Kulon I no 1
+73;2;19;3;;03.2022.1669;;;ALYA DEWINA MEUTIA MARYAM;;Perempuan;;Surabaya; 01 April 2016;KRISDIAN MARTA FITRI ENGLANDO, AMD. LLAJ, ST, MT;PNS;MEI EKA DAMAYANTI, ST;PTT ;PERUM WESTERN VILLAGE BLOK C1 NO. 12 RT005 RW004 KEL. SEMEMI KEC. BENOWO KOTA SURABAYA;PERUM KETINTANG RESIDENCE KAV.63 
+74;2;19;3;;03.2022.1670;;;Annaila Widyadhana Palupiadi ;;Perempuan;;Surabaya; 17 Mei 2016;Supriyadi ;Swasta ;Rina palupi;Swasta ;"Jl.merbabu 
+Kacangan kandangan kediri";"Jl.sepanjang indah 1 no.1 
+"
+75;2;19;3;;03.2022.1672;;;Azizaty Qunaita Layaly;;Perempuan;;Surabaya; 29 September 2015;abdul Hakam;-;Kholilah;ibu rumah tangga;Ketintang Baru GG 17 no 26 Surabaya;Ketintang Baru GG 17 no 26 Surabaya
+76;2;19;3;;03.2022.1674;;;AZZAHRA RAFANDA HARINI;;Perempuan;;Sidoarjo; 09 September 2015;IMAM MASRUKHI;POLRI;ENDAH SULISTYO HARINI;Ibu Rumah Tangga (IRT);Aspol Ketintang Blok C-2 Kota Surabaya;
+77;2;19;3;;03.2022.1676;;;Dafitha nissa Arsyfa;;Perempuan;;Palangka Raya; 01 Mei 2015;MOCHAMMAD FADLULLAH;POLRI;DEVI PERMANASARI;;Jl kencana 2 No 23 Palangka Raya;Jl karah tama asri II
+78;2;19;3;;03.2022.1678;;;FATIMAH CAHAYA PUTRI JAUHARI;;Perempuan;;Banyuwangi; 23 Oktober 2015;MUHAMAD YUSDI JAUHARI;TNI AL;YULITA ANDISTIE;POLRI;KETINTANG BARU GG 14 NO. 15;Ketintang baru gg 14 no.7
+79;2;19;3;;03.2022.1679;;;Fatimah Shakila Khairina;;Perempuan;;Surabaya; 17 Desember 2015;Bramasto Bayu Nugroho;PNS;Umi kulsum ;Ibu rumah tangga;Palm Residence A 40;PALM RESIDENCE A40
+80;2;19;3;;03.2022.1680;;;Hanum mahya khalifa;;Perempuan;;Bojonegoro; 02 Agustus 2015;Muamar zainul arif;Dosen ;Amrina hidayatur rohmah;Guru;RT 005/ RW 001 DESA SIDOMULYO KECAMATAN MODO KABUPATEN LAMONGAN;Jambangan 3c/14 surabaya
+81;2;19;3;;03.2022.1683;;;Jennahara Jahanara Innara Prasetyo;;Perempuan;;Surabaya; 24 Maret 2016;Aribowo Prasetyo;Karyawan Swasta;Lusy Andriani;Ibu Rumah Tangga;Jalan Karangan No. 268A Surabaya;Jl. Karangan No. 262 Surabaya
+82;2;19;3;;03.2022.1684;;;Kayas Alula Shakila;;Perempuan;;Tangerang Selatan; 18 Februari 2016;GANJAR SAEFUNAZAR;PNS;ARIE SYLVIANA ROJAK;IBU RUMAH TANGGA;Ciaul Jl. Samsi No. 15 RT. 02 RW.16. Kota Sukabumi, Jawa Barat;Komplek Bea Cukai Injoko B/29, Jl Gayung Kebonsari
+83;2;19;3;;03.2022.1689;;;kuuniy Akhiroh Safiran;;Perempuan;;Surabaya; 12 Februari 2015;Faisol;;;;Kedondong Kidul 3/25 Surabaya;
+84;2;19;3;;03.2022.1691;;;Malika Dzat El Izzaty;;Perempuan;;Gresik; 22 Oktober 2015;Bustami Hazim;wiraswasta;Masrurah;Ibu rumah tangga;Dsn. Lebak - Kebunagung Sangkapura Gresik;Jl. Pagesangan  Baru II no 18
+85;2;19;3;;03.2022.1694;;;Mikhayla Azzahra Antari Raditya;;Perempuan;;Surabaya; 04 September 2015;RIZAL ADHITYA;KARYAWAN;FENNI RACHMAWATI;KARYAWAN;Kampung Malang Kulon 1 No. 38 Surabaya;
+86;2;19;3;;03.2022.1695;;;Nada Aira Syifa;;Perempuan;;Surabaya; 14 Juni 2016;Aidil Primasetya Armin, S.ST, M.T;Dosen;Nora Puspitasyari, S.ST;Tidak ada;Jalan Ketintang Barat 1 No. 16 Surabaya;
+87;2;19;3;;03.2022.1696;;;Naja Diyanati Ummi Khadijah;;Perempuan;;Surabaya; 13 April 2016;Bahtiar Hayat Suhesta, S. Com;Konsultan IT;Farida Megalini, dr;Dokter;Wonorungkut Utara 2/14, kel. Wonorejo, kec. Rungkut, Surabaya;
+88;2;19;3;;03.2022.1697;;;Natasha Anindita Yulianto;;Perempuan;;Surabaya; 24 Oktober 2015;Edi Yulanto;Staff Tata Usaha ;Sri Rejeki, S.Pd;Guru;Jln. Karangrejo 8/23A Wonokromo;Jln. Karangrejo 8/23A Wonokromo
+89;2;19;3;;03.2022.1699;;;Qonitah Ratifa Taqiyyah;;Perempuan;;Surabaya; 11 Oktober 2015;Dodiastyo Hutomo, SE;Swasta;Indah Anggun Kurniawati, S. Psi;Ibu Rumah Tangga;Simo Rukun 5 No. 1F Surabaya;Kedurus II no. 60A Surabaya 
+90;2;19;3;;03.2022.1701;;;Queenaya Keisha Adiba;;Perempuan;;Surabaya; 31 Maret 2015;Farid Soemartono;PNS;Sofiyanah Dwi Damayanti;Ibu rumah tangga;Pacarkembang 2 no. 102 surabaya;Taman Jambangan Indah II kav 9 
+91;2;19;3;;03.2022.1702;;;Ranny Safta Ramadhani;;Perempuan;;Surabaya; 03 Juli 2015;M Bernado Saptono,ST;Swasta;Choirum Maani,S.Kep.,Ns;Perawat;Jl.Ketintang baru VIII/11;Jl.Ketintang Baru XI no 15
+92;2;19;3;;03.2022.1703;;;Rike Kayyisa Rasyeda;;Perempuan;;Lamongan; 30 Januari 2016;Agus Prihanto;Dosen;Cicik Herlina Yulianti;Dosen;Ketintang Barat Indah Kav 22, Kelurahan Ketintang, Kecamatan Gayungan, Kota Surabaya, Jawa Tiimur;
+93;2;19;3;;03.2022.1705;;;SHAQILA ANINDRA DZAKIRA;;Perempuan;;Surabaya; 16 Agustus 2015;MUHAMMAD HENDRA HERDIANTO;PNS;ZANIAR ROSALIA RIZKI;BUMN;JL. WIGUNA I NO 16 SURABAYA;ROYAL PAKA RESIDENCE BLOK E NO 1 SURABAYA
+94;2;20;4;0157510389;03.2021.1517;;;Ahmad Arsyil Faradyis;;Laki-laki;;Sumenep; 20 Mei 2015;Yuwono Widyatmoko;PEGAWAI NEGERI SIPIL(PNS);Ulfah Abqari;KARYAWAN HONORER;Jl. Ketintang Barat III No.2;KK Luar kota
+95;2;20;4;3149375084;03.2021.1518;;;Althaf Daffandra Al Ihsani;;Laki-laki;;Jakarta; 04 Agustus 2014;IHSAN TRI PURWANTO;BURUH HARIAN LEPAS;SUHERNI;MENGURUS RUMAH TANGGA;Karangrejo sawah V no. 6;
+96;2;20;4;0143961281;03.2021.1519;;;Alvaro Rafael Hakim;;Laki-laki;;Surabaya; 20 Desember 2014;Mochammad Lukmanul Hakim;KARYAWAN HONORER;Lilik Fatmawati, S. Psi;WIRASWASTA;Jl. Kebonsari No. 35;
+97;2;20;4;0145610812;03.2021.1520;;;Andra Moissani Manggala Arifin;;Laki-laki;;Surabaya; 30 Juli 2014;Samsul Arifin;KEPOLISIAN RI (POLRI);Oktaviana Fridamukti S.Pd;KARYAWAN SWASTA;Jl Karah IV No 72;
+98;2;20;4;0147157411;03.2021.1521;;;Aydin Ziyadillah Akhtar;;Laki-laki;;Surabaya; 18 Juni 2014;SUSILO;PEGAWAI NEGERI SIPIL(PNS);LAILY ROSDIANA;DOSEN;Ketintang Barat I/29;
+99;2;20;4;3147371837;03.2021.1522;;;Azkandra Emir Prawira;;Laki-laki;;Surabaya; 09 Juli 2014;Pandu Prawira Dwi Saputra;KARYAWAN SWASTA;Puspasari Susanti;KARYAWAN SWASTA;Ketintang Selatan VIII/BB-08;
+100;2;20;4;0141968320;03.2021.1523;;;Dirga Abidzar Saputra;;Laki-laki;;Surabaya; 06 Juni 2014;Dhani Kurniawan Dharta Saputra SE;KARYAWAN SWASTA;Dessy Kusuma Wardhani SE MA;PEGAWAI NEGERI SIPIL(PNS);Jl. Karangan V/35a;
+101;2;20;4;0149477819;03.2021.1524;;;FAKHRI ZHAFRAN ABRISAM;;Laki-laki;;Sidoarjo; 12 Oktober 2014;Khoirul Anwar;KARYAWAN SWASTA;Erlina Zulfaida;BIDAN;Bebekan Tengah no 19 Sidoarjo;
+102;2;20;4;0143117879;03.2021.1525;;;Muhammad Al Zafran Pratama;;Laki-laki;;Sidoarjo; 16 Maret 2014;Susanto;KARYAWAN SWASTA;Diah Mustika Perwita;KARYAWAN SWASTA;Karah V no 52;
+103;2;20;4;0141558885;03.2021.1526;;;Muhammad Fauzan Kamil;;Laki-laki;;Surabaya; 24 Mei 2014;Moch. Djunaidi;WIRASWASTA;Ira Iryani Hafsyah;PEGAWAI NEGERI SIPIL(PNS);Jl Jetis Baru I/58 Surabaya;
+104;2;20;4;0156095392;03.2021.1527;;;Muhammad fawwaz al fatih;;Laki-laki;;Surabaya; 21 Maret 2015;Muhammad Yusuf Wibisono, S.H., M.H.;KARYAWAN SWASTA;Tyagita Ayuningtyas, S.H., S.Pd;GURU;Ketintang permai Blok BF/No.7 Surabaya;
+105;2;20;4;0148344141;03.2021.1528;;;Muhammad Rafardhan Dhyaulhaq;;Laki-laki;;Lamongan; 08 Mei 2014;Arya Kemal Pratama Putra;KARYAWAN SWASTA;Pretty Ullyah Pristyaningrum;MENGURUS RUMAH TANGGA;Ketintang Permai Blok AC/04;
+106;2;20;4;0146428859;03.2021.1529;;;MUHAMMAD RAFFIE;;Laki-laki;;Surabaya; 23 September 2014;Moko Mujianto;KARYAWAN SWASTA;Agustina;KARYAWAN SWASTA;Jl. Jemurgayungan I No. 99;
+107;2;20;4;0148702215;03.2021.1530;;;Muhammad Ridho;;Laki-laki;;Surabaya; 14 Mei 2014;Semianto;KARYAWAN SWASTA;Ismuliawati;MENGURUS RUMAH TANGGA;Dk.Gemol 1B no 01;
+108;2;20;4;0141516373;03.2021.1531;;;MUHAMMAD THORIQUL HAQ ASHARIS;;Laki-laki;;Probolinggo; 12 November 2014;M. Asharis;KARYAWAN SWASTA;Siti Aminah;KARYAWAN SWASTA;Manyar Kartika VIII/8;
+109;2;20;4;0148894818;03.2021.1532;;;Muhammad Zafran Taufiqillah;;Laki-laki;;Tulungagung; 21 Agustus 2014;Didud Kurniawan;PEGAWAI NEGERI SIPIL(PNS);Amalia;MENGURUS RUMAH TANGGA;Perum bea cukai injoko B-11;
+110;2;20;4;0148517635;03.2021.1533;;;Muhammad Zhafran Cello Alfariza;;Laki-laki;;Surabaya; 16 Oktober 2014;Febrianto Bagus Pratama;KARYAWAN SWASTA;Imma Maulida;MENGURUS RUMAH TANGGA;Ketintang Barat 3 no.77;
+111;2;20;4;0149454078;03.2021.1534;;;RAFA AUFA ATHALLAH BAKHTIAR;;Laki-laki;;Surabaya; 28 Juni 2014;Andy Bakhtiar Akhmad;KARYAWAN SWASTA;Yuyun Ayna Yaqin;MENGURUS RUMAH TANGGA;PERUMAHAN ROYAL KETINTAMG REGENCY BLOK 5/ F-22;Mutasi Belum diurus
+112;2;20;4;0141967342;03.2021.1535;;;Rasya Abbasy Mukhtaram;;Laki-laki;;Bekasi; 15 Agustus 2014;Taufan Aditya Perdana;PEGAWAI NEGERI SIPIL(PNS);Henni Tri Ambarwati;MENGURUS RUMAH TANGGA;Jl. Gayung Kebonsari Blok A No. 26;KK Luar kota
+113;2;20;4;0147308805;03.2021.1536;;;Rayyan althamis asyraf darna;;Laki-laki;;Jombang; 16 November 2014;Nendy tumber dwi darna;KARYAWAN SWASTA;Chanty mega tri jayanti;KARYAWAN BUMN;Perum green garden regency kav 4;KK luar kota
+114;2;20;4;0149411661;03.2021.1537;;;Sakha Haidar Baskoro;;Laki-laki;;Surabaya; 25 September 2014;FARID BASKORO;DOSEN;Yuyun Atik Indriani;PEGAWAI NEGERI SIPIL(PNS);Jl. Ketintang Madya I Nomor 4;
+115;2;20;4;0143223976;03.2021.1538;;;Yudhistira Galang Prasetya;;Laki-laki;;Surabaya; 30 April 2014;Budi Prasetyo;KARYAWAN SWASTA;Sri Hartatik, S,Si.,M.Pd;DOSEN;Jetis Kulon gang 7 no 9 ;
+116;2;21;4;0146939117;03.2021.1539;;;Alfado Calief Athazain;;Laki-laki;;Surabaya, 28 Mei 2014;;Hamung fajar aswad;KARYAWAN BUMN;Rena Dwi Oktavia;MENGURUS RUMAH TANGGA;Ketintang gang 4 no 22 a;
+117;2;21;4;0144070868;03.2021.1540;;;Aqil Ahmad;;Laki-laki;;Banjarmasin, 16 Februari 2014;;Suryadi Sapto Nugroho Kusumo Wardono;KARYAWAN BUMN;Irmayasari;MENGURUS RUMAH TANGGA;Perum sarmada ketintang residence no.20;
+118;2;21;4;0158679517;03.2021.1541;;;Arrasya Zahrulsyam Ahmad;;Laki-laki;;Surabaya, 29 Juni 2015;;Ahmad Roni;WIRASWASTA;Sriani;KARYAWAN SWASTA;Jl. Kebonsari baru selatan 5/15;
+119;2;21;4;3140456704;03.2021.1542;;;Baihaqi Arfan Azzaki;;Laki-laki;;Surabaya, 19 Desember 2014;;Tjatur Andri Siswojo;WIRASWASTA;Eva Muzayyadah Kusuma;MENGURUS RUMAH TANGGA;Jl. Jetis Baru I/41;
+120;2;21;4;0137204201;03.2021.1543;;;Bintang Arkana Madika Alkhalifi;;Laki-laki;;Surabaya, 14 Desember 2014;;Teguh Ismanto;KARYAWAN SWASTA;Endah Prasetyaningrum;MENGURUS RUMAH TANGGA;Pakis Tirtosari 10-A/11 Surabaya;
+121;2;21;4;0149104111;03.2021.1544;;;BISMA ACHMAD ARRO'UF PUTRO WIDIYO;;Laki-laki;;Surabaya, 24 Mei 2014;;TULUS WIDIYO PUTRO;KARYAWAN SWASTA;FATWA DYIKRUL LAILA;PEGAWAI NEGERI SIPIL(PNS);KARAH AGUNG I / 36 A;
+122;2;21;4;0143586653;03.2021.1545;;;Devan Rayndra Ashari;;Laki-laki;;Surabaya, 11 Februari 2014;;Ashari;KARYAWAN SWASTA;Siti mahzumah;MENGURUS RUMAH TANGGA;Jl.ketintang gg2 no 8b ;
+123;2;21;4;0144834156;03.2021.1546;;;Emir Haidar Gibran;;Laki-laki;;Sidoarjo, 20 Juli 2014;;Slamet Budiprayitno;Dosen;Hafidah Khoiriah;MENGURUS RUMAH TANGGA;Wonokromo SS no.2-C;
+124;2;21;4;0142506394;03.2021.1547;;;FATHARIAN DAYYAN IBRAHIM;;Laki-laki;;Surabaya, 08 Desember 2014;;FAISAL IBRAHIM;KARYAWAN SWASTA;IRMA TRI ASTUTY;KARYAWAN SWASTA;JL JETIS KULON VIII NO 35 B WONOKROMO;
+125;2;21;4;0143210977;03.2021.1548;;;Gibran Ahmad Siregar;;Laki-laki;;Surabaya, 23 Oktober 2014;;Haris Kautsar Siregar;WIRASWASTA;Ana Khusnul Faizah;KARYAWAN SWASTA;Ketintang Timur PTT V no 9D Surabaya;
+126;2;21;4;0141419196;03.2021.1549;;;Harits Aditya Abrisam;;Laki-laki;;Surabaya, 18 Juni 2014;;Gurit Aditya Khrisna;KARYAWAN SWASTA;Riris Listiyaningsih;KARYAWAN SWASTA;Ketintang 4E no 45E;
+127;2;21;4;0152858335;03.2021.1550;;;Hazwan Fakhrudin Rafi;;Laki-laki;;Surabaya, 25 Maret 2015;;TIRTO SETIAWAN;WIRASWASTA;ISMATARIA HUSNA;MENGURUS RUMAH TANGGA;Jl. Menanggal 04 no 37 Surabaya;
+128;2;21;4;0157201488 ;03.2021.1551;;;M. ALWI HUSAIN;;Laki-laki;;Surabaya, 09 Februari 2015;;YUSUF HUSAIN;WIRASWASTA;Zulfi Ajeng Maritasari;WIRASWASTA;DK. GEMOL 2B/8;
+129;2;21;4;0147373950;03.2021.1552;;;MOCH. SALMAN AL FARISI;;Laki-laki;;Surabaya, 16 Oktober 2014;;ERIK SUHANTO;WIRASWASTA;ANITA ROCHMAWATI;PEGAWAI NEGERI SIPIL(PNS);ASPOL KETINTANG BLOK A8 SURABAYA;
+130;2;21;4;3141350604;03.2021.1612;;;Muhamad Altamis Sutomo;;Laki-laki;;Jakarta, 28 Maret 2014;;Petrus Agung Sutomo;TNI;Riana Yuniari;KARYAWAN SWASTA;Tamtama 16 Surabaya;
+131;2;21;4;0144338435;03.2021.1553;;;Muhammad Ardian Azzam Alrasyid;;Laki-laki;;Surabaya, 09 Desember 2014;;Agus prasetyo;KARYAWAN SWASTA;Syafitria Kumala Sari ;PEGAWAI NEGERI SIPIL(PNS);Jetis Kulon 1 Buntu No. 64 Surabaya;
+132;2;21;4;0148569767 ;03.2021.1554;;;Muhammad Azka Maulana Al Ghiffari;;Laki-laki;;Surabaya, 05 April 2014;;KHODERI;KARYAWAN SWASTA;SITI MUNAWAROH;KARYAWAN SWASTA;JL. BAMBE DUKUH MENANGGAL NO.67;
+133;2;21;4;0143473235;03.2021.1555;;;Muhammad Wildan Az Zahy;;Laki-laki;;Surakarta, 23 Agustus 2014;;Sigit Widyastanto;KARYAWAN BUMN;Denny Purnama Widyastuti;MENGURUS RUMAH TANGGA;Jl. Ketintang Baru XII No. 9 Surabaya;
+134;2;21;4;0143202587;03.2021.1556;;;Nayaka Razan Oktavian ikhsani;;Laki-laki;;Surabaya, 30 Oktober 2014;;Ikhsan Hudi;TENTARA NASIONAL INDONESIA (TNI);Aminiatun ;MENGURUS RUMAH TANGGA;Jln perwira no 217;
+135;2;21;4;3143821645;03.2021.1557;;;Nurdin Ahmad Konstruktivis Buwono Zuhri;;Laki-laki;;Sidoarjo, 08 Agustus 2014;;Nuri Maulidi;WIRASWASTA;Darwati;MENGURUS RUMAH TANGGA;Perum kedungturi permai II Blok R no 11 Sidoarjo;
+136;2;21;4;0141969266;03.2021.1558;;;Raffael fayyadi wibisono;;Laki-laki;;Surabaya, 07 Juli 2014;;Andrias wibisono;WIRASWASTA;Yeni oktafiyanita;MENGURUS RUMAH TANGGA;Jl pakis gelora gang 3 no 17;
+137;2;21;4;0149635405;03.2021.1559;;;Sholahuddin Al Ayyubi;;Laki-laki;;Surabaya, 26 September 2014;;Fahmi Rizal;KARYAWAN SWASTA;Indhri Putri ;MENGURUS RUMAH TANGGA;Wisma kedung asem indah blok O/15 Surabaya;
+138;2;22;4;3144482229;03.2021.1560;;;Aaliyah Halimahtus Sa’diyyah;;Perempuan;;Magelang, 06 Mei 2014;;Aldi Faraldi Kadis;PEGAWAI NEGERI SIPIL(PNS);Weshaka Tiksna Sharaswati;MENGURUS RUMAH TANGGA;Jl Gayung kebonsari Komplek Bea Cukai Injoko blok B12 ;
+139;2;22;4;3143015743;03.2021.1561;;;Afwa zharufa Atika wienov;;Perempuan;;Surabaya, 05 April 2014;;Novid Dwi hernawan;KARYAWAN SWASTA;Wineka Lusana rahmawati;PERAWAT;Palm raja jambangan Utara G-48;
+140;2;22;4;0142865473 ;03.2021.1562;;;Aisyah Humairoh;;Perempuan;;Palembang, 08 Januari 2014;;Mohamad Hafiz Alkaff;KARYAWAN SWASTA;Aminah Misyka;MENGURUS RUMAH TANGGA;Central Park Ahmad Yani no F 26;
+141;2;22;4;0153664849;03.2021.1563;;;Aliya Zhafirah Putri;;Perempuan;;Malang, 23 Januari 2015;;Endra Sulistiawan;KARYAWAN SWASTA;Nurul Evarani;PEGAWAI NEGERI SIPIL(PNS);Perumahan Hilda Regency Kavling 24 A ;
+142;2;22;4;0145686546;03.2021.1565;;;Annisa Sri Rahmawati;;Perempuan;;Surabaya, 06 November 2014;;DWI MAHMUD YULIYANTO;KARYAWAN SWASTA;CHILYATIZ ZAHROH;DOSEN;PERUM ITS BLOK U-202[T.KOM.1/2;
+143;2;22;4;0156954757;03.2021.1566;;;Aqila khairunnisa harahap;;Perempuan;;Tulungagung, 08 Februari 2015;;Khoirul saleh harahap;TENTARA NASIONAL INDONESIA (TNI);Siti kholifah;MENGURUS RUMAH TANGGA;Hayam Wuruk 2/5;
+144;2;22;4;0148939438;03.2021.1568;;;AYLA KHANZA SHAFIRA ;;Perempuan;;Surabaya, 18 Oktober 2014;;Muhammad Amin;WIRASWASTA;Ulfa Agustin;MENGURUS RUMAH TANGGA;WONOKROMO SS BARU 4/11-A;
+145;2;22;4;0148089444 ;03.2021.1569;;;Azzahra Syakira Putri;;Perempuan;;Ponorogo, 10 September 2014;;Afif Susilo;WIRASWASTA;Ratih Candrawati Wardani;Wiraswasta;Dukuh Podho Ponorogo;
+146;2;22;4;3151337811;03.2021.1570;;;BILQIS KHUZAIMAH MUFIDAH;;Perempuan;;Surabaya, 25 Januari 2015;;Yuli Suhandono;WIRASWASTA;Lailatul Fitriyah;MENGURUS RUMAH TANGGA;Jl. Kampung Malang Tengah 1 / 28 F;
+147;2;22;4;0147978476;03.2021.1571;;;Chelsea Alexandria;;Perempuan;;Bekasi, 29 Juli 2014;;Andi hidayat;WIRASWASTA;debbi tri rahayu;MENGURUS RUMAH TANGGA;jl.ketintang barat 1 ketintang park residence no 49 d;
+148;2;22;4;0154995057;03.2021.1572;;;Desak Kadek Alissa Ramadani;;Perempuan;;Denpasar, 10 Juli 2015;;Dewa Gede Mahendrawan,SE;KARYAWAN BUMN;Yani R Lukitasari;KARYAWAN SWASTA;Perum Royal Ketintang Regency Blok G-07;
+149;2;22;4;0152309429;03.2021.1573;;;Dewi Syarifatus Sholihah;;Perempuan;;Surabaya, 28 Februari 2015;;Rani Syukron, M.PdI;Guru;Nurus Sa'adah, S.Pd;Guru;Pulosari 3/14  Surabaya;
+150;2;22;4;3149765072;03.2021.1574;;;DHAFITHA AULIA IZZATUNNISA;;Perempuan;;Surabaya, 24 Agustus 2014;;IMAM SHONHADJI;KARYAWAN SWASTA;VIRGIANA SEPTIANI;KARYAWAN SWASTA;WONOREJO 4/3;
+151;2;22;4;0144420499;03.2021.1575;;;ELLYANA TSANIA AZHAR;;Perempuan;;Surabaya, 16 Oktober 2014;;Ahmad Mashari;;Bempi Dorana (Almh);;JL GOLF 2/102-A;
+152;2;22;4;3143402825;03.2021.1576;;;HELGA ZHAFIRA AZZAHRA;;Perempuan;;Semarang, 19 November 2014;;muhammad khoiruddin fanani;WIRASWASTA;nurul larasati arifyani;KARYAWAN BUMN;PAGESANGAN 4 KENCANA 1 NO 1 ;
+153;2;22;4;0142524896;03.2021.1577;;;Jihan Rania Zafira;;Perempuan;;Surabaya, 02 Mei 2014;;Sulthon;TENTARA NASIONAL INDONESIA (TNI);Adita albi;KARYAWAN SWASTA;Manukan Subur III BLK 16A/13 Surabaya;
+154;2;22;4;0148075989;03.2021.1578;;;Karima Haura Zuhda;;Perempuan;;Surabaya, 08 April 2014;;Didi Badri;PEGAWAI NEGERI SIPIL(PNS);Sulis Setiyowati;PEGAWAI NEGERI SIPIL(PNS);Karah Agung Regency B-11 ;
+155;2;22;4;3145554915;03.2021.1579;;;Nabila Hasna Feriansyah;;Perempuan;;Depok, 23 November 2014;;Kiki Feriansyah;KARYAWAN SWASTA;Aan Fatoni;KARYAWAN SWASTA;Jl. Karah Agung VIIA No. 4 ;
+156;2;22;4;0144654810;03.2021.1580;;;Raisya Adzra Lamia Firmansyah;;Perempuan;;Surabaya, 23 Oktober 2014;;Wahyu Firmansyah;KARYAWAN BUMN;Desy Eka Ambarsari;MENGURUS RUMAH TANGGA;Kebonsari Baru Selatan 2 no 9;
+157;2;22;4;3147880197;03.2021.1581;;;Urwatun Wutsqo Ummi fitrotin;;Perempuan;;Surabaya, 09 Agustus 2014;;M. Arif Tri Atmodjo;KARYAWAN SWASTA;Nur Aminah;Ibu Rumah Tangga;Ketintang Madya ;
+158;2;22;4;0156014106;03.2021.1582;;;Yasmin khumaira zulfaidah;;Perempuan;;Surabaya, 02 Maret 2015;;Akhmad yazidil bustomi;KARYAWAN SWASTA;Dewi noor miftachu choyum;KARYAWAN SWASTA;Jl ketintang 2 no 33;
+159;2;22;4;3141515044;03.2021.1583;;;ZAHRANIA QISYA AZZALEA;;Perempuan;;Surabaya, 04 Desember 2014;;YUDHI ENDRO CAHYONO, S.SI;KARYAWAN SWASTA;EMMI NUR ASRI, SE;MENGURUS RUMAH TANGGA;JL. DUPAK RUKUN NO.227;
+160;2;22;4;0147778346;03.2021.1584;;;Zhafira Hasna Putri;;Perempuan;;Surabaya, 12 Desember 2014;;DWI IRWANTO;KEPOLISIAN RI (POLRI);ENOK FITRIYAH;GURU;Jl Sukodono Sidoarjo;
+161;2;22;4;0156187491;03.2021.1585;;;Zida Na'ma Ummi Athiyah;;Perempuan;;Surabaya, 03 Mei 2015;;Riza Muslim;KARYAWAN SWASTA;Nur Linah;Guru;Pakis Wetan 5 No/30-D;
+162;2;23;4;0142733254 ;03.2021.1586;;;Adzkia Samha Ameera Rifai ;;Perempuan;;Surabaya, 20 September 2014;;Moch. Rifa'i;Guru;Eka Putri Noviasari;KARYAWAN SWASTA;Jolotundo Baru 1/20 A Surabaya;
+163;2;23;4;0143359893;03.2021.1587;;;Aisyah Alviena Anindita Putri;;Perempuan;;Surabaya, 03 Oktober 2014;;Hadi Setiyono, ST;Kepolisian RI;Dr. Tita Pusparini;Dokter;Ketintang Madya II/51 Surabaya;
+164;2;23;4;0149859431;03.2021.1588;;;Akifa alfarizqia ardita;;Perempuan;;Ponorogo, 18 November 2014;;Hadi Santoso;KARYAWAN SWASTA;Suparmi;MENGURUS RUMAH TANGGA;Jl Joyoboyo timur;
+165;2;23;4;0149123340;03.2021.1589;;;Almira Baligha Khoirunnisa;;Perempuan;;Surabaya, 29 November 2014;;ACHMAD TAUFIK;KARYAWAN SWASTA;YULIS WAHYUNINGTIYAS;MENGURUS RUMAH TANGGA;Jl Sidosermo II blok G No 5;
+166;2;23;4;3147984863;03.2021.1590;;;Amirah Hafidzatus Syarifah;;Perempuan;;Surabaya, 25 Juni 2014;;Abdul Rozak;WIRASWASTA;Ni'matul Azizah;MENGURUS RUMAH TANGGA;Karangrejo Timur 1/2;
+167;2;23;4;0152283169 ;03.2021.1591;;;Annida Hafizhah Zafeera;;Perempuan;;Sidoarjo, 20 Februari 2015;;NICKO HENDRAWAN SURONEGORO;KARYAWAN BUMN;IHDA RAHMAWATI HASAN;MENGURUS RUMAH TANGGA;Jl. Wisma Bungurasih I no 36 Sidoarjo;
+168;2;23;4;0148840619;03.2021.1592;;;Aqilah Shiny Mumtazah;;Perempuan;;Surabaya, 29 Januari 2014;;Donny Hernawan, S.Si;WIRASWASTA;Shindy Purnamasari, M.Si;MENGURUS RUMAH TANGGA;Wisma Lidah Kulon Blok Xb-01;
+169;2;23;4;0141160618 ;03.2021.1593;;;Aufa tahta elvaretta;;Perempuan;;Surabaya, 22 November 2014;;Suwandi;WIRASWASTA;Suraida ayunita ;MENGURUS RUMAH TANGGA;Rungkut kidul gg 3 kalimir no 13;
+170;2;23;4;3144005119;03.2021.1594;;;Aziizah Nur'ain Rahullah;;Perempuan;;Surabaya, 03 Juni 2014;;Moch Sidik Rahullah;TENTARA NASIONAL INDONESIA (TNI);dr. Fennyana Lesdyanto;DOKTER;Jl. Karangrejo VIII/ 18 Surabaya;
+171;2;23;4;3159254774;03.2021.1595;;;Bilqies Daleya Az-zahra;;Perempuan;;Surabaya, 01 Februari 2015;;Sondiwianto;WIRASWASTA;Sunaryatun;MENGURUS RUMAH TANGGA;Jl. Karangrejo Sawah 3/8;
+172;2;23;4;0149283417;03.2021.1596;;;Denissa Ayu Fitriana;;Perempuan;;Surabaya, 25 Juli 2014;;Assegaf Mukmin Billah;KARYAWAN SWASTA;Bina Siswandeni;PEGAWAI NEGERI SIPIL(PNS);karah agung 1A no. 14;
+173;2;23;4;0156490109;03.2021.1597;;;Dyandra Khanzania Tifahry;;Perempuan;;Surabaya, 25 Mei 2015;;SUGENG HARIJADI;WIRASWASTA;ENNY SUCHASTIFA;PEGAWAI NEGERI SIPIL(PNS);Jl. Ketintang barat No. 27 A;
+174;2;23;4;3143888239 ;03.2021.1598;;;Fariza Rafania Putri;;Perempuan;;Surabaya, 04 Juni 2014;;Agus Dwi Sunandar;KARYAWAN SWASTA;Yuni Wulandari;MENGURUS RUMAH TANGGA;Kutisari selatan 1/9c;
+175;2;23;4;0143421276;03.2021.1599;;;Farras Ajubah Rahmah;;Perempuan;;Surabaya, 16 Desember 2014;;Dr. Andri Widodo;-;Ratna Dewi Kusumaningrum;KARYAWAN SWASTA;Dukuh Pakis Gg Masjid No. 5;
+176;2;23;4;3149861009;03.2021.1600;;;Fatimah Adzkia Kusuma;;Perempuan;;Surabaya, 05 Januari 2014;;Galih pria kusuma;KARYAWAN SWASTA;Meirna Azizah Rokhmadiah;KARYAWAN SWASTA;Taman menanggal indah 17;
+177;2;23;4;0145408836;03.2021.1601;;;I'anah Birro Ummi Hana;;Perempuan;;Surabaya, 25 Mei 2014;;Muh. Muflich;KARYAWAN SWASTA;Silatul Ihwa;Guru;Keputran Panjunan 2/40;
+178;2;23;4;0142529582;03.2021.1602;;;Kayla anastsya putri kusuma;;Perempuan;;Madiun, 12 Juni 2014;;Nawang Kusuma;WIRASWASTA;Diyah Caturminingsih;MENGURUS RUMAH TANGGA;Jl. Ketintang 133 -J;
+179;2;23;4;3143129089;03.2021.1603;;;KEISHA NADHIFAH AZ ZAHRA;;Perempuan;;Surabaya, 31 Juli 2014;;IKO SUTRISNO;KARYAWAN SWASTA;SAYEKTI INDAH RAHAYU;KARYAWAN SWASTA;JL BIBIS KARAH NO 60B;
+180;2;23;4;0143852101;03.2021.1604;;;MEDINA KHANSA AROFAH;;Perempuan;;Surabaya, 03 Oktober 2014;;MISBACHUL MUNIR;WIRASWASTA;HALIMATUS SA'DIYAH;WIRASWASTA;KARANGREJO SAWAH XII NO.1 SURABAYA;
+181;2;23;4;0149024956;03.2021.1606;;;Naomi angelia;;Perempuan;;Malang, 22 September 2014;;Sulis wanto;KARYAWAN SWASTA;Nurul Aeni;MENGURUS RUMAH TANGGA;Ketintang Barat no 52;
+182;2;23;4;0148649768;03.2021.1607;;;NAZIYA ASMA FINNUHA UMMU ROBIHA;;Perempuan;;Jombang, 18 September 2014;;SISWO WIDODO, S.Pd;KARYAWAN SWASTA;AGUS SETYANI M, S.Pd;GURU;Balasklumprik ;
+183;2;23;4;0144451210 ;03.2021.1608;;;Oxcella Wayne Agashi Queensha;;Perempuan;;Surabaya, 09 November 2014;;Muh Wahyu Hidayat;KARYAWAN SWASTA;Heni Setyowati;MENGURUS RUMAH TANGGA;Permata Wiyung Regency KAV -57;
+184;2;23;4;0148270775;03.2021.1609;;;Quinsha Mikayla farzana;;Perempuan;;Bogor, 01 Oktober 2014;;Kamto;TENTARA NASIONAL INDONESIA (TNI);Anita;MENGURUS RUMAH TANGGA;Jl. Brawijaya no. 48A;
+185;2;23;4;3147010859;03.2021.1610;;;Tabriiz Zuanshi El-syarqieya;;Perempuan;;Surabaya, 19 November 2014;;Moh. Imron;KARYAWAN SWASTA;Nufi Wikhdatusa'biyah;KARYAWAN SWASTA;Karangrejo Sawah 3/ 32A;
+186;2;23;4;3157286992;03.2021.1611;;;Yuniar Ramadhanty;;Perempuan;;Surabaya, 19 Juni 2015;;Pujiono;Polisi;Yiyin Faudliyah, S.Pd;Guru;Jl. Gayungkebonsari Tengah No Surabaya;
+187;2;24;5;3148073039;03.2020.1397;;;Ahmad Imdad El Rahman Bahalwan;;Laki-laki;;Surabaya, 03 Maret 2014;;Jasir Bahalwan ;Karyawan Swasta;Erma Wahyuni;Ibu rumah tangga;Jl. Ketintang IV B No. 15 sby;
+188;2;24;5;0141389813;03.2020.1399;;;Arjuna Abdillah Pratama;;Laki-laki;;Surabaya, 25 Januari 20114;;Suyanto;SWASTA;Endah Dwi Arumningsih;Swasta;Jl. Ketintang No. 116 A Sby;
+189;2;24;5;0147794268;03.2020.1400;;;Aynul Faqi;;Laki-laki;;Sampang, 26 Juni 2014;;Wafur ;jual nasi bebek;Supah;jual nasi bebek;Keputran pasar kecil I/70 Sby;
+190;2;24;5;0138329225;03.2020.1401;;;Bagas Satria Wedhasmara;;Laki-laki;;Surabaya, 11 November 2013;;Noval Putra Widhasmara;SWASTA;Agustin Wiranti;Ibu rumah tangga;Jambangan Indah V perum Res 21 No.3 Sby;
+191;2;24;5;3130329093;03.2020.1402;;;Diya Aldin Atha Faradis;;Laki-laki;;Surabaya, 13 Oktober 2013;;Bachtiar Faradis;SWASTA;Wulan Patria Puri;Ibu rumah tangga;Menanggal 4 No 37 Sby;
+192;2;24;5;3131210830;03.2020.1403;;;Fadhillah Al Ghazali Goni;;Laki-laki;;Jakarta, 11 April 2013;;Feri Deni Falian Goni;wiraswasta;luly mariana;Wiraswasta;Ketintang permai AE-16;
+193;2;24;5;0147410237;03.2020.1404;;;Fatih Al Farabi Raihan;;Laki-laki;;Surakarta, 10 Januari 2014;;Reka yasmara Mardiputra;SWASTA;Arina Utami Nuralia;Apoteker;Ketintang residence no 54;
+194;2;24;5;3142063149;03.2020.1405;;;Faza Fakhri Wafie;;Laki-laki;;Surabaya, 3 Mei 2014;;Abdul Fatah;Dosen;Finda Fauziah;Ibu rumah tangga;Menanggal V/6 Surabaya;
+195;2;24;5;0139924131;03.2020.1406;;;Hafizal Hikmal Rifky Istiqomah;;Laki-laki;;Surabaya, 16 Agustus 2013;;Sapa Taufik;wiraswasta;Ninik Tri lukitasari;Swasta;Karah Agung I/34;
+196;2;24;5;3121789197;03.2020.1407;;;Haim Muhammad Abu Hashin;;Laki-laki;;Surabaya, 8 Desember 2012;;Zainul arifin;Swasta;Nur Mahmudah ;Swasta;Kejawan putih tambak XIII/01 sby;
+197;2;24;5;3131253610;03.2020.1408;;;Ibrahim Ali Alhinduan;;Laki-laki;;Surabaya, 15 Oktober 2013;;Ali Al Hinduan;Dokter Umum;Dina Thahir Baagil;Ibu rumah tangga;Jl. Ketintang Wiyata no. 68 Sby;
+198;2;24;5;0139998197;03.2020.1409;;;Ilham Syafir Manessa;;Laki-laki;;Surabaya, 25 September 2013;;Syarifuddin;TNI AL;Firda Ika Pratiwi;Ibu rumah tangga;Jl. Golf 8/10 Rumdis Marinir sby;
+199;2;24;5;3134843595;03.2020.1410;;;Jendra Fakhru Irfan;;Laki-laki;;Surabaya, 14 Desember 2013;;Ir. Suryadi;Karyawan PJB;Nursanthi Widhya Ardhayani ;Ibu rumah tangga;JL. Gayungkebonsari VII/9;
+200;2;24;5;0132037533;03.2020.1411;;;M. Keenand Impian Mashurie;;Laki-laki;;Surabaya, 3 Agustus 2013;;M. Idrus Mashurie;wiraswasta;Dwi Suraeni Rahayu;Ibu rumah tangga;Bibis Karah I/23 Sby;
+201;2;24;5;0143309697;03.2020.1412;;;Mohammad Arkan Safier Aly;;Laki-laki;;Malang, 22 Maret 2014;;Bahruddin;Wirausaha;Apsari Satyawadaningtyas;PNS;Sarmada ketintang 25a Sby;
+202;2;24;5;0146563524;03.2020.1413;;;Muhammad Adhyastha Hutama;;Laki-laki;;Surabaya, 4 April 2014;;Damis;wiraswasta;Susti Suhari;Ibu rumah tangga;Pulosari 3J No. 58a;
+203;2;24;5;3145577177;03.2020.1414;;;Muhammad Alzam Shidqa Ardyan;;Laki-laki;;Surabaya, 23 Februari 2014;;Achmad Ardyanto;Supb Kontraktor baja;Yenis Wulan ;Ibu rumah tangga;Jl. Ketintang 4B/15 Sby;
+204;2;24;5;0142563151;03.2020.1415;;;Muhammad Arsy Rizqullah Adelard;;Laki-laki;;Surabaya, 15 Mei 2014;;Arizka Permana Putra;;Arifati Illahliya;SWASTA;ketintang barat indah KAV 47;
+205;2;24;5;0146855424;03.2020.1416;;;Muhammad Difa' Ulil Haq Abu Kafi;;Laki-laki;;Surabaya, 9 Maret 2014;;Mochammad Baidowi;Swasta;Aisatus Sakdiyah;Ibu rumah tangga;Kapas Baru 7/87;
+206;2;24;5;0139083769;03.2020.1417;;;Muhammad Gibran Al - Ghazali;;Laki-laki;;Surabaya, 15 September 2013;;Suhartoyo;SWASTA;Tri Arum N;Swasta;Karangan 229 Surabaya;
+207;2;24;5;0146434143;03.2020.1418;;;Muhammad Hafizh Haikal Pangestu;;Laki-laki;;Surabaya, 20 Januari 2014;;Misbah;TNI  ;Sri Mujiasih;-;Jl. Golf VIII/6 Sby;
+208;2;24;5;0133115801;03.2020.1419;;;Nabil Atharizz Wildemar;;Laki-laki;;Surabaya, 9 Juni 2013;;Deni Marice;wiraswasta;Winda Oktavianti;Ibu rumah tangga;Royal Ketintang regency A-35;
+209;2;24;5;0136431124;03.2020.1420;;;Raditya Mirza Utama;;Laki-laki;;Surabaya, 19 Oktober 2013;;Yusuf Utama;SWASTA;Ardina Nandika sari;Ibu rumah tangga;Kebonsari Elveka II Kav 28 No. 7;
+210;2;24;5;3137677633;03.2020.1421;;;Rafa Alfahrizi;;Laki-laki;;Surabaya, 17 Agustus 2013;;M. Imron Mashoed;SWASTA;Nur Aini;Ibu rumah tangga;Ketintang Baru selatan V Blok C-4 Sby;
+211;2;24;5;0131466400;03.2020.1422;;;Rasyid Aldric Azzahidi;;Laki-laki;;Surabaya, 13 Oktober 2013;;Sony Hendry Ekodiputro;SWASTA;Endah Dwi Wahyuni;Swasta;Jl. Jetis Kulon 8/57A;
+212;2;24;5;3149575812;03.2020.1423;;;Raziq Sinan Laal Barraqie;;Laki-laki;;Sidoarjo, 8 Januari 2014;;Agus Hari Purnomo;PNS;Dian Awaliyah Setiyaningrum;Wiraswasta;Kebonsari LVK 5/30 sby;
+213;2;24;5;3134140781;03.2020.1424;;;Sultan Nahid Haqqina Yusuf;;Laki-laki;;Mojokero, 5 November 2013;;Yusuf Amrozi;Dosen;Ely Rosyidah;Penyuluh agama islam ;Puri Taman Asri Blok A-124 Taman sda;
+214;2;25;5;3139037027;03.2020.1425;;;Abelqi Ahmad El Akhtar;;Laki-laki;;Surabaya, 11 November 2013;;Qoidul Umam Satria Negara;wiraswasta;RR Ina Damayanti;Swasta;Karah Tama Asri I no. 49;
+215;2;25;5;0145644687;03.2020.1426;;;Adhyastha Arziki Sudarmawan;;Laki-laki;;Surabaya, 10 Maret 2014;;Catur sudarmawan ;Karyawan Swasta;Sri wahyuni;Ibu rumah tangga;Ketintang Barat Indah Kav 52;
+216;2;25;5;0138582949;03.2020.1427;;;Ahmad Ziyad Al - Haq;;Laki-laki;;Surabaya, 28 desember 2013;;Moh Lutfi Hidayat;Wiraswasta;Ely Arifah;Ibu rumah tangga;Kebonsari Sekolahan 14A;
+217;2;25;4;0136177771;03.2021.1613;;;Alvaro Filbert Abrisam Kardjito;;Laki-laki;;Surabaya, 15 Desember 2013;;-;-;Yuli Alfiyah;Ibu rumah tangga;Bratang Gede 24 - 26 Surabaya;
+218;2;25;5;0145547255;03.2020.1428;;;Andika Darmawan Ramadani;;Laki-laki;;Surabaya, 12 April 2014;;Adhi Turnawan;PNS;Frida Aprilia Damayanti ;Ibu rumah tangga;Simo Gunung Kramat Timur 29E Sby;
+219;2;25;5;0145170753;03.2020.1429;;;Azzam Habibie Al Ghazi;;Laki-laki;;Gresik, 4 April 2014;;Hari Priyatno;wiraswasta;Yuni Astutik ;Swasta;Jl. Karang rejo timur 19/5;
+220;2;25;5;0145645990;03.2020.1430;;;Bilal Abidzar;;Laki-laki;;Bekasi, 25 April 2014;;Yaya Budiyaman;wiraswasta;Elvi Syukriah;Ibu rumah tangga;Keputran Kejambon 2 No. 105;
+221;2;25;5;0131968626;03.2020.1431;;;Dimas Irsad Taufiqurrahman;;Laki-laki;;Surabaya, 28 Desember 2013;;Frans Sukmawan;wiraswasta;Sulastri ;Ibu rumah tangga;Jl. Bibis Karah No. 37 Sby;
+222;2;25;5;0145512584;03.2020.1433;;;Firqon Dwi Dirgantara;;Laki-laki;;Surabaya, 17 April 2014;;Moh Farok;POLISI;Winda Gunawan ;Ibu rumah tangga;Jl. Karang rejo 8/29;
+223;2;25;5;3134452550;03.2020.1434;;;Habib Amir Khalid;;Laki-laki;;sby, 10/10/2013;;Abdul Qodir;wiraswasta;Parmiati;IRT;kedurus dukuh 5/6 Sby;
+224;2;25;5;0133097398;03.2020.1435;;;Ken Alifiandradirgantara;;Laki-laki;;Surabaya, 28 Agustus 2013;;Yun Cerah Dirgantara;SWASTA/Ekspedisi;Wurita wira Andriana;Marketing;Palm Spring G 53 Jambangan ;
+225;2;25;5;0147046913;03.2020.1436;;;Laksmana Arkana Az Zubair;;Laki-laki;;Kediri, 23 Januari 2014;;Firman Mashudi ;PNS;Citra Luciana ;Ibu rumah tangga;Karah Agung XI/4 ;
+226;2;25;5;0146168112;03.2020.1437;;;M. Anwar Asyhad Al Haromain;;Laki-laki;;Surabaya, 11 Mei 2014;;Ahmad Jaiz;Swasta;Nur Hayati;Swasta;Pekarungan Rt. 05 Rw. 02 Sukodono SDA;
+227;2;25;5;3142148980;03.2020.1438;;;Mikhail Radivan Wijanarko;;Laki-laki;;Surabaya, 02 Juni 2014;;Bethayana Bambang Wijanarko;wiraswasta;Ita Kusumawati;Ibu rumah tangga;Karang Rejo sawah VII/35;
+228;2;25;5;0145168175;03.2020.1439;;;Muhammad Adzimi Haqul Juniar;;Laki-laki;;Surabaya, 5 Juni 2014;;Andy Suryadi;PNS;Renita AyuPrabawanti;PNS;Jl. Ketintang barat 66 buntu no 239;
+229;2;25;5;3136116232;03.2020.1440;;;Muhammad Fathir Ar - Rasyid;;Laki-laki;;Surabaya, 6 Oktober 2013;;Hajir ;;Riski Octafani;Ibu rumah tangga;Jl. Kebonsari II/34;
+230;2;25;5;0135462151;03.2020.1441;;;Muhammad Fatih Yusuf;;Laki-laki;;Surabaya, 29 September 2013;;Robhen Sutono;POLISI;Uma Damayanti;Dokter Umum;Asrama Polisi Ketintang Blok G no 1;
+231;2;25;5;0132504453;03.2020.1443;;;Muhammad Helmi Al Farobi;;Laki-laki;;Surabaya, 9 desember 2013;;Abdul Aziz;SWASTA;Sumini;Wiraswasta;Dusun Mbunut, desa randegansari, Driyo rejo Gresik;
+232;2;25;5;3131834614;03.2020.1444;;;Muhammad Jauhari Nafis;;Laki-laki;;Surabaya, 26 Juni 2013;;H. Djumain Thohari;wiraswasta;Hj. Ismukayah;Ibu rumah tangga;Ketintang gang II No. 16 D;
+233;2;25;5;0138898295;03.2020.1445;;;Muhammad Kenzie Farzana Utomo;;Laki-laki;;Surabaya, 29 November 203;;Rachmat Agus Budi Utomo S.Pt;SWASTA;Nurul Huda Agustina S.Pt;Ibu rumah tangga;Jl. Margorejo Masjid No. 3E;
+234;2;25;5;0136419071;03.2020.1446;;;Muhammad Raihan Ar Rosyid;;Laki-laki;;Surabaya, 7 Novrember 2013;;Moch. Rianto;TNI AL;Heni Andi Wyanti;Swasta;Kencanasari Timur 15 No. 5 sby;
+235;2;25;5;0137354074;03.2020.1447;;;Muhammad Rizal Dirmawan;;Laki-laki;;Surabaya, 17 September 2013;;Widodo Budi Darmo;Guru  ;Sitty Syafariyah Utami;Ibu rumah tangga;Ketintang barat III 204 c;
+236;2;25;5;0141585674;03.2020.1448;;;Muhammad Zaidan Aljibran;;Laki-laki;;Surabaya, 7 Maret 2014;;Wira Yudha Alam;Dosen;Khusnul Fikriyah;Dosen;Jl. Karah no. 93 sby;
+237;2;25;5;0136506542;03.2020.1449;;;Muhammad Zhafran Almaliky;;Laki-laki;;Surabaya, 24 Oktober 2013;;Ersad Timah;SWASTA;Fara Firdausia;Ibu rumah tangga;Ketintang Baru XI/29;
+238;2;25;5;0138340910;03.2020.1451;;;Satriya Arkana Firdaus;;Laki-laki;;Sby, 21/5/2013;;Felix Andrian Prihatono;peg. Swasta;Richa Agus Rifianti;IRT;Graha Sunan Ampel N/16 Wiyung ( kk menanggal 5/51 C Sby);
+239;2;25;5;0146380157;03.2020.1452;;;Sultan Aslah Alafa;;Laki-laki;;Bekasi, 29 Maret 2014;;Hermawan Ragil Putra;PNS;Erlin Yunita;Ibu rumah tangga;Sarmada ketintang residence kav. 24;
+240;2;26;5;0142660701;03.2020.1453;;;Adhwa Adnina;;Perempuan;;Surabaya, 2 Juli 2014;;Mohammad Basuki;SWASTA;Latifah;Dosen;Palm spring regency E-9 sby;
+241;2;26;4;0136854897;03.2021.1515;;;Alisha Azzalea Putri Hartono;;Perempuan;;Sidoarjo, 21 Agustus 2013;;David Budi Hartono, Amd;Karyawan Swasta;Putri Ayu Sinta Margareta;Ibu rumah tangga;Perumahan Royal Ketintang RegencyBlok H-3 Surabaya;
+242;2;26;5;3138467066;03.2020.1454;;;Aqila Dafina Ramadhani;;Perempuan;;Hulu sungai selatan, 18 Juli 2013;;Buyung Priambodo;POLISI;Sari Okta Rahmalina;pns;karangrejo VI / 55;
+243;2;26;5;3130277306;03.2020.1455;;;Aqillah Naufalyn Fikria;;Perempuan;;Surabaya, 19 Juni 2013;;Bibit Sutaji;SWASTA;Eka Hapsari Hari Apriliyanti;Ibu rumah tangga;Gayungan 8 gang Anggrek 14 sby;
+244;2;26;5;0135567929;03.2020.1456;;;Askia Safa Fadilah;;Perempuan;;Surabaya, 23 September 2013;;Abdul Haq;wiraswasta;Homsilah;Wiraswasta;Karang rejo timur 3/23 sby;
+245;2;26;5;0149302932;03.2020.1457;;;Audrey Ramadhani;;Perempuan;;Surabaya, 18 Juli 2014;;Agus irawan;OIL AND GAS;Sevfi Indriana;Ibu rumah tangga;Karah Indah XI /IV 15 Sby;
+246;2;26;5;3133690957;03.2020.1458;;;Azifa Nur Taniyaaghaniyy;;Perempuan;;Sidoarjo,11 April 2013;;Taufan Yanuar Pribadi;Swasta;Wara Hariyani ;Ibu rumah tangga;Gayungan 8 Gang tomat ino 19 sby;
+247;2;26;5;3136640773;03.2020.1459;;;Azzahra Fitri Rahullah;;Perempuan;;Surabaya, 03 Mei 2013;;Mochammad Sidik Rochullah;TNI AL;Fennyana Lesdyanto;dokter;Jl. Karangrejo VIII/18;
+248;2;26;5;3135278962;03.2020.1461;;;Ceisya Airi Azizi;;Perempuan;;Surabaya, 7 Desember 2013;;Azizul Ghoffar;PNS;Dewi Fatimah;Ibu rumah tangga;karan rejo timur 3/40 sby;
+249;2;26;5;0145869771;03.2020.1462;;;Chayra Fayyola Nadhifa;;Perempuan;;Surabaya, 12 Maret 2014;;Andre Bastian;Swasta;Emillia Rizkyansyah;Ibu rumah tangga;Jl. Karah 158 c Sby;
+250;2;26;5;3140555736;03.2020.1463;;;Cintasya Amira Putri Sumarsono;;Perempuan;;Surabaya, 13 Februari 2014;;Eko Sumarsono;wiraswasta;Sri Nurhayati;Wiraswasta;Jl. Ketintang Baru 17/27;
+251;2;26;5;0138146055;03.2020.1464;;;Elmira Nadifa Jadhine;;Perempuan;;Surabaya, 14 September 2013;;Hayatul Jadid;PNS ;Precilia Josephine;Swasta;Griya Kebraon Utara 3 Blok AG-26;
+252;2;26;5;3129052534;03.2019.1370;;;Faihah Shita Ummi Feidl;;Perempuan;;Surabaya 21 Mei 2012;;M. Arief Tri Atmodjo;Karyawan Swasta;Nur Aminah;Mengurus rumah tangga;Ketintang Madya I/6B Surabaya;
+253;2;26;5;0142318930;03.2020.1465;;;Farah Putri Hafidzah;;Perempuan;;Surabaya, 16 juni 2014;;Puguh Priambodo;wiraswasta;Susi Yanti;Wiraswasta;Kupang Panjaan IV/27 ;
+254;2;26;5;3130954033;03.2020.1467;;;Ghayda Imani Danisha;;Perempuan;;Kuala Lumpur, 29 November 2013;;Hudi Hidayat ;Dosen;Sulistina Widiastutik;Ibu rumah tangga;Ketintang Madya I no 10 Sby;
+255;2;26;5;0137232872;03.2020.1468;;;Hime Zurie Az - Zahra;;Perempuan;;Surabaya, 30 Juli 2013;;Rosyad Yusfi Afandi;SWASTA;Fahima Hidayatullah Puspitasari;Dokter;Jl. Karang rejo VI/14 sby;
+256;2;26;5;3138886655;03.2020.1469;;;Janeeta Aderia Fazila;;Perempuan;;Surabaya, 08 Oktober 2013;;Kurniadi Prasetyo, SH, M.Hum;Dosen;Riana Rosmayanti, S.Sos;Karyawan Swasta;Jl. Ketintang Selatan No 113 Surabaya;
+257;2;26;5;0148083808;03.2020.1470;;;Nabilah Qonita Imaniah;;Perempuan;;Surabaya, 12 Maret 2014;;Muhammad Sulaiman;TNI AD;Noer Aisyah;Yakes telkom;Jl. Hayam wuruk baru I/68 sby;
+258;2;26;5;0139149664;03.2020.1471;;;Naila Nafhah Shiyami;;Perempuan;;Surabaya, 18 Juli 2013;;Khusaini Al Mubaraq;Guru Sd;Siti Wulandari ;Guru Paud;Jarak kulon jogoroto Jombang;
+259;2;26;5;0145247844;03.2020.1472;;;Najwa Zafira Ghania Faiqa Alhadi;;Perempuan;;Surabaya, 6 Maret 2014;;M. Nafan Hadi;SWASTA;Chikmatul Azmi E. L;;Jambangan IX no 2 Sby;
+260;2;26;5;0131786935;03.2020.1473;;;Niar Azzahra Ardiaswari;;Perempuan;;Surabaya, 4 November 2013;;Mardiono Eko Prayitno;Karyawan swasta;Pepy Dwi Endaswari ;Dokter/ Dosen;Hilida Regency 33 Jambangan Sby;
+261;2;26;5;3145429868;03.2020.1474;;;Niesya Aulia Qonita;;Perempuan;;Surabaya, 4 Januari 2014;;Ary Tri Wiyanto;SWASTA;Mardiyah Hayati;Swasta;Jl. Ketintang Baru 17/26 Sby;
+262;2;26;5;0139662046;03.2020.1475;;;Raisah Qurrota A'yun;;Perempuan;;Surabaya, 26 Juli 1013;;Guntur Ari Prasetyo;TNI AL;Berda Asmara;Dosen;Jl. Candi Wetan 42B/37;
+263;2;26;5;0146243963;03.2020.1476;;;Rania Khayra Hisaan;;Perempuan;;Surabaya, 26 Agustus 2014;;Ade Afrian ;wiraswasta;Cholifah ;Ibu rumah tangga;Royal Ketintang Regency Blok B3;
+264;2;26;5;3147390033;03.2020.1477;;;Rodliyah Mardliyah;;Perempuan;;Lamongan, 10 April 2014;;Yusuf Amin (ALM);-;Nihayatus Sa'adah;Ibu rumah tangga;Pandegiling stal 15;
+265;2;26;5;0148873242;03.2020.1478;;;Siti Nafizha Al - Madinah;;Perempuan;;Surabaya, 15 Februari 2014;;M. Martalim;wiraswasta;Mutmainatul Muna Waro;-;Keputran kejambon 3 no 21;
+266;2;26;5;0131018463;03.2020.1479;;;Tanaya Renata Fatharani;;Perempuan;;Surabaya, 17 Maret 2013;;Andri Kristiawan;SWASTA;Danik Fantiamitha;Swasta;Jambangan Baru selatan 7 No. 9 Sby;
+267;2;26;5;0138176717;03.2020.1480;;;Tsurayya Rasyidatu Fathiyya;;Perempuan;;Surabaya, 3 September 2013;;Irfan Firman Nur subhan;Farmasi;Clarashinta canggih septianasari;Dosen;Gubeng kungsungan II/29 sby;
+268;2;27;5;3146709974;03.2020.1481;;;Adelia Kusuma Rahmawati;;Perempuan;;Surabaya, 2 Mei 2014;;Hendra Pramudya;SWASTA;Eskarini;Swasta;Jl. Ngagel Tirto 2B/16 Sby;
+269;2;27;5;0131428448;03.2020.1483;;;Ainun Dhiya Elhaq Qurrota'ayun;;Perempuan;;Tanggerang selatan, 7 desember 2013;;M.Syakir Asyhari;PNS;Faidza Nuficha;Ibu rumah tangga;Jambangan Kebonagung 1D-22;
+270;2;27;5;0132693023;03.2020.1484;;;Aisyah Sabrina Aqeela;;Perempuan;;Malang, 29 Agustus 2013;;Endra Sulistiawan;NPNS;Nurul Evarani;PNS;Hilda Regency No 24 A Jambangan;
+271;2;27;5;0142679116;03.2020.1485;;;Alifia Nahlah Arifah Azkia;;Perempuan;;Surabaya, 27 Sptember 2014;;Irfan Yusief S.Ag;SWASTA;Rohmatin S.Kep ;Perawat;Karangrejo Timur II/ 35  Sby;
+272;2;27;5;0135733570;03.2020.1486;;;Alissa Madina Bilqis;;Perempuan;;Surabaya, 9 November 2013;;Suyanto;Sipil Polri;Ita Winarti ;Ibu rumah tangga;Simo Gunung Barat IIIA/24C;
+273;2;27;5;0134457853;03.2020.1487;;;Ayesha Yasmin Qaisara;;Perempuan;;Surabaya, 30 Desember 2013;;Achmad Fauzi;-;Dewi Ratnasari ;Ibu rumah tangga;Krukah selatan XII A/1A;
+274;2;27;5;3147456745;03.2020.1488;;;Bilqis Ul Ilmi;;Perempuan;;Surabaya, 02 Januari 2014;;Supriyanto;SWASTA;Linda;Swasta;Kebraon Mitra satwa I/53;
+275;2;27;5;3147330805;03.2020.1489;;;Bintang Indah Rahmawati Az - Zahra Isady;;Perempuan;;Surabaya, 05 Juni 2014;;Kusnadi ;wiraswasta;Istirah S.Pd;Guru;Jl. Ngagel Dadi 2c/3a Sby;
+276;2;27;5;3147561904;03.2020.1490;;;Callysta Elvina Raudhatunisya;;Perempuan;;Surabaya, 4 Jauniari 2014;;Boriyanto;Pelayaran;Deni Mayasari;Ibu rumah tangga;Jl. Ketintang Ivb No. 15v;
+277;2;27;5;3138496039;03.2020.1491;;;Chessa Fidinillah Azafie;;Perempuan;;Surabaya, 26 November 2013;;Rio Azadi;dokter  ;Khomsa mutiara murni sovia sahid;Wiraswasta;karah agung III no 2-4 sby;
+278;2;27;5;3149489390;03.2020.1492;;;Farah Maulida Fairuz Az Zahra;;Perempuan;;Surabaya, 23 Januari 2014;;Wiwit Hariyanto;Dosen;Dwi Widayati;Swasta;Jl. Karah II Tembus No.4 Sby;
+279;2;27;5;0133485631;03.2020.1493;;;Fatimah Fayza;;Perempuan;;Surabaya, 6 desember 2013;;Pandu Pradentio;SWASTA;Faya Nurindah;Ibu rumah tangga;Jl. Ketintang Timur PTT 8VA/44;
+280;2;27;5;0133948581;03.2020.1494;;;Jasmine Haurazaky Nadhifa;;Perempuan;;Surabaya, 2 November 2013;;Achmad Faizal;TNI AL;Krystiana Eka Mulya;Pramedis;Ketintang Timur PTT 5/4 Sby;
+281;2;27;5;3130092956;03.2020.1495;;;Jihan Zahira Hamid;;Perempuan;;Surabaya, 2 November 2013;;Feriyanto Hamid;Swasta;Indah Kurniawati;Ibu rumah tangga;Palm Residence Blok A no 15;
+282;2;27;5;0131466808;03.2020.1496;;;Khairana Putri Amara;;Perempuan;;Surabaya, 7 Oktober 2013;;Moch. Harun Amara;SWASTA;Yesy Ayu Oktarini;SWASTA;karang rejo VII 29 A;
+283;2;27;5;0135954391;03.2020.1497;;;Khanza Valenzka Zalva Zahiran;;Perempuan;;Surabaya, 28 Agustus 2013;;Tetah Deasdy Nalendra;-;Pramudita pawestri ;-;Jl. Karan rejo 8 No 15 Sby;
+284;2;27;5;3145351871;03.2020.1498;;;Mahya Ramadhani Putri Widhitta;;Perempuan;;Surabaya, 29 Juni 2014;;Rivan Bagus Widhitta;TNI AD;Inggit Widyasari;POLISI;Jl. Karah Tama Asri I54 sby;
+285;2;27;5;0143662494;03.2020.1499;;;Najla Dahayu Gadis Shakila;;Perempuan;;Surabaya, 21 Mei 2014;;Yetno;wiraswasta;Nonna Ayu Devita Sari;Ibu rumah tangga;Jl. Karah IV/50 Sby;
+286;2;27;5;0132755024;03.2020.1500;;;Naura Bernadita Shafta Anida;;Perempuan;;Surabaya, 21 Desember 2013;;M. Bernado Saptono ;SWASTA;Choirum Maani ;Perawat;Ketintang baru XI/15;
+287;2;27;5;0132378849;03.2020.1501;;;Naylaseza Khoirunnisa;;Perempuan;;Surabaya, 29 september 2013;;Eriza Hardy Zakaria;wiraswasta;Meryana Dwi Prasetyo;Swasta;taman jambangan indah II/10 sby;
+288;2;27;5;3146862632;03.2020.1502;;;Rika Kamila Rasyeda;;Perempuan;;Lamongan, 11 Mei 2014;;Agus Prihanto;DOSEN;Cicik Herlina Yulianti;DOSEN;ketintang barat indah no 22;
+289;2;27;5;3144373009;03.2020.1503;;;Safura Ghina Aldilasari;;Perempuan;;Sutrabaya, 25 Mei 2014;;Agus Suryawan;Swasta;Sri Wachidiyah;Swasta;Jl. Wonocolo gang modin no 25 sby;
+290;2;27;5;0132145890;03.2020.1504;;;Shanaz Hafiza;;Perempuan;;Surabaya, 19 Juni 2013;;M. Rifky;SWASTA;Lia Fardani ;Ibu rumah tangga;Krukah Selatan no 84;
+291;2;27;5;0123353064;03.2020.1505;;;Sifatus Salma;;Perempuan;;Bangkalan, 24 Desember 2012;;Salwi;wiraswasta;Siti Marni;Wiraswasta;Kedondong Kidul gang I no 45 A;
+292;2;27;5;0133954197;03.2020.1506;;;Vanya Aurelya Octavia;;Perempuan;;Trenggalek, 23 September 2013;;Suroso;wiraswasta;Anik Oktaviani;Ibu rumah tangga;Jl. Pulosari III/57 sby;
+293;2;27;5;0146596109;03.2020.1507;;;Zakhrufa Maulidya Ummu Faqihah;;Perempuan;;Surabaya, 15 Januari 2014;;M. Masykur;Swasta;Lina Maharani;Swasta;Jl. Kertajaya 1.no 36;
+294;2;27;5;0142581176;03.2020.1508;;;Zidnia Marwah Mumtazah;;Perempuan;;Surabaya, 3 Januari 2014;;Andi Rahmadiansah;Dosen;Siti Chodijah;Ibu rumah tangga;Ketintang Regency tahap I no 9 sby;
+295;2;28;6;3125526614;03.2019.1276;;;Abdullah Fattah Choirul Rizqy;;Laki-laki;;Surabaya 29 Agustus 2012;;Dikky Arief Darmawan;Karyawan Swasta;Pujiati;IRT;Jetis Kulon 1/58 Surabaya;
+296;2;28;6;0133954221;03.2019.1277;;;Afkharrafa Ibad Achmadi;;Laki-laki;;Surabaya 20 Maret 2013;;Dhedik Achmadi;Karyawan Swasta;Yusmita Ardiati;Karyawan Swasta;Ketintang 157-B Surabaya;
+297;2;28;6;3123622728;03.2019.1278;;;Ahmad Aidan Basith Hamim Alhadi;;Laki-laki;;Surabaya 12 Oktober 2012;;Muhammad Nafan Hadi;Karyawan Swasta;Chikmatul Azmi Eka Lailiyana;PNS;Jl Raya Lontar No 04  Surabaya;
+298;2;28;6;3129162750;03.2019.1280;;;Almer Prabaswara Pallas Adien;;Laki-laki;;Sidoarjo 17 Nopember 2012;;Tohadi;PNS;Suprapti;PNS;Sambisari Kav. Selatan Blok O/07 Taman Sda;
+299;2;28;6;3137791068;03.2019.1281;;;Altair Cerlang Adipradya;;Laki-laki;;Surabaya 16 April 2013;;Guntur Bergas Prakosa;PNS;Triska Susila Nindya;Dosen;Pakis Tirtosari 17/9 Surabaya;
+300;2;28;6;3123325053;03.2019.1282;;;Asvin Zahravi;;Laki-laki;;Surabaya 16 Juli 2012;;Azkia Avenzoar ST;Arsitek;Drh Desty Apritya;Dosen;Graha Kebonsari KAV 11-A Kebonsari Baru Selatan;
+301;2;28;6;3124041912;03.2019.1283;;;Azzam Al Faruq Azizi;;Laki-laki;;Surabaya 22 Juni 2012;;Azizul Ghoffar;PNS;Dewi Fatimah;IRT;Karangrejo Timur 3/40 Surabaya;
+302;2;28;6;3131325371;03.2019.1284;;;Davin Dhanendra Maulana Efendi;;Laki-laki;;Surabaya 21 Mei 2013;;Aris Efendi;TNI;Dewi Purnomo Ningsih;Karyawan Swasta;Karah 2/33 Surabaya;
+303;2;28;6;3131509938;03.2019.1285;;;Elang Satriya Adiperkasa;;Laki-laki;;Surabaya 16 Agustus 2013;;Khoirul Anwari;Karyawan Swasta;Dwi Puspitasari;Karyawan Swasta;Brawijaya Kedurus 2/93 Sby;
+304;2;28;6;0139815411;03.2019.1286;;;Hafidh Ahmad Thohir;;Laki-laki;;Surabaya 25 Maret 2013;;Sujayat;TNI;Nyenyep Mudiarti;PNS;Hayam Wuruk Baru 1/76 Sby;
+305;2;28;6;3123159117;03.2019.1287;;;Hafidh Nur Rajendra;;Laki-laki;;Surabaya 15 Juli 2012;;Taufik Hidayat;Karyawan Swasta;Puspita Tri Mutiarani;PNS;Manyar Sabrangan 7/3 Sby;
+306;2;28;6;3129922704;03.2019.1288;;;Ij'lal Azmi Antoro;;Laki-laki;;Surabaya 02 Juli 2012;;Widyantoro;TNI;Ria Prihati ;PNS;Golf 7/3 Surabaya;
+307;2;28;6;3128896534;03.2019.1289;;;M. Hasanain Nasri;;Laki-laki;;Surabaya 28 Agustus 2012;;Agus Setiyono;Karyawan Swasta;Lilik Rahmawati;Dosen;Kalidami 2/37 Surabaya;
+308;2;28;6;3122373120;03.2019.1290;;;M. Irsyad Al Hamid Rohmatulloh;;Laki-laki;;Jombang 01 Juli 2012;;Dedy Rohmatulloh;Karyawan Swasta;Eka Sulistyorini;IRT;Simowau Indah Blok KA No 25 Taman Sidoarjo;
+309;2;28;6;0137761676;03.2019.1291;;;Maulana Aqil Elvino Arifin;;Laki-laki;;Surabaya 19 Juni 2013;;Zainal Arifin;Karyawan Swasta;Triyas Dewi Kurniati;Karyawan Swasta;Jemurwonosari Gg IV / 6 Sby;
+310;2;28;6;3126847401;03.2019.1292;;;Muhammad Ahsan Rahadianzah;;Laki-laki;;Surabaya 20 November 2012;;Mitra Mudianzah ST;Karyawan Swasta;Dr. Mayta Rithmala;Dokter;Pulowonokromo 247 Surabaya;
+311;2;28;6;3126846307;03.2019.1293;;;Muhammad Fatih Al Haqqi;;Laki-laki;;Surabaya 23 Mei 2012;;Mochamad Su'eb;Karyawan Swasta;Ery My Myrywati;IRT;Wonorejo 4/21-A Surabaya;
+312;2;28;6;0131833291;03.2019.1294;;;Muhammad Hafidz Nurkhoiri;;Laki-laki;;Magetan 21 Maret 2013;;Hery Dian Wahono;Kepolisian RI;Arisma Rosdiana;Kepolisian RI;Perum Sarmada Ketintang Kav 19 Sby;
+313;2;28;6;3122049924;03.2019.1295;;;Muhammad Hafizh Zaidan Hendrawan;;Laki-laki;;Sidoarjo 07 September 2012;;Nicko Hendrawan Suronegoro;Karyawan BUMN;Ihda Rahmawati Hasan;IRT;Wisma Bungurasih I/30 Waru Sidoarjo;
+314;2;28;6;3134241825;03.2019.1296;;;Muhammad Ilyas Syarif;;Laki-laki;;Surabaya 05 April 2013;;Agung Wijaya;Wirausaha;Fitriah Kurniawati;Karyawan Swasta;Petemon Sidomulyo 3-A/21 Sby;
+315;2;28;6;0131379720;03.2019.1297;;;Muhammad Resa Chusen;;Laki-laki;;Surabaya 28 Januari 2013;;Subandi;Karyawan Swasta;Siti Rokhmah;Guru;Jagir Lapangan 1/12 Sby;
+316;2;28;6;3123250222;03.2019.1298;;;Muhammad Syathir Rizki Zhafrani;;Laki-laki;;Surabaya 22 Oktober 2012;;Rizal Andrianata;Kepolisian RI;Uki Yitnowati;Guru;Wonokromo SS Baru 6/20 Sby;
+317;2;28;6;3133351205;03.2019.1299;;;Muhammad Wiryawan Akbar;;Laki-laki;;Magelang 17 Mei 2013;;Setiyono;TNI;Nofita Oktafiani;IRT;Jl. Golf 8/4 Surabaya;
+318;2;28;6;3124462856;03.2019.1300;;;Muhammad Zaid Firdhaus;;Laki-laki;;Sidoarjo 11 November 2012;;Muhammad Firdhaus;Karyawan Swasta;Yeni Puspitasari;Karyawan Swasta;Ketintang Barat 03/81 Sby;
+319;2;28;6;3128346296;03.2019.1301;;;Nafizh Evan Ramadhan;;Laki-laki;;Jayapura 26 Mei 2012;;Maddya Kusuma Widjaya;PNS;Iryanti Syam;Karyawan BUMN;Komplek Bea Cukai Injoko Blok B No 28 Sby;
+320;2;28;6;0132759947;03.2019.1302;;;Narendra  Brilliant Arya Yudhistira;;Laki-laki;;Surabaya 03 Februari 2013;;Widya Indra Antariksa;;Inna Syah Anifta SE;Karyawan Swasta;Ketintang Baru 11/25 Surabaya;
+321;2;28;6;3133813753;03.2019.1303;;;Nino Falah El Syamil;;Laki-laki;;Surabaya 08 Maret 2013;;Zulfajri Wanda;Wiraswasta;Novi Tamaro;Karyawan Swasta;Jogoloyo 7-A/9-B Surabaya;
+322;2;28;6;3127064832;03.2019.1304;;;Shayf Fath Ahmad El Fatih;;Laki-laki;;Surabaya 11 Agustus 2012;;Farid Hamidy;Karyawan Swasta;Zakiyah Fitri;Karyawan Swasta;Darmokali Tugu 18 Surabaya;
+323;2;29;6;3122027357;03.2019.1305;;;Achmad Ibrahim Ali Fauzi;;Laki-laki;;Surabaya 27 Oktober 2012;;Misnali;Karyawan Swasta;Marbaiyah;IRT;Pondok Benowo Indah Blok EK-03;
+324;2;29;6;3125418691;03.2019.1306;;;Adila Hilmy Satriani;;Laki-laki;;Surabaya 19 Juli 2012;;Aldita Gumbala Ernanto SE;Wiraswasta;Sitti Resty Sarluf SE;Karyawan Swasta;Perum Palm Residence A-38 Sby;
+325;2;29;6;3132187739;03.2019.1308;;;Ahmad Rif'at Amani Abu Sakhiy;;Laki-laki;;Surabaya 27 Mei 2013;;Rofiq;Karyawan Swasta;Susharyanti;IRT;Gogor Tol 31-B Surabaya;
+326;2;29;6;3129306357;03.2019.1309;;;Ali Akbar Nusa jati ;;Laki-laki;;Surabaya 02 Agustus 2012;;Achmad Multaqi;Wiraswasta;Umi Wakhyuni;PNS;Jl. Gayungan PTT 44 Surabaya;
+327;2;29;6;3128580809;03.2019.1310;;;Arga Anargya;;Laki-laki;;Surabaya 27 November 2012;;-;-;Fillyzia Dhebora;IRT;Gunung Sari Indah HH-22 Sby;
+328;2;29;6;0131993849;03.2019.1311;;;Argatha Rio Laisco;;Laki-laki;;Magetan 18 Maret 2013;;Muklis Frisko;-;Ismiy ati;Karyawan Swasta;Hayam Wuruk Baru 2/59 Sby;
+329;2;29;6;0131237471;03.2019.1312;;;Arka Bagus Saputra;;Laki-laki;;Sleman 27 Februari 2013;;Artha Hermawan;Wiraswasta;Gina Widiasari;Karyawan BUMN;Jambangan Indah IV No. 40 Surabaya;
+330;2;29;6;0139029204;03.2019.1313;;;Dhafin Azka Maula Zuldy;;Laki-laki;;Surabaya 22 April 2013;;Muhamad Zulal;Karyawan Swasta;Dwi Yulianti;Karyawan Swasta;Jl. Palm Raja Jambangan Barat I-C/6 Sby;
+331;2;29;6;3129450262;03.2019.1314;;;Fairuz Nizar Amru;;Laki-laki;;Surabaya 20 Maret 2012;;Amiruddin SE;Karyawan Swasta;Dr. Kurnia Widiastri;Dokter;Jl. Karah Indah 3/L-27 Sby;
+332;2;29;6;3124028169;03.2019.1315;;;Fulfian Adinata Dwi Setiyawan;;Laki-laki;;Surabaya 31 Agustus 2012;;Adi Setiyawan SE;Karyawan Swasta;Fibriana Kusuma Wardhani Amd Kep;IRT;Wonorejo 4/5 Surabaya;
+333;2;29;6;3132648352;03.2019.1316;;;Galang Abisatya Putra Indarto;;Laki-laki;;Surabaya 22 Juni 2013;;Toni Indarto SE;PNS;Linda Agustini SE;Karyawan Swasta;Ketintang Selatan VIII/BB08 Sby;
+334;2;29;6;3131971698;03.2019.1317;;;Hood Habiburahman;;Laki-laki;;Surabaya 30 Januari 2013;;Moch Alaik Sa'dulloh Hadi;Karyawan Swasta;Siti Djunaidah;Wiraswasta;Jl. Sidoresmo 1/3 Surabaya;
+335;2;29;6;0136557360;03.2019.1318;;;M. Naufal El - Azzam Zainuddin;;Laki-laki;;Surabaya 06 Juni 2013;;Moch. Yusuf Zainuddin ST;Karyawan Swasta;Endrawati;IRT;Petemon Timur 18 Surabaya;
+336;2;29;6;3125385636;03.2019.1319;;;Masabiq El-Fathin Habibullah;;Laki-laki;;Surabaya 20 Oktober 2012;;Mas Sumarno Arief SE MM;Guru;Islamiyah S.Pd;Guru;Karangrejo Sawah 1/3 Sby;
+337;2;29;6;3124861034;03.2019.1320;;;Muhammad Abdulfattah Adrian;;Laki-laki;;Surabaya 25 November 2012;;Adriyan Ismail M.Com Hrm;Wiraswasta;Camelia Rachma Novita;Wiraswasta;Ketintang Permai Blok BC/10 Sby;
+338;2;29;6;3125120726;03.2019.1321;;;Muhammad Ahnaf Atallah Ramadhan;;Laki-laki;;Surabaya 16 Agustus 2012;;Djarot Putro Rahardjo SS;Karyawan Swasta;Fitria Sandy;Guru;Kebonsari I-A/6-A Surabaya;
+339;2;29;6;3122043950;03.2019.1322;;;Muhammad Alhafidz;;Laki-laki;;Surabaya 18 September 2012;;Turikan ST;Karyawan Swasta;Ratna Letiyani SE;IRT;Jambangan Kebon Agung 1-A/22 Sby;
+340;2;29;6;3125722044;03.2019.1323;;;Muhammad Fathar Al-Barra Kova;;Laki-laki;;Surabaya 19 November 2012;;Nicko Alviyanto SE;Karyawan Swasta;Vienna Widiyaswara S.Pt;Karyawan Swasta;Menanggal 05/74 Surabaya;
+341;2;29;6;3138790726;03.2019.1324;;;Muhammad Hidlir Haulana Abu Ishlah;;Laki-laki;;Surabaya 18 Maret 2013;;Siswo Widodo;Wiraswasta;Agus Setyani Muniroh;Guru;Balas Klumprik Surabaya;
+342;2;29;6;3123813754;03.2019.1325;;;Muhammad Khoirur Roziqin Az-zaky;;Laki-laki;;Surabaya 10 Juli 2012;;Ahmad Bachrozi;-;Sayyidatul Muthi'ah S.Pdi;PNS;Jl. Karah Gg V B No 21 Sby;
+343;2;29;6;3123395079;03.2019.1326;;;Muhammad Maher Zain Eddy;;Laki-laki;;Surabaya 12 Maret 2012;;Sujati;Karyawan Swasta;Wahyu Wuryani;Karyawan Swasta;Kembang Kuning Kulon 1/11-B Sby;
+344;2;29;6;0138999590;03.2019.1327;;;Muhammad Miersa Chasan;;Laki-laki;;Surabaya 28 Januari 2013;;Subandi ;Karyawan Swasta;Siti Rokhmah;Guru;Jagir Lapangan 1/12 Sby;
+345;2;29;6;3133351205;03.2019.1328;;;Muhammad Yusya Adelio Alvaro;;Laki-laki;;Surabaya 13 Februari 2013;;;;Arifati Illahiya;Karyawan Swasta;Ketintang Gg. Masjid 2 Surabaya;
+346;2;29;6;3136972117;03.2019.1329;;;Muhammad Zidney Ilmi Attaqi;;Laki-laki;;Surabaya 04 Februari 2013;;Felli Lamono;Karyawan Swasta;Yuli Astutik;Guru;Simomulyo Baru 4c/3 Sby;
+347;2;29;6;0132568363;'03.2020.1394;;;Narendra Razka Wijaya;;Laki-laki;;Mojokerto, 14 Februari 2013;;Moch. Arief;Karyawan Swasta;Yeni;;Dusun Jatisari Pasanggrahan Kutorejo Mojokerto ;
+348;2;29;6;3128302594;03.2019.1330;;;Nizam Mujahid Al Haidar;;Laki-laki;;Surabaya 17 November 2012;;Imron Hamzah ST;Karyawan Swasta;Roudhotus Shofia A.Md Kl;Karyawan Swasta;Jl. Graha Kebonsari Kav 5 Sby;
+349;2;29;6;3125292657;03.2019.1331;;;Rahnoe Yafie;;Laki-laki;;Surabaya 20 September 2012;;Ahmad Noeschi;-;Sri Esti Rahayu SE;IRT;Kalimas Hilir 3/40 Sby;
+350;2;29;6;3125782455;03.2019.1332;;;Zayden Zain Zafiharo;;Laki-laki;;Surabaya 22 September 2012;;Razafimaharo Serege Michel;Other;Dessi Indrirosmawati S.Kom;Karyawan Swasta;Jambangan Sawah 38 A Sby;
+351;2;30;6;;03.2022.1708;;;Aisyah Afiqah Humaira;;Perempuan;;Palangka Raya, 19 Oktober 2012;;;;;;;
+352;2;30;6;3127023078;03.2019.1333;;;Aisyah Putri Tifahry;;Perempuan;;Surabaya 18 November 2012;;Sugeng Harijadi ;Karyawan Swasta;Enny Suchastifa SE;PNS;Ketintang Barat No 27 A Sby;
+353;2;30;6;3138747075;03.2019.1334;;;Aisyah Rizki Aulia Jauhari;;Perempuan;;Surabaya 06 Agustus 2013;;Muhammad Yusdi Jauhari;TNI;Yulita Andistie;Kepolisian RI;Ketintang Baru 14/15 Sby;
+354;2;30;6;3122884603;03.2019.1335;;;Amanda Aristawati Eka Wardani;;Perempuan;;Surabaya 31 Agustus 2012;;Adi Setiyawan SE;Karyawan Swasta;Fibriana Kusuma Wardhani Amd Kep;IRT;Wonorejo 4/5 Surabaya;
+355;2;30;6;0137267743;03.2019.1336;;;Aqila Mufsih Nabiha;;Perempuan;;Surabaya 23 Agustus 2013;;Novian Nur Syamsu;Karyawan Swasta;Dianita Solikha Rahayu;IRT;Ketintang 157 Surabaya;
+356;2;30;6;3131655973;03.2019.1337;;;Athifah Abidatullah El Widya;;Perempuan;;Surabaya 12 Januari 2013;;Anggaza El Widya;Perdagangan;Galuh Putri Hartini;IRT;Jl. Ketintang Permai Blok BC - 23 Sby;
+357;2;30;6;0126639299;03.2019.1338;;;Binar Cahaya Ayunda;;Perempuan;;Surabaya 15 November 2012;;Hendrik Nasrul ;Wirswasta;Yosi Marlina;IRT;Karah Tama Asri No 15 B Sby;
+358;2;30;6;3127757850;03.2019.1339;;;Dzikrina Raisa Illiyyina;;Perempuan;;Surabaya 01 September 2012;;Agung Setia Adi;Karyawan Swasta;Fitria Kurniawati;IRT;Palm Spring Regency Blok A-47 Sby;
+359;2;30;6;3125997632;03.2019.1340;;;Earlyta Arsyfa Durriyatul Janna;;Perempuan;;Surabaya 10 November 2012;;Muhammad Ardiyansyah ;Karyawan Swasta;Maulida Murni Anggraeni;Karyawan Swasta;Kalikepiting No 23/2 Sby;
+360;2;30;6;3135159463;03.2019.1341;;;Eryna Qaireen Faiza Nabillah;;Perempuan;;Surabaya 06 Januari 2013;;Mochammad Faisal;Wirswasta;Yohan Purnamasari;IRT;Karah Gg. Masjid No 8 Sby;
+361;2;30;6;3136267754;03.2019.1342;;;Faihanah Audria Endyra Praptantyo;;Perempuan;;Surabaya 20 Juni 2013;;Hendy Dwi Praptantyo;PNS;Dara Nortaria Rosa Patria;Karyawan BUMN;Gayung Kebonsari Komp BC/B-21 Surabaya;
+362;2;30;6;3134605172;03.2019.1343;;;Farzana Iftinan Puteri;;Perempuan;;Surabaya 20  Maret 2013;;Adhi Purnomo;Karyawan Swasta;Dewi Marlina;Karyawan Swasta;Graha Kebonsari LVK VII/36 Sby;
+363;2;30;6;3129828535;03.2019.1344;;;Fioreen Azzahra Prasetyo;;Perempuan;;Nganjuk 11 November 2012;;Galih Prasetyo;Wirswasta;Setya Rini;IRT;Kebonsari 1 No 3 Jambangan Sby;
+364;2;30;6;0131739993;03.2019.1345;;;Husta Nafhah Ummi Nuzula;;Perempuan;;Surabaya 28 Juli 2013;;Mustofa Khoiri S.Fil I;Karyawan Swasta;Ririn Herlianawati;IRT;Kapas Baru 11/3 Surabaya;
+365;2;30;6;3134802333;03.2019.1346;;;Khanza Aqila Bakhitah;;Perempuan;;Surabaya 16 Agustus 2013;;Denny Astriansyah SH;Karyawan Swasta;Yana Indawati SH Mkn;Dosen;Bratang Gede 3-I/17 Sby;
+366;2;30;6;0137956121;03.2019.1347;;;Khanza Rafania El Shanum;;Perempuan;;Surabaya 01 Maret 2013;;Sugeng Santoso SE;Karyawan Swasta;Widya Widhani Wulandari SE;IRT;Jl. Jambangan Indah IV/45 Sby;
+367;2;30;6;3137997948;03.2019.1348;;;Kyna Zizi Philothra Khadijah;;Perempuan;;Surabaya 07 Februari 2013;;Alimin ;Karyawan Swasta;Indah Dwi Nurtanti;Karyawan Swasta;Menanggal 2 Gg. Anggur No.8 Surabaya;
+368;2;30;6;3132681415;03.2019.1386;;;Nadhifa Fairuz Almira;;Perempuan;;Surabaya 09 September 2013;;Bancono Muhammad Suripto;Karyawan Swasta;Diana Kusumaningrum;Karyawan Swasta;Balongsari Blok 3-A/19 Surabaya;
+369;2;30;6;3138854052;03.2019.1349;;;Laily Jum'atti;;Perempuan;;Surabaya 07 Maret 2013;;Joko Prasetyo;Karyawan Swasta;Yunita Sari SE;Karyawan Swasta;Ngagelrejo Kidul 1 Surabaya;
+370;2;30;6;3133106102;03.2019.1350;;;Priyanka Mahila Khaisya Chandrika;;Perempuan;;Blitar 17 Januari 2013;;Tri Arisandi ;Karyawan Swasta;Binti Nurhamidah;IRT;;
+371;2;30;6;3128715717;03.2019.1351;;;Qanita Alya Azzahra;;Perempuan;;Surabaya 01 September 2012;;Rachmad Hariyadi ST;Karyawan BUMN;Rina Sri Novrianti ST;Karyawan BUMN;Jl. Ketintang  Selatan II No 77 Sby;
+372;2;30;6;3127843947;03.2019.1352;;;Raena Callista Affandy;;Perempuan;;Surabaya 13 Agustus 2012;;Ragil Yudha Affandi;Karyawan Swasta;Evi Dwi Putri Nuryani;IRT;Gunung Sari Indah Blok GG/29 Sby;
+373;2;30;6;0134918532;03.2021.1513;;;Raisha Aida Mecca;;Perempuan;;Bandung, 16 Januari 2013;;Taufan A. Perdana;PNS;Henni Tri Ambarwati;Karyawan Swasta;Gayung Kebonsari Komp BC/B-26 Surabaya;
+374;2;30;6;0135356889;03.2019.1354;;;Sherpa Rinjani Kinanti;;Perempuan;;Surabaya 25 Januari 2013;;Sandi Mario Kirniawan;TNI;Novy Pandu Kurniaty;Karyawan Swasta;Pulo Wonokromo 19 - D Surabaya;
+375;2;30;6;0131428478 ;03.2019.1356;;;Syareefa Putri Athaleta;;Perempuan;;Lamongan 21 Maret 2013;;Arya Kemal Pratamaputra ST;Karyawan Swasta;Pretty Ullya Pristyaningrum Ssi;IRT;Jl. Wiguna Tengah IV/17 Sby;
+376;2;30;6;0134950356;03.2019.1388;;;Tiara Ramadhani Mahendra Putri;;Perempuan;;Surabaya 20 Juli 2013;;Iwan Mahendra SE;Karyawan BUMN;Yanti Indrasari Sholeha;Karyawan BUMN;Karah Agung III/18 Surabaya;
+377;2;30;6;3122015915;03.2019.1357;;;Zahra Syakila Shabira;;Perempuan;;Surabaya 06 April 2012;;Rony Irfan ;Karyawan Swasta;Elly Septiastuti;Karyawan Swasta;Jl. Wonocolo V Utara 5A Sby;
+378;2;30;6;3125739296;03.2019.1358;;;Zahwa Aqilla Murtadho;;Perempuan;;Surabaya 11 April 2012;;Ali Murtadho;PNS;Suwanti;Wiraswasta;Kebonsari Baru Selatan I/8 Sby;
+379;2;31;6;3124402312;03.2019.1359;;;Ada Zharana Kasih;;Perempuan;;Surabaya 27 Juni 2012;;Kodim ;Wiraswasta;Dewi Nugrahaeni;IRT;Jetis Wetan 86 Surabaya;
+380;2;31;6;0136138687;03.2019.1390;;;Adiba Sahilah Kanaya;;Perempuan;;Surabaya, 26 Juli 2013;;Imam Kuncoro S.E;;Muyassaroh;;Ketintang 2 / 35 Surabaya ;
+381;2;31;6;0138883869;03.2019.1360;;;Afia Ishma Putri Subhakti;;Perempuan;;Surabaya 15 Juni 2013;;Aris Subhakti SE;Karyawan Swasta;Ludyani Trisno Anjarwati SE;Karyawan Swasta;Karangrejo 7/7 Surabaya;
+382;2;31;6;3132976304;03.2019.1361;;;Aliya Nabila Shidqia;;Perempuan;;Surabaya 14 Februari 2013;;Heru Jatmiko Nugroho;Karyawan Swasta;Tri Wahyu Hesti Rahayu SE;Karyawan Swasta;Bratang Gede 6-E /68 Sby;
+383;2;31;6;0125818274;03.2019.1363;;;Aretha Zhafira Kaylanisa;;Perempuan;;Surabaya 17 Juni 2012;;Darmanto ST;Karyawan Swasta;Ikka Novitasari ST;Karyawan BUMN;Asem Jaya 7/46 Surabaya;
+384;2;31;6;0127994504;03.2019.1364;;;Asy syifa Anna Catalleya;;Perempuan;;Sidoarjo 17 Oktober 2012;;-;-;Anggi Purnama Sari;Karyawan Swasta;Pakis Wetan 2/8 Surabaya;
+385;2;31;6;3122200617;03.2019.1365;;;Athena Clarissa Angelita ;;Perempuan;;Surabaya 06 Maret 2012;;Achmad Nasir;Karyawan Swasta;Afrina Roserli SE;Karyawan Swasta;Karah Agung I-A /8 Surabaya;
+386;2;31;6;3139908110;03.2019.1366;;;Azza Luthfiyah Wahidah;;Perempuan;;Surabaya 15 Juli 2013;;Machfud ST;Karyawan Swasta;Awali Fitriyah A.Md;Karyawan Swasta;Balongsari Blok 5-G/16 Sby;
+387;2;31;6;3136832929;03.2019.1367;;;Bening Khalidah Zya;;Perempuan;;Surabaya 17 Maret 2013;;Fauzi Nugroho;Karyawan Swasta;Dewi Suchufi Sa'adah;IRT;Karang Rejo 9/29 Surabaya;
+388;2;31;6;3123272206;03.2019.1368;;;Bening Prameswari;;Perempuan;;Surabaya 30 November 2012;;Sandi Kuntjoro SPI;Karyawan Swasta;Christine Nunuk W;IRT;Gayungan 01-B/15 Surabaya;
+389;2;31;6;3123489651;03.2019.1369;;;Carissa Nafilia Hafidza;;Perempuan;;Surabaya 21 Agustus 2012;;M. Sjamsul Hanafy;Karyawan Swasta;Isna Aliyah;Guru;Permata Jambangan 1/21 Sby;
+390;2;31;6;3133969847;03.2019.1371;;;Faraisha Adiba Ainun Mahya;;Perempuan;;Surabaya 05 Juni 2013;;Raries Ridwana;Karyawan BUMN;Leny Legawati S.Sos;IRT;Jl. Jambangan Kebonagung Asri Kav 18 Sby;
+391;2;31;6;3134540325;03.2019.1372;;;Firyal Malaeka Hayfa Alnada;;Perempuan;;Surabaya 05 Februari 2013;;Dadan Ramdani ST;Karyawan BUMN;Agustina Sudianti A.Md;Karyawan BUMN;Gunungsari 4/72 Surabaya;
+392;2;31;6;3122328987;03.2019.1373;;;Janeeta Putri Sabilaturrohmah;;Perempuan;;Surabaya 03 Mei 2012;;Nimat Rahmatulloh SH;Karyawan Swasta;Yulita Nugraha;Karyawan Swasta;Pagesangan Regency Jl. Pagesangan IV Kencana 2 Sby;
+393;2;31;6;3136840409;03.2019.1374;;;Kanza Putri Prasetyo;;Perempuan;;Surabaya 14 Mei 2013;;Rido Dwi Prasetyo;Karyawan Swasta;Hanni;IRT;Kedongdong Kidul 4/8-D Sby;
+394;2;31;6;3128021362;03.2019.1375;;;Kenes Ruci Sasmaya;;Perempuan;;Purworejo 05 Mei 2012;;Jazam Widadi ;PNS;Era Gharna Suryawati;PNS;Puri Jambangan Asri No 3S ;
+395;2;31;6;3125832033;03.2019.1376;;;Lefani Mehfira Arifah;;Perempuan;;Surabaya 14 September 2012;;Fatih Churiyanto SE;Karyawan Swasta;Sri Hani Setiowati;IRT;Jl. A.Yani No 164 Surabaya;
+396;2;31;6;3121684956;03.2019.1377;;;Muazarah Nafilah Fatin;;Perempuan;;Surabaya 03 Desember 2012;;Misbachul Munir;Karyawan Swasta;Halimatus Sa'diyah;Karyawan Swasta;Karangrejo Sawah 12/1 Sby;
+397;2;31;6;3123982553;03.2019.1378;;;Nabilah Putri Zahirah;;Perempuan;;Surabaya 05 November 2012;;Mochammad Lukmanul Hakim;Karyawan Swasta;Lilik Fatmawati;IRT;Jl. Kebonsari No 35 Surabaya;
+398;2;31;6;0124175196;03.2019.1379;;;Nayra Balqis Arifin;;Perempuan;;Surabaya 14 November 2012;;Agus Dwi Yanto;Karyawan Swasta;Fadhilatul Inayah;IRT;Jetis Kulon 7/15 Surabaya;
+399;2;31;6;0139610498 ;03.2019.1387;;;Nur 'Aristawati Araaf Konsultania Zuhri;;Perempuan;;Sidoarjo 11 Januari 2013;;Nuri Maulidi;Karyawan Swasta;Darwati;Guru ;Perum Kedungturi Permai II Blok R No 11 Sda;
+400;2;31;6;3123740512;03.2019.1380;;;Sarah Zhafira Chairani;;Perempuan;;Sidoarjo 27 Oktober 2012;;Muhammad Chairuddin SE;Transportasi;Fransisca Ariyani;IRT;Karah IV/59 Surabaya;
+401;2;31;6;3125478651;03.2019.1381;;;Tabri Ziyah Julieta;;Perempuan;;Surabaya 16 Juli 2012;;Madhori;Wiraswasta;Akfir Rullia Yuliantina;IRT;Wonokromo Pasar 6/18 Sby;
+402;2;31;6;3125402402;03.2019.1382;;;Talita Nabilla Zalfa;;Perempuan;;Surabaya 07 Juli 2012;;Achmad Faizal;TNI;Krystiana Eka Mulya;IRT;Ketintang Timur PTT 05/04 Sby;
+403;2;31;6;3123279877;03.2020.1509;;;Talitha Dhizza Humaira;;Perempuan;;Surabaya 28 Mei 2012;;Budhi Aryanto;-;AzzaIbrahin;Karyawan Swasta;Penjaringan Sari PSIIC/19 Sby (Jl. Tegal Mas Pesapen 1B);
+404;2;31;6;3124628678;03.2019.1383;;;Tsamarah Ghaisani Atalila;;Perempuan;;Surabaya 13 September 2012;;Widodo ;Karyawan Swasta;Deni Fenani;Karyawan Swasta;Menanggal 05/45 Surabaya;
+405;2;31;6;3125434733;03.2019.1384;;;Zazkiya Awlia Mecca;;Perempuan;;Sumenep 26 Mei 2012;;Heri Effendi;DPRD Kota;Lynda Lestriayani;Wiraswasta;Jambangan Indah I/32 Kav 24 Surabaya;
+406;2;32;7;0122725417;03.2018.1155;;;Abhrizam  Fariz Al-Hakim ;Izam;Laki-laki;;Sby, 28/12/2011;;Fariz Lukman Hakim, S.Farm;KARYAWAN SWASTA;Ratih Humaira, SS;Ibu Rumah Tangga;Karah Taman Asri 1/5;
+407;2;32;7;0119323893;03.2018.1156;;;Achmad Afifullah Al-Ayyubi ;Afif;Laki-laki;;Sby, 7/10/2011;;Faisol;WIRASWASTA;Fii Isyatin Rodiyah;Ibu Rumah Tangga;Wonorejo 4/95D;
+408;2;32;7;0119880624;03.2018.1157;;;Achmad Asyatoriqul Nizam ;Nizam;Laki-laki;;Mojokerto, 10/12/2011;;Mukhamad Zainal Arifin;PEGAWAI NEGERI SIPIL(PNS);Irawati;Ibu Rumah Tangga;Hayam Wuruk Baru 2/59;
+409;2;32;7;0128358959;03.2018.1158;;;Achmad Farich Abu Robi'in ;Robi'in;Laki-laki;;Surabaya, 5 Februari 2012;;Achmad Taufiq;KARYAWAN SWASTA;Nevi Nur Khalisah;Ibu Rumah Tangga;Pasar Kembang 59;
+410;2;32;7;0116141504;03.2018.1160;;;Azkavio Nasukha ;Azka;Laki-laki;;Surabaya, 25 Mei 2011;;Febri Akhmad Nasukha,S.Pd;;Vindy Damatanti,S.Pd;;Karah 7c.4 Kel. Karah Kec. Jambangan;
+411;2;32;7;0128204150;03.2018.1161;;;Barra Bumi Indrajit;;Laki-laki;;Sby, 1/1/2012;;Induk Indrajit;KARYAWAN SWASTA;Amanda Editasia;KARYAWAN SWASTA;Wonosari Kidul 3/78 Kel.Sawunggaling, Kec. Wonokromo 60242;
+412;2;32;7;0126901508;03.2018.1162;;;Danish Rasya Alaric Mubarok ;Rasya;Laki-laki;;Sby, 12/12/2011;;Hafid Mubarok;PEGAWAI NEGERI SIPIL(PNS);Novita Siska Handayani;Ibu Rumah Tangga;Gayung Kebonsari Komp. Bea Cukai Blok A.18 Kel. Ketintang Kec. Gayungan 60231;
+413;2;32;7;0119839820;03.2018.1163;;;Fajar Anugrah ;Fajar;Laki-laki;;Sby, 20/6/2011;;Supri Haryono;KARYAWAN SWASTA;Sari Asih;Ibu Rumah Tangga;Ketintang Barat 1/3-D;
+414;2;32;7;0121978239;03.2018.1164;;;Fatan Dzakiyal Qolbi ;Fatan;Laki-laki;;Sby, 29-04-2011;;Muslimin;KARYAWAN SWASTA;Muawanah;GURU;Griya Masangan Asri Blok B3 No.03;
+415;2;32;7;0127080839;03.2018.1165;;;Hafizh Zaki Rafasya ;Rafasya / Rafa;Laki-laki;;Sby, 19/5/2012;;Tirto Setiawan, SE;KARYAWAN SWASTA;Ismataria Husna, ST;Ibu Rumah Tangga;Menanggal 04/37;
+416;2;32;7;0123382593;03.2018.1167;;;Hanif Zufar Falah Fadhlulloh;;Laki-laki;;Sby, 09/06/2012;;A. Yusuf MS;DOSEN;Lestari Kusumahati;Ibu Rumah Tangga;Kendangsari II/50;
+417;2;32;7;0123368662;03.2018.1169;;;Messi haikal Agung Ibrahim ;Messi;Laki-laki;;Sby, 7/4/2012;;Agung Mardiono;WIRASWASTA;Nike Rafikasari;Ibu Rumah Tangga;Ketintang Permai AE-9;
+418;2;32;7;0129426636;03.2018.1170;;;M. Gilbram Akbar Kasyafare ;Ibam;Laki-laki;;Sby, 16/07/2012;;Andi Suryadi, A.MA;GURU;Rennita Ayu Prabawanti,A.MA;GURU;Ketintang Barat Gg.Buntu No.239;
+419;2;32;7;0112487526;03.2018.1171;;;Muhammad Abu Roy ;;Laki-laki;;Sby, 20/4/2011;;Ahyath;KARYAWAN SWASTA;Sofiah;Ibu Rumah Tangga;Pandegiling Stal 15;
+420;2;32;7;0129136771;03.2018.1173;;;Muhammad Naizar Al Faridzy ;Naizar;Laki-laki;;Sby, 27/2/2012;;Endro Cahyono;KARYAWAN SWASTA;Deasy Prameswari, S.S;WIRASWASTA;Perum Palm Spring Regency C-2;
+421;2;32;7;0126845211;03.2018.1174;;;Muhammad Naufal Kadis  ;Naufal;Laki-laki;;kota magelang, 27-1-2012;;Aldi Faraldi Kadis;PEGAWAI NEGERI SIPIL(PNS);Weshaka Tiksna Sharaswati;Ibu Rumah Tangga;Komplek Bea Cukai Injoko Blok B12;
+422;2;32;7;0121425111;03.2018.1175;;;Muhammad  Rakha Atallah Kurniawan ;Raka;Laki-laki;;Sby, 9/2/2012;;Yudha Kurniawan;PEGAWAI NEGERI SIPIL(PNS);Nuril Firdaus;Ibu Rumah Tangga;Jetis Kulon 8/65;
+423;2;32;7;0118938903;03.2018.1176;;;Naufal Rafif Abiyyu ;Naufal;Laki-laki;;Surabaya, 15 Desember 2011;;Hari Santoso;KARYAWAN SWASTA;Cita Sugiarti,AMD,KEP;BELUM/TIDAK BEKERJA;DK. Gemol;
+424;2;32;7;0118618872;03.2018.1177;;;Riffat Jazmi Alkhalifi ;Riffat;Laki-laki;;Sby, 23/11/2011;;Dhanang Priyo Kuncoro, S.Pd;KARYAWAN SWASTA;Linda Pebtin Yusnina, A.MA;GURU;Dk. Gemol II-B/20;
+425;2;32;7;0114890203;03.2018.1178;;;Rizki  Radix Shafa Mubarok ;Radix;Laki-laki;;Sby, 4-10-2011;;Abdul Hamid Arif;KARYAWAN SWASTA;Peni Rejeki Swastika, S.Pd;PEGAWAI NEGERI SIPIL(PNS);Gayungan Pasar 25;
+426;2;32;7;0111310937;03.2018.1179;;;Saka Guru Sena Sih Yogheswara ;Saka;Laki-laki;;Sby, 16/11/2011;;Ir. Fiviandhi;KARYAWAN SWASTA;Ir. Irlia Trihardini;Ibu Rumah Tangga;Ketintang Baru 03/27;
+427;2;32;7;0124665009;03.2021.1614;;;Samir;;Laki-laki;;Surabaya, 26 Mei 2012;;NASIR SAAD NABHAN;WIRASWASTA;Faizah;Mengurus Rumah Tangga;Karah Indah 1 Blok A-8 Surabaya;
+428;2;32;7;0121370932;03.2018.1180;;;Sultan Athahillah Pringgodigdo ;;Laki-laki;;Sby, 23/7/2012;;Jody Garjito Pringgodigdo;KARYAWAN SWASTA;Rizky Dinar Amallia, SE;KARYAWAN SWASTA;Darmokali 1/5-A;
+429;2;32;7;0122278697;03.2018.1181;;;Yusro Bariq Imani ;Yusro;Laki-laki;;sby, 1/1/2012;;DRH, Andi Widodo Wijanarko;PEGAWAI NEGERI SIPIL(PNS);Indah Purnama Sari;PEGAWAI NEGERI SIPIL(PNS);Menur Pumpungan;
+430;2;32;7;0127799012;03.2018.1182;;;Yusuf Al Hafidz Habibi ;Yusuf;Laki-laki;;Samarinda, 25/5/2012;;Yanuar Habibi;Karyawan Swasta;Hesty Yusnita;Ibu Rumah Tangga;Wonokromo Pasar 1/5;
+431;2;32;7;0118487393;03.2018.1183;;;Zainullah Azzuhairiy ;Zuhair;Laki-laki;;Sby, 27/11/2011;;Moenir;KARYAWAN SWASTA;Dhina Innama;GURU;Bratang Wetan 2/51-A (Bendul Merisi Jaya Gg.Musholla/11);
+432;2;33;7;0115982376;03.2018.1184;;;Ahdan Naufal Ardyan ;;Laki-laki;;Sby, 13-8-2011;;Arief Prihantara;KARYAWAN SWASTA;Dyah Agustin;GURU;Bratang Gede 1/55c;
+433;2;33;7;0111898392;03.2018.1186;;;Al Hanif Dzakwan Kusuma ;Hanif;Laki-laki;;sby, 31/12/2011;;Galih Pria Kusuma, S.Pd;WIRASWASTA;Meirna Azizah Rokhmadiah, A.Md.P;Ibu Rumah Tangga;Taman Menanggal Indah No 17;
+434;2;33;7;0119442194;03.2018.1185;;;Albyan Dzikri Lazuardi ;Alby;Laki-laki;;Sby, 17/07/2011;;Muhammad Saiful Hidayat;KARYAWAN SWASTA;Myrna Retnani;Ibu Rumah Tangga;Griya Kebraon Selatan 5G/11-A;
+435;2;33;7;0117605540;03.2018.1187;;;Almer Hasyim Akbar Surur ;Almer;Laki-laki;;sby, 1/11/2011;;Badrus Surur, S.S;KARYAWAN SWASTA;Yeni, S.Ag;KARYAWAN SWASTA;Rungkut Menanggal Harapan B/16;
+436;2;33;7;0113864754;03.2018.1188;;;Azriel Mochammad Zuhri ;Azriel;Laki-laki;;Sby, 19/10/2011;;Moch. Isa Anshori;DOSEN;Nurul Amalia;Ibu Rumah Tangga;Kedinding Tengah Sekolahan 5-C/34;
+437;2;33;7;0117125555;03.2018.1189;;;Bayu Nendro Satrio ;Bayu;Laki-laki;;Sby, 23/5/2012;;Bethoro Endroyono Imson;BELUM/TIDAK BEKERJA;Neny Musparrita;KARYAWAN SWASTA;Padmosusastro No 6;
+438;2;33;7;0112981530;03.2018.1190;;;Dayyan Ejaz Zhafar Bintoro ;Dayyan;Laki-laki;;Sby, 27/05/2011;;Poerwo Bintoro;KARYAWAN SWASTA;Gunaran Rachmawati;KARYAWAN SWASTA;Jogoloyo Besar No.3-A;
+439;2;33;7;0113502492;03.2018.1191;;;Farras Muwakkil Goni ;Farras;Laki-laki;;Bogor, 24/3/2011;;Ferideni Falian;KARYAWAN SWASTA;Luly Mariana;KARYAWAN SWASTA;Ruko Puri Kencana Karah B/41-A;
+440;2;33;7;0125065250;03.2018.1193;;;Hasan syarif Abimanyu ;Hasan;Laki-laki;;Sby, 2012-08-19;;Suluh Subagyo;KARYAWAN SWASTA;Machmudah, S.Psi;DOSEN;Jojoran 1 Blok N/12;
+441;2;33;7;0128022986;03.2018.1194;;;Kenzhie Elnando Maghfuri ;Kenzie;Laki-laki;;Surabaya, 1 April 2012;;Ahmad Zaki Maghfuri;KARYAWAN SWASTA;Karina Praditya;KARYAWAN SWASTA;Jambangan Indah V/9;
+442;2;33;7;0114678664;03.2019.1273;;;Mirzassidqi Robbani;;Laki-laki;;Gresik 03 Desember 2011;;Bustami Hazim;WIRASWASTA;Masrurah;Ibu Rumah Tangga;;
+443;2;33;7;0112173111;03.2021.1512;;;Moch. Azhar Maulana;;Laki-laki;;Bandung, 21 Februari 2011;;Edi Sukaedi;Alm;Djuju Julaeha;Ibu Rumah Tangga;Aspol Ketintang Baru IIA No. 10 Surabaya;
+444;2;33;7;0113251224;03.2018.1196;;;Muhammad Amrulloh Izzan Ghofaro ;Izzan;Laki-laki;;Sby, 10/12/2011;;Achmad Mu'afi, S.Ag;GURU;Hanum Zakkiyah;KARYAWAN SWASTA;Ketintang 4-B/15-V;
+445;2;33;7;0126385423;03.2018.1197;;;Muhammad Arkan Maritza ;Arza;Laki-laki;;Sby, 21/01/2012;;Dodiastyo Hutomo, SE;KARYAWAN SWASTA;Indah Anggun Kurniawati, S.Psi;Ibu Rumah Tangga;Simo Rukun 5/1-F;
+446;2;33;7;0118929272;03.2018.1198;;;Muhammad  Aryasatya Putra Subhakti ;Arya;Laki-laki;;Sby, 21/11/2011;;Aris Subhakti, SE;KARYAWAN SWASTA;Ludyani Trisno Anjarwati,SE;KARYAWAN SWASTA;Karangrejo 7/7;
+447;2;33;7;0118695657;03.2018.1199;;;Muhammad Ashim Asharis ;Ashim;Laki-laki;;Probolinggo, 29/10/2011;;M. Asharis;WIRASWASTA;Siti Aminah;GURU;Manyar Kartika VIII/8 ( Putat Gede Timur III/48);
+448;2;33;7;0126923623;03.2018.1200;;;Muhammad Gibran Ramadhan ;Gibran;Laki-laki;;Sby, 10/8/2011;;M. Marji'in Nur, A.Md;GURU;Yeni Anita Gonti, A.Md;PEGAWAI NEGERI SIPIL(PNS);Jl. Lawang Seketeng II/14;
+449;2;33;7;0119852875;03.2018.1201;;;Muhammad Habib El Hannan ;Habib;Laki-laki;;Mojokerto, 7 Desember 2011;;Abdul Hakam ;GURU;Kholilah;Ibu Rumah Tangga;Ketintang Baru Gg.17/26;
+450;2;33;7;0114261774;03.2018.1202;;;Muhammad Keenan Widjaja;;Laki-laki;;Sidoarjo, 24 Oktober 2011;;Eko Agus Widjaja;KARYAWAN SWASTA;Nurul Khusnul Layly;KARYAWAN SWASTA;Gunung Anyar;
+451;2;33;7;0117270937;03.2018.1203;;;Muhammad Khairul Azzam ;Azzam;Laki-laki;;sby,3/6/2012;;Anton Budi Arifianto;WIRASWASTA;Eka Swarastutik;Ibu Rumah Tangga;Ketintang 4/21;
+452;2;33;7;'0128827537;03.2018.1204;;;Muhammad Mirza Pratama ;Mirza;Laki-laki;;Sby, 6/6/2012;;Agus Fuad Wandi;KARYAWAN SWASTA;Intan Puspa Chrisnia;KARYAWAN SWASTA;Ketintang Baru 17/26;
+453;2;33;7;0127410371;03.2018.1205;;;Muhammad Qushayyi Imtiyaz ;Izaz;Laki-laki;;Sby, 15/08/2011;;Muhammad Munir;WIRASWASTA;Yully Suhartini;PEGAWAI NEGERI SIPIL(PNS);Pagesangan Timur III/7;
+454;2;33;7;0117137391;03.2018.1206;;;Muhammad Rizqy Rijalalloh ;Rizqy;Laki-laki;;Sby, 20/6/2011;;Abd. Wahid;KARYAWAN SWASTA;Nur Chomsiyah;Ibu Rumah Tangga;Wonorejo4/90;
+455;2;33;7;0111359905;03.2018.1207;;;Muhammad Syafir Ramadhan Manessa ;Syafir;Laki-laki;;Sby, 8/8/2011;;Syarifuddin;TENTARA NASIONAL INDONESIA (TNI);Firda Ika Pratiwi, A.MD, KEB;Ibu Rumah Tangga;Golf 8/10;
+456;2;33;7;0104306724;03.2018.1209;;;Muhammad Zidan Zuher Amani ;Zidan;Laki-laki;;Magetan, 2/11/ 2010;;Imam Ghozali;WIRASWASTA;Novie Handayani;WIRASWASTA;Semolowaru No.119;
+457;2;33;7;'0126570525;03.2018.1210;;;Pandityatama Shankara Wibawa ;Tama;Laki-laki;;Sby, 26/5/2012;;Teguh Pandityanto Wibowo;PEGAWAI NEGERI SIPIL(PNS);Erveny Pratiwi Eka Novisanti;WIRASWASTA;Ketintang 2/8;
+458;2;33;7;0128291649;03.2018.1211;;;;Azzam;Laki-laki;;Sidoarjo, 6 Pebruari 2012;;Mim Saiful Hadi, S.Ag;KARYAWAN SWASTA;Soelchul Moechojjaroh, S.Psi;Ibu Rumah Tangga;Kebraon Indah Permai D/17;
+459;2;34;7;0118706128;03.2018.1212;;;Ailsa Renata Altafannisa ;Ailsa;Perempuan;;Sby, 10/10/2011;;Sukarno;KARYAWAN SWASTA;Yuli Astutik;JURU MASAK;Kedung Mangu Selatan No. 37 (Pakis II/22, Kec. Sawahan);
+460;2;34;7;0126165256;03.2018.1213;;;Aisyah Tungga Dewi;;Perempuan;;Surabaya, 2 April 2012;;Hernawan;TENTARA NASIONAL INDONESIA (TNI);Tami Yuni Astuti,SE;KARYAWAN SWASTA;Sukomanunggal 5/17 (Gajah Mada Sekolahan 19A Kel.Sawunggaling Kec.Gunungsari);
+461;2;34;7;0118978614;03.2018.1214;;;Alyssa Khansa Humaira ;Khansa;Perempuan;;Sby,19/11/2011;;Andi Muryantono;WIRASWASTA;Chrysma Elysa;KARYAWAN BUMN;Ketintang Permai AD No. 7 ;
+462;2;34;7;0113178066;03.2018.1215;;;Anggun Naila Salsabilla ;Anggun;Perempuan;;Sby, 1-12-2011;;Ashuri;WIRASWASTA;Dian Kartika Sari;Ibu Rumah Tangga;Gunung Anyar (kk luar kota);
+463;2;34;7;0114927636;03.2018.1216;;;Aquinta Salwa Sanjaya ;Salwa;Perempuan;;Surabaya, 29/09/2011;;Andri Rahma Sanjaya;KARYAWAN SWASTA;Denok Kurnia Lestari;KARYAWAN SWASTA;Pandegiling 4/3A;
+464;2;34;7;0113914746;03.2018.1217;;;Ascha Haniyah Putri ;Acha;Perempuan;;Banjarmasin, 30-12-2011;;Rachmad Fathony, ST;PEGAWAI NEGERI SIPIL(PNS);Agustina Peny Yuniastri, A.Md;PEGAWAI NEGERI SIPIL(PNS);Jl. Kebonsari Tengah No. 11 B;
+465;2;34;7;0128833640;03.2018.1218;;;Bayyinah Kasyafnaa Khoirrun Nisaa;;Perempuan;;Surabaya, 7 Mei 2012;;Alm. Heru Prayitno;BELUM/TIDAK BEKERJA;Lailatur Rosyidah;GURU;Tempel Sukorejo 5/26;
+466;2;34;7;0112222837;03.2018.1219;;;Dewa Ayu Putu Dyandra Oksafira ;Dyandra;Perempuan;;Sby, 19/10/2011;;Dewa Gede Mahendrawan;KARYAWAN BUMN;Yani Rossiana Lukitasari;KARYAWAN SWASTA;Perum Royal Ketintang Regency Blok G - 07;
+467;2;34;7;0125933528;03.2018.1220;;;Fathiyah Ulin Na'ma ;Ulin;Perempuan;;Surabaya, 8 Mei 2012;;Achmad Chumaidi;KARYAWAN SWASTA;Ira Novita;KARYAWAN SWASTA;Krembangan Jaya Selatan 2 - c/8;
+468;2;34;7;0121676013;03.2018.1221;;;Fatimah Az Zahra ;Fatimah;Perempuan;;Surabaya, 2 Mei 2012;;Drs. Moh. Amin;KARYAWAN SWASTA;Indra Yulis Mardi Umiyati;Ibu Rumah Tangga;Karang Klumprik Selatan VI/14;
+469;2;34;7;0123778489;03.2018.1222;;;Fildzahra Arysa Ningtias ;Fildzah;Perempuan;;Surabaya, 20 Mei 2012;;Indra Aryo Untoro;KARYAWAN SWASTA;Maisaroh;KARYAWAN SWASTA;Pulosari 3L/12;
+470;2;34;7;0119956588;03.2018.1223;;;Kanaya Azalia Nailatussy ;Naya;Perempuan;;Sby, 22/11/2011;;Moch. Iwan S;KARYAWAN SWASTA;Fibri Andini;WIRASWASTA;Karah V/56 (Taman Jambangan Indah II/16, Kel. Jambangan, Kec, Jambangan, Kode Pos 60232);
+471;2;34;7;0128667501;03.2018.1224;;;Keisha Ghoniyyah Latifah ;Keke;Perempuan;;Surabaya, 18/03/2012;;Wahyu Gustiono;WIRASWASTA;Nuri Hudayanti;KARYAWAN SWASTA;Pulosari 3J/28A;
+472;2;34;7;0124778926;03.2018.1225;;;Kinar Ailani Rafanata ;Kinar;Perempuan;;Surabaya, 12 Januari 2012;;Rahmad Ananta Padmosiswoyo;KARYAWAN SWASTA;Endah Triana Dewi;Ibu Rumah Tangga;Taman Ketintang Wiyata 35;
+473;2;34;7;0111019990;03.2018.1226;;;Lady Khansa Azkadina Pribadi. ;Khansa;Perempuan;; Sby, 3/9/2011;;Agung Pribadi, ST;KARYAWAN SWASTA;Ayudha Primera Delima, S.KM;Ibu Rumah Tangga;YKP. Rungkut Lor RL. 2C/28 (Ketintang Timur PTT II/12, Kel. Ketintang, Kec. Gayungan, Kode POS. 60312);
+474;2;34;7;0123588846;03.2018.1227;;;Lavina Dyfa Azalia ;Lavina;Perempuan;;Surabaya, 13 Januari 2012;;Firullah Sandy Oktanova, ST;KARYAWAN SWASTA;Nur Farida, SE;WIRASWASTA;Ketintang Barat II/04;
+475;2;34;7;0117267864;03.2018.1228;;;Lutfina Nur Asrory ;Fina;Perempuan;;Sby, 14-10-2011;;Suwarno;KARYAWAN SWASTA;Lilik Lian Ningsih;Ibu Rumah Tangga;Mustika Baru 1;
+476;2;34;7;0117129776;03.2018.1230;;;Mercia Talita Humaira Arkarna;;Perempuan;;Sby, 2 nov 2011;;Suhartoyo Akhirianto;KARYAWAN SWASTA;Tri Arum Ningtias;KARYAWAN SWASTA;Karangan 229;
+477;2;34;7;0128529755;03.2018.1231;;;Mutiara Ibiza Aila Sugiarto ;Mutiara;Perempuan;;Sby, 05-11-2012;;Sigit Sugiarto;KARYAWAN SWASTA;Devi Sugiarti;KARYAWAN SWASTA;Raya Ketintang Barat No.45;
+478;2;34;7;0127458585;03.2018.1232;;;Najwa Alya Safira ;Alya;Perempuan;; sby, 30/7/2012;;Sai'in;WIRASWASTA;Dewi Vittriani;Ibu Rumah Tangga;Karangrejo Sawah 7/29 (Ketintang Barat V No. 53C, Kel. Ketintang, Kec. Gayungan);
+479;2;34;7;0123310201;03.2018.1233;;;Najwa Devania Az Zahra ;Deva;Perempuan;;Surabaya,  24 Mei 2012;;Muzammil;PEDAGANG;Sri Wahyuni;Ibu Rumah Tangga;Wonorejo 4/112;
+480;2;34;7;0129527934;03.2018.1234;;;Nurin Najwa Azra Qorriaina;;Perempuan;;Sidoarjo, 3-7-2012;;Tukiran;PEGAWAI NEGERI SIPIL(PNS);Woro Setyarsih;PEGAWAI NEGERI SIPIL(PNS);Pondok Ridha III No 30 Sidodadi Taman Sda;
+481;2;34;7;0125379843;03.2018.1235;;;Quaneisha Meysila Alify ;Neisha;Perempuan;;Sby, 23/5/2012;;Zaenal Fanani;KARYAWAN SWASTA;Tauriska Candra Kasih;PEGAWAI NEGERI SIPIL(PNS);Wiyung Indah Blok F - 8;
+482;2;34;7;0126609612;03.2018.1236;;;Raisya Hazma Rajjabi ;Raisya;Perempuan;;sby, 23/5/2012;;Tofan Afrelly;KARYAWAN SWASTA;Ida Rachmawati;GURU;Pakis Wetan 4/2 ;
+483;2;34;7;0127460083;03.2018.1237;;;Rayya Aldwina Raisyabani ;Rayya;Perempuan;;Surabaya, 18 Juli 2012;;Saiful Anam;KARYAWAN SWASTA;Drh. Ida Arlita Wulandari;PEGAWAI NEGERI SIPIL(PNS);Jl. A. Yani 68-71;
+484;2;34;7;0121475105;03.2018.1238;;;Yuanita Aliya Putri ;;Perempuan;;Sby, 3/3/2012;;Sidi Muljanto;KARYAWAN SWASTA;Erma Fitriati Lestari;KARYAWAN SWASTA;Karangrejo Sawah 6/27;
+485;2;34;7;0127726946;03.2018.1239;;;Zabrina Qonita Az Zahra ;Bina;Perempuan;;Sby, 19/1/2012;;Yudhi Endro Cahyono;KARYAWAN SWASTA;Emmi Nur Asri;Ibu Rumah Tangga;Dupak Rukun No. 277 (Gayungan Residence A - 7, Kel. Gayungan, Kec. Gayungan);
+486;2;35;7;0124951887;03.2018.1240;;;Adhwa Nadha Maulida Dewi Agung ;Nadha;Perempuan;;Sby 7/2/2012;;Agung Zaelani;KARYAWAN SWASTA;Fitria Dewi Indah Soesanti;WIRASWASTA;Balongsari Tama Blok 2-D/16;
+487;2;35;7;0121190240;03.2018.1241;;;Adlina Adzra Nabila ;Nabila;Perempuan;;Sby, 7/4/2012;;Arif Kusuma Ardiansyah;PEGAWAI NEGERI SIPIL(PNS);Indah Sari Wulandari;PEGAWAI NEGERI SIPIL(PNS);Gayungan 08 Gg Mangga No, 7 E;
+488;2;35;7;3134912273;03.2019.1391;;;Adeeva Rifda Fikria ;;Perempuan;;Surabaya, 04 Januari 2013;;Arfiq Khoiron;Karyawan Swasta;Siti Aminah;KARYAWAN SWASTA;Gembili 1/30 Surabaya ;
+489;2;35;7;0112833509;03.2021.1516;;;Aisyah Azzahra Putri Hartono;;Perempuan;;Jakarta, 24 Mei 2011;;David Budi Hartono, Amd;Karyawan Swasta;Putri Ayu Sinta Margareta;Ibu rumah tangga;Perumahan Royal Ketintang RegencyBlok H-3 Surabaya;
+490;2;35;7;0114878811;03.2018.1243;;;Alliya Kayyisa Qathrunnada;;Perempuan;;Sby, 21 Juli 2011;;Joko Triwasono Putro;KARYAWAN SWASTA;Widya Aprilia Safitri;Ibu Rumah Tangga;Ketintang Barat 5/96A;
+491;2;35;7;0111181771;03.2020.1396;;;Angelina Widyadhana Palupiadi;;Perempuan;;Kediri, 9 Desember 2011;;Supriyadi;KARYAWAN SWASTA;Rina Palupi;KARYAWAN SWASTA;Jl. Sepanjang Indah I No. 1 ;
+492;2;35;7;0115998198;03.2018.1244;;;Aqilah Zaahirah Muhammad ;Aqilah;Perempuan;;Sby, 14/11/2011;;Totok Wiranto;KARYAWAN SWASTA;Imelda Hersusijanti;WIRASWASTA;Ketintang Madya II/17;
+493;2;35;7;0114182909;03.2018.1245;;;Barir Bazila Az Zahro;;Perempuan;;Jombang, 26 Desember 2011;;Muji Sampurno;KARYAWAN SWASTA;Aini Lil Maqfiroh;GURU;Pakis No. 14;
+494;2;35;7;0111819670;03.2018.1246;;;Faza Khaliesah Zaidhani;;Perempuan;;Surabaya,  2011-11-04;;Moch Djaenuri;WIRASWASTA;Ria Wardani;KARYAWAN SWASTA;Karah 5/63;
+495;2;35;7;3126844448;03.2019.1271;;;Fathimah Nadzifah Alkaff;;Perempuan;;Palembang 05 Januari 2012;;Mohamad Hafiz Alkaff;Karyawan BUMN;Aminah Misyka;IRT;Perum Sarmada Kav 31 Surabaya;
+496;2;35;7;0126606918;03.2020.1510;;;Felicia Ahlam Fakhira;;Perempuan;;Kediri, 04 Januari 2012;;Toni Hadi Wijaya;;Ratna Wahyu Kuntari;;Jl. Brawijaya 1 no 57 Surabaya;
+497;2;35;7;0115500950;03.2018.1247;;;Kanza An Naafi' Zahida ;Sasa / Kanza;Perempuan;;Tulungagung, 8 Oktober 2011;;Abdul Rouf Assatori;KARYAWAN SWASTA;Arina Zulfa;KARYAWAN SWASTA;Pagesangan IV Mulya No. 17;
+498;2;35;7;0111233346;03.2018.1248;;;Kayyisah Evelina Quinza ;Quinza;Perempuan;;Surabaya, 29 Agustus 2011;;Evandi Prima Putra;KARYAWAN SWASTA;Lina Sobiyah;PEGAWAI NEGERI SIPIL(PNS);Pondok Maritim Indah Blok P-3;
+499;2;35;7;0112274327;03.2018.1249;;;Keyla Tanziliarahmi Assyifa ;;Perempuan;;Sidoarjo, 25/9/2011;;Pantja Juswanto;KARYAWAN SWASTA;Iffah Udiana;Ibu Rumah Tangga;Pagesangan IV/Gg. Tentrem 3;
+500;2;35;7;0127747480;03.2018.1250;;;Nafla Alya Sasmita ;;Perempuan;;Sby, 11/3/2012;;I Ketut Dharma Sasmita;KARYAWAN BUMN;Heni Setyorini;KARYAWAN SWASTA;Pulo Tegalsari II/29;
+501;2;35;7;0126907842;03.2018.1251;;;Namira Aliya Rahmi;;Perempuan;;Jakarta, 23/5/2012;;M. Nurafiansyah;KARYAWAN SWASTA;Siti Rahmah;Ibu Rumah Tangga;Ketintang Madya I/2B;
+502;2;35;7;0118350276;03.2018.1252;;;Nasywa Fathiyya Wafi Nurun Nafiisa;;Perempuan;;Sidoarjo, 22 nov 2011;;Moch. Nur K;WIRASWASTA;Wiji Agustriani;Ibu Rumah Tangga;Pagesangan 1A/21A (Perum Puri Taman Asri Blok D 14);
+503;2;35;7;0121419225;03.2018.1254;;;Raisya Azky Rahmadillah;;Perempuan;;Sby, 13-5-2012;;Susilo;PEGAWAI NEGERI SIPIL(PNS);Laily Rosdiana;DOSEN;Ketintang Barat I/29;
+504;2;35;7;0124719966;03.2018.1255;;;Raisya Fadhilah Jasmine;;Perempuan;;Sidoarjo, 13-3-2012;;Luqman Hadi Candra;KARYAWAN SWASTA;Ririn Widyowati;PEGAWAI NEGERI SIPIL(PNS);Jambangan No. 97;
+505;2;35;7;0112344406;03.2018.1256;;;Revalia Azwa Khayra ;Reva;Perempuan;;Sby, 2/12/2011;;Ade Afrian, S.Kom;WIRASWASTA;Cholifah, S.Kom;Ibu Rumah Tangga;Ketintang 117 (Ketintang Madya No. 18, Kel. Ketintang, Kec. Jambangan);
+506;2;35;7;0114436879;03.2018.1257;;;Salsabila Aulya Prasetyo;;Perempuan;;Surabaya, 5 Desember 2011;;Anang Prasetyo;KARYAWAN SWASTA;Nur Litasari Darwati;KARYAWAN SWASTA;Pakis Gunung 2/24;
+507;2;35;7;0114057380;03.2018.1260;;;Tsabita Asiyah Harto;;Perempuan;;Surabaya, 23/04/2011;;Harto Bawono;KARYAWAN SWASTA;Eva Musdalifah;KARYAWAN SWASTA;Jl. Jambangan Baru Selatan No. 5;
+508;2;35;7;0126226796;03.2018.1261;;;Tsaniya Zulfa Navisa;;Perempuan;;Sby, 18/2/2012;;Agus Nur Fathoni;PEGAWAI NEGERI SIPIL(PNS);Ruli Purnawati;KARYAWAN SWASTA;Tenggilis Lama II/44-C (Tenggilis Kauman IV/31 E, Kel. Tenggilis Mejoyo, Kec. Tenggilis Mejoyo, Kode Pos. 60292);
+509;2;35;7;0127298348;03.2018.1262;;;Tsuroyya Dhiyaunaswa El Kamila ;Naswa;Perempuan;;Sby, 22/8/2012;;Muchammad Imron;WIRASWASTA;Rini Widiarti;PEGAWAI NEGERI SIPIL(PNS);Jambangan I/9 (Jambangan Indah IV/32, Kel. Jambangan, Kec. Jambangan);
+510;2;35;7;0121839001;03.2018.1263;;;Wanda Masithah Brilliani Rizki;;Perempuan;; Sby, 8/6/2012;;Dody Apri Haryanto;WIRASWASTA;Dianita;Ibu Rumah Tangga;Karang Rejo 7/33 Surabaya;
+511;2;35;7;0128954429;03.2018.1264;;;Zahra Asma' Fadhilah ;Asma';Perempuan;;Sby, 7-2-2012;;Agus Ulum Mulyo, S. Kom, M.Pd;PEGAWAI NEGERI SIPIL(PNS);Dona Fadriza, SE;KARYAWAN SWASTA;Gunung Anyar;
+512;2;35;7;0126340733;03.2018.1265;;;Zahra Nurul Izzah ;Zahra;Perempuan;;Sby, '7-7-2012;;Retno Widodo;KARYAWAN SWASTA;Novi Dewayanti;Ibu Rumah Tangga;Menanggal 5/72;
+513;2;35;7;0125067787;03.2018.1266;;;Zakheera Ni'ami Ummu Faqihah ;Zaza;Perempuan;;Surabaya, 19 April 2012;;M. Masykur;KARYAWAN SWASTA;Lina Maharani;KARYAWAN SWASTA;Gubeng Kertajaya 1/36;
+514;2;36;8;0105899507;03.2017.1026;;;Affan Fawzul Adhim ;;Laki-laki;;sby, 8/12/2010;;Adhi Muktadi ;dosen;Nindria untarini;dosen ;jambangan indah III/ 36 Sby;
+515;2;36;8;0113322201;03.2017.1028;;;Ahmad Basith Atho' Abu Marzuq;;Laki-laki;;surabaya, 1/5/2011;;Mochammad Baidowi, S.Pd.;guru SDIT Ghilmani;Aisatus Sakdiyah, S.Pd.I.;IRT;Kapas Baru VII/87 Surabaya;
+516;2;36;8;0119312854;03.2017.1029;;;Ahmad Faisal Athallah;;Laki-laki;;sby, 19-2-2011;;DRs. Moch. Andik Sugandi;Guru. B. Inggris ;Dra. Erni Muharomah;Guru SD;jetis kulon 8/ 46 A Sby;
+517;2;36;8;0108070147;03.2017.1030;;;Ammar Dilmy Fahrezi;;Laki-laki;;Sby, 23-10-2010;;Aldita Gumbala Ernanto, SE.;wiraswasta;Siti Resty Sarluf, SE.;IRT;Palm Residence A-38 Sby;
+518;2;36;8;0117362218;03.2017.1031;;;Azhar Wira Marton;;Laki-laki;;Jakarta, 24 Maret 2011;;Alan Marton;PNS-Kemenku;Ismay Watiningsih;IRT;Jl. Gayung Kebonsari Bea Cukai B/ 3;
+519;2;36;8;0118741990;03.2017.1032;;;Barcelona Malakiano;;Laki-laki;;bekasi, 17/5/2011;;Andi Hidayat ;peg. Swasta;Debby Tri Rahayu;IRT;ketintang barat I/49 D surabaya;
+520;2;36;8;0108027075;03.2019.1268;;;Dhanu Abdillah Ramadhan;;Laki-laki;;Surabaya 09 September 2010;;Jumono;Peg Swasta;Isminatan;IRT;Jl. Kebonsari VI/25 Jambangan;
+521;2;36;8;0105440913;03.2017.1034;;;Fadli Sandi Hidayatulloh;;Laki-laki;;Sby, 17/8/2010;;Sapto Novi Adi;wiraswasta;Ika Santi Puji Astutik;peg.swasta;Jambangan IX/ 30 Sby ;
+522;2;36;8;0106943643;03.2017.1035;;;Fikri Mirdani;;Laki-laki;;Tuban 22 juni 2010;;SUMIRAN;peg. swasta;Linda wati;IRT;Kupang Panjaan gg 6/ 17 A Sby;
+523;2;36;8;0111827149;03.2017.1036;;;Gadang Reyhan Daniswara;;Laki-laki;;Sby 10 sept 2011;;Sukianto;PNS;Ninik Koesmiati;IRT;Kupang Panjaan IV 12B;
+524;2;36;8;0103305717;03.2017.1037;;;M. Adlyn Nazuroh  Amanulloh;;Laki-laki;;Sby 24 oktbr 2010;;marjiyono;peg. swasta;Liliya fidtrotin nadhifa, S.Pd. ;IRT;Tempel Sukorejo gg 1 / 65 B;
+525;2;36;8;0108868737;03.2017.1038;;;M. Axelle Impian Mashurie;;Laki-laki;;Sby, 27/12/2010;;M. Idrus Mashurie, ST.;wiraswasta;Dwi Suraeni Rahayu, SE;IRT;Bibis Karah I /23;
+526;2;36;8;0104337230;03.2017.1046;;;Mochammad Yusuf  Zulfahmy;;Laki-laki;;Sby 23/2/2011;;M. Alimin, ST.;wiraswsata;Eryska Wyndy Hapsary, A. Md.;IRT;Plam Spring Regency G 42;
+527;2;36;8;0115794672;03.2017.1039;;;Muhamad Dzikri Akbar Jauhari ;;Laki-laki;;Sby, 15/08/2010;;Muhamad Yusdi Jauhari;TNI AL;Yulita Andistie;POLRI;Ketintang Baru 14 no 15 SBY ;
+528;2;36;8;0114303626;03.2017.1040;;;Muhammad  Daffa Al-Ghifari;;Laki-laki;;Sby, 8/04/2011;;Moch. Luqman Ashari, ST, MT.;dosen ;Laely Fauzia, S.kom ;PNS (kemenag);Royal Ketintang Regency H-7;
+529;2;36;8;0119566897;03.2017.1041;;;Muhammad Akmaluddin Azhar ;;Laki-laki;;bojonegoro, 7 April 2011;;Wahyu Prihantono;PNS;Samini;IRT;Taman jambangan Indah II/ 24 Sby ;
+530;2;36;8;0105911594;03.2017.1043;;;Muhammad Fikri Fahreza;;Laki-laki;;Surabaya, 4 November 2010;;Rahardjo;PEG. Swasta;Ersista Adriani;IRT;Jetis Baru Lebar 5 Surabaya;
+531;2;36;8;0112057099;03.2017.1044;;;Muhammad Furqon Al Fajr;;Laki-laki;;Surabaya, 24/11/2010;;Suryanto ;satpam;Ninik Sri Wahyuni;IRT;ketintang barat 3/ 71 Sby ;
+532;2;36;8;0112983005;03.2017.1045;;;Muhammad Leon Aldi Rauhillah ;;Laki-laki;;sby, 03/02/2011;;Muhammad Rizal Noor Afianto, SE;peg. BUMN;Adek Koesmardi Sendi;peg. Swasta;karah agung no. 1;
+533;2;36;8;0105311214;03.2017.1047;;;Muhammad Rayyan Athaillah;;Laki-laki;;tulungagung, '29/12/2010;;Didud Kurniawan;pNS;Amalia Febri Anditasari;IRT;komplek beacukai Injoko Sby ;
+534;2;36;8;0117274539;03.2017.1048;;;Naufal Bagas Raditya;;Laki-laki;;Sby '29 januari 2011;;Suhariyadi;PNS;Tantin Handayani ;IRT;kebonsari gg 5B no. 21 SBY;
+535;2;36;8;0111440488;03.2019.1274;;;Nizar Ahza Zidane Wibisono;;Laki-laki;;Surabaya 11 Februari 2011;;Gunawan Wibisono;TNI AL;Ika Dini Nocia Rahmawati;PNS;Wonokromo SS Baru 4/20 Surabaya;
+536;2;36;8;0108982149;03.2017.1049;;;Raden Mohammad Rizqy Syah Bintang;;Laki-laki;;Sby, 18 Desember 2010;;Musleh;wiraswasta;Handriani Margareta;peg. Swasta;Ketintang Barat Indah No. 8 Sby ;
+537;2;36;8;0106890426;03.2017.1050;;;Raesyard Rizky Ramadhan;;Laki-laki;;Sby 25 Agustus 2010;;Pebri  Dwiwahyudi;wiraswasta;Anita sahara;IRT;Keputran kejambon 2/20A sby;
+538;2;36;8;0104265628;03.2017.1051;;;Rayhan Prayatta Digaputra;;Laki-laki;;Sby, 17/3/2010;;Didit Primasejati;wiraswsata;Galuh Putri Hartini;IRT;jambangan baru no. 19 sby ;
+539;2;36;8;0101607743;03.2017.1052;;;Zaid Tsabit Hadi ;;Laki-laki;;Malang, 8-10-2010;;Joso Wardhono Hadi;ADH (kepala administrasi Astra Isuzu;Bonny Dewayanti;IRT;Karangrejo XV/ 12 SBY ;
+540;2;36;8;0101623797;03.2017.1053;;;Zulfadly Fayyadh El  Azzam;;Laki-laki;;Sby, 15/09/2010;;Zulfajri Wandra;wiraswasta;Novi Tamaro;IRT;Karah Tama Asri 21B Sby;
+541;2;37;8;0109092405;03.2017.1054;;;Achmad Zulal Fikri Abu Luqy  nur;;Laki-laki;;jombang, 10/7/2010;;Komarul Huda Shofa H;guru;Rr. Anjrah Zidni S.Pd. ;Guru;perum MSI DD 16/ kalisari pesarean 1A sby ;
+542;2;37;8;0112149397;03.2019.1269;;;Ahmad Anshori;;Laki-laki;;Banjarmasin, 16 Februari 2011;;Suryadi Sapto Nugroho K.W;Pegawai Pelindo;Irmayasari;IRT;Jambangan kebonagung 1B no 2 ;
+543;2;37;8;0117622696;03.2017.1056;;;Azzamul Bilal Arifin Ilham;;Laki-laki;;Sby, 2-2-2011;;Moch. Arifin ;wiraswasta;Yuni Apriyanti;IRT;Jambangan Baru Selatan/ Grand Garden Regency KAV 9 ;
+544;2;37;8;0114682648;03.2017.1057;;;Baihaqi Qolbi;;Laki-laki;;Bekasi 21 januari 2011;;Yaya budiyaman;wiraswasta;Elvi syukriah;IRT;Keputran Kejambon 2/105;
+545;2;37;8;0112702934;03.2017.1058;;;Banyu Abdi Negara;;Laki-laki;;Sby, 9/4/2011;;Suprapto, S.Pd.  ;PNS (dinas pend) ;Yuti Irawati;perawat;ngesong dukuh kupang 22/no. 37 Sby;
+546;2;37;8;0111314403;03.2017.1059;;;Danish Regga Elghani;;Laki-laki;;Sby, 8/7/2011;;Aditya Wisaka;wiraswasta;Yunita Anggraini Irawan;wiraswasta;palm spring regency c-96  Sby ;
+547;2;37;8;0115823489;03.2017.1060;;;Davino Putra Irawan;;Laki-laki;;Sby, 22/4/2011;;Agus Irawan;peg. Swasta;Maya Rahmasari;peg. Swasta;pulosari 3J / 28 A sby;
+548;2;37;8;0113908821;03.2017.1061;;;Dean Naufal Harmeto;;Laki-laki;;sby, 9/5/2011;;Harno ;TNI AL;Menik Priatiningsih;TNI AL;Jl.Karah IV No 23 D Sby;
+549;2;37;8;0103249579;03.2017.1062;;;Faza Putra Prasetyo;;Laki-laki;;SBY 10 SEPTMB 2010;;RIDDO PRASETYO;kuli bangunan;Hanini ;IRT;KEDONDONG KIDUL 4/8B;
+550;2;37;8;0105264036;03.2017.1064;;;Ghandi Rauuf Antoni ;;Laki-laki;;Sby '12-12-2010;;Gigih Catur Antoni ;peg. Swasta;Ida Ayu Trassetyana;peg. Swasta;Karangrejo VII/ 19 sby ;
+551;2;37;8;0105306886;03.2017.1065;;;Gianni Arraya Mehmed ;;Laki-laki;;Sby, 10/10/2010;;Fatih Churiyanto, SE.;wiraswasta;Sri Hani Setiowati ;perawat ;kutisari utara no 63 sby ;
+552;2;37;8;0108129674;03.2017.1066;;;Ikhi Cikal Sae Bakale ;;Laki-laki;;Surabaya, 02 Nopember 2010;;Kodim;wiraswasta;Dewi Nugrahaeni;IRT;Jl Jetis Wetan No. 86;
+553;2;37;8;0112448747;03.2017.1067;;;Ikhwan Ihsan Mulia;;Laki-laki;;Sby, 14/2/2011;;Mulyono;peg. swasta;Nadia Titisari ;IRT;karangrejo X/40 sby;
+554;2;37;8;0118417764;03.2017.1068;;;M. Fachry Syahreza Khamajaya Putra;;Laki-laki;;sda, 15/1/2011;;mokhamad irkham ;peg. Swasta;elis moelyani;guru SMK;jl. Jambangan baru selatan kav iv/8  sby;
+555;2;37;8;0103869676;03.2017.1069;;;M. Wildan Habibi Rohmatulloh;;Laki-laki;;jombang, 7-6-2010;;Dedy Rohmatulloh, S.Kom;wiraswasta;Eka Sulistyorini. A.Md. ;IRT;Simowau Indah Blok KA No 25 Taman Sidoarjo;
+556;2;37;8;0108279772;03.2017.1070;;;Moch Umar Al Farouq Rachmatullah ;;Laki-laki;;Gresik, 12/8/2010;;Syahibur Ruchan;peg. Swasta ;Nuridayana Kun Maryati;IRT;Jambangan Kebon Agung 1B No 19 Surabaya;
+557;2;37;8;0112417634;03.2017.1072;;;Muhammad Abu Faroj;;Laki-laki;;Sby, 14/5/2011;;atjep Nugraha;ustadz ;Arti Ardini;IRT;jl. Tempel sukorejo I/ 5b;
+558;2;37;8;0107456539;03.2017.1073;;;Muhammad Faiz Zahri Perdana ;;Laki-laki;;Sby, 22/12/2010;;Retno Widodo, S. Si.;peg. Swasta;Novi Dewayanti, A. Md. ;IRT;Menanggal V/ 72 Sby ;
+559;2;37;8;0101083165;03.2017.1074;;;Muhammad Khasan 'Ubaidillah ;;Laki-laki;;Sby, '23/10/2010;;Heru Sancoko, ST;arsitek ;Atik Rahmawati ;IRT;Simo Mulyo Baru III E/33 SBY ;
+560;2;37;8;0108816576;03.2017.1071;;;Muhammad Ramadhani;;Laki-laki;;Surabaya, 21/8/2010;;AHMAD FAIZAL;TNI;DESI NOVITA SARI;IRT;jl. Golf. Gg 8 no. 26;
+561;2;37;8;0111942223;03.2017.1075;;;Muhammad Zaidan Arfa Alfiras ;;Laki-laki;;Sby, 28/04/2011;;Arif Sufiantoro, SE. ;peg. swasta;Erfinah Erawati, S.Pd.;IRT;Dukuh Pakis 1 /54 sby ;
+562;2;37;8;0119130348;03.2017.1076;;;Muhammad Zainus Sobirin;;Laki-laki;;Sby 11 januari 2011;;Agus shodiqun;wiraswasta;suliha;wiraswasta;Kupang krajan VI/27A;
+563;2;37;8;0103448537;03.2017.1077;;;Nadhir Muhammad Zaky;;Laki-laki;;Sby,  8 Mei 2010;;Abdillah Saidi;wiraswasta;Noer Wachidah;IRT;Jl. Semangka blok IX /543 pondk Candra indah Sda;
+564;2;37;8;0105481768;03.2017.1078;;;Rahmat Hamiz Syamsuddin ;;Laki-laki;;Sby, 18/12/2010;;Raden Boedi Soelistijotomo, ST. ;peg. Swasta;Arty Purbasari, ST. ;peg. Swasta;pakis tirto sari 6A/ 9-11  sby ;
+565;2;37;8;0104963616;03.2017.1079;;;Rayyandra Arkan Prawira;;Laki-laki;;Sby, 20-9-2010;;Pandu Prawira Dwi Saputra;peg. Swasta;Puspasari Susanti;peg. Swasta;Ketintang selatan VIII/BB-08 Sby;
+566;2;37;8;0106301983;03.2017.1080;;;Yudhistira Aditya Rafa;;Laki-laki;;Sby, 2/12/2010;;Marsono;PNS;Eni Sugiharti Fajarsari ;PNS;jambangan taman Asri kav 10;
+567;2;37;8;0107324668;03.2017.1081;;;Ziggy Andromeda Ramadhani;;Laki-laki;;Jakarta, '29/8/2010;;Kamto;TNI AD;Anita;IRT;Griya Cilengsi 3 Blok A-17  depok;
+568;2;38;8;0101163116;03.2017.1082;;;Abelia  Aulia Rahma;;Perempuan;;Sby, 04/05/2010;;Yuniwanto;peg. swasta;luluk mardiana;IRT;Karang Rejo Sawah VI / 16;
+569;2;38;8;0106235463;03.2017.1083;;;Aira  Niswatul Jannah;;Perempuan;;Surabaya, 2/8/2010;;Rasidi Indrawan ;wiraswasta;Siti Nurjanah ;dosen ;banyu urip wetan 3C 81;
+570;2;38;8;0102043856;03.2017.1084;;;Aisyah Najma Zaahidah;;Perempuan;;Sby, 19-11-2010;;Ali Mansur Fauzi, S,kom;peg. Swasta;Nailur Rohmah, S,kom;IRT;Jl. Menanggal 3/15 ;
+571;2;38;8;0117917600;03.2017.1085;;;Aliya Zafirah Imaniah ;;Perempuan;;Sby, 12/2/2011;;Muhammad Sulaiman;TNI AD;Nur Aisyah;peg. Swasta ;jl kesatrian 41 blok P 9;
+572;2;38;8;0113546342;03.2017.1086;;;Aqilla Bilqis Khairunnisa Darojat;;Perempuan;;Sby, 5/5/2011;;Enjud Darojat;TNI AL;Duhita Hayuningtyas;peg. BUMN;JL Ketintang selatan no. 108 sby (puri kencana karah C-1);
+573;2;38;8;0104258336;03.2017.1087;;;Aqira Faquinzah;;Perempuan;;Sby, 01/07/2010;;Syaiful Aris, S.pd. ;guru SMA;Neri Oktavia ;wiraswasta;Ketintang IV F /10;
+574;2;38;8;0102531389;03.2017.1088;;;Azza Amira Mecca;;Perempuan;;Sby, 8-11-2010;;Shohibul Hizar;peg. Swasta;Afifa Kurniawati ;irt;Jl kedondong kidul gg 1/ 34 Sby;
+575;2;38;8;0115204104;03.2017.1089;;;Cherie Adillah Ramadhania Azafie ;;Perempuan;;Sby 26/8/2011;;Dr. Rio Azadi ;dokter ;Komsa Mutiara Murni Sofia Sahid, S.Psi. ;psokolog, dosen ;karah agung III No. 2-4 Sby;
+576;2;38;8;0111244469;03.2017.1090;;;Diana Aqidatun Nisa';;Perempuan;;Sby, 19/6/2011;;Lukman Hakim;wiraswasta;Noor Aisah ;IRT;Jl wonokromo SS Baru 28;
+577;2;38;8;0081609144 ;03.2018.1151;;;Disya Masayu Putri Airlangga;;Perempuan;;Serang, 2 Desember 2010;;Ichwan Bagus Airlangga;Dosen;Dinna Sulandiyah;irt;Citarum No. 33 Surabaya;
+578;2;38;8;0116235900;03.2017.1091;;;Fadhilah Sakhi Az Zahra ;;Perempuan;;Sby 1/3/2011;;Bancono Muhammad Suripto, S.Pd. M.M.;sales marketing ;Diana Kusumaningrum, S. Farm. Apt.;apoteker;bendul merisi  gang besar Selatan no. 60 C sby (kk balongsari blok 3A/ 19 tandes sby );
+579;2;38;8;0106313898;03.2017.1092;;;Fatimah  Maryam Ahmad ;;Perempuan;; sidoarjo, 19/10/2010;;Ahmad Husni Firdaus;wiraswasta;Erdiana Kristya wardhani;peg. Swasta;royal ketintang regency i -09 sby ;
+580;2;38;8;0112459897;03.2017.1093;;;Izzah Ilmi Asshafira;;Perempuan;;sby, 30/1/2011;;Sai'in ;wiraswasta;Dewi Vittriani;wiraswasta;Ketintang Barat V 53 C sby ;
+581;2;38;8;0111319169;03.2017.1094;;;Khaireen Galbia Jadhine;;Perempuan;;Sby, 20/1/2011;;Hayatul Jadid, S.kom.;PNS (PU);Precilia Josephine, SH. ;Peg, swasta;Griya Kebraon utama  VIII/ DE 12 sby;
+582;2;38;8;0112849144;03.2017.1095;;;Nahidah Ummu Salamah;;Perempuan;; Gresik, 13 Juni 2011;;Mahbub Junaidi ;;Nailus Sa'adah;ALM;Pagesangan;
+583;2;38;8;0116275585;03.2017.1096;;;Najma Azalia Auli;;Perempuan;;Sby, 30/3/2011;;Chusnan, ST.;peg. Swasta;Ari Andayani;IRT;JL. Biduri pandan 1.3/ 49 KBD Gresik. (Balongsari SD/R);
+584;2;38;8;0113544616;03.2017.1097;;;Nayla Sajida Athifa Purwanto;;Perempuan;;Surabaya, 14-8-2011;;Gatot Purwanto;PNS, pemkot ;Ike Naturia Lestari;guru B. Inggris SDN Kebraon;Jl. dukuh kupang barat I-III  no. 58 Sby ;
+585;2;38;8;0101317761;03.2017.1099;;;Novia Nendra Aisyah ;;Perempuan;; Sby 11/11/2010;;Bethoro Endroyono Imson;alm;Neny Musparrita, SE;peg. Swasta;padmosusastro No. 6 sby ;
+586;2;38;8;0101136705;03.2018.1148;;;Qonita;;Perempuan;;Surabaya, 04 September 2010;;Abdul Nawari;Wiraswasta;Cholifah;wiraswasta;Kedung Klinter IV/10b;
+587;2;38;8;0116602594;03.2017.1100;;;Regina Rahmawati;;Perempuan;; jkrta,'13/6/2011;;Agus Rahmawadi;almarhum;Desi Ismasanti;peg. Swasta;dukuh menanggal 6B no. 21 sby;
+588;2;38;8;0103232436;03.2017.1101;;;Rohana Candra Rini;;Perempuan;; Sby, 05/12/2010;;dr. Andri Widodo;swasta;Ratna Dewi Kusumaningrum ;peg. Swasta ;ketintang baru selatan V/ A 11 sby ;
+589;2;38;8;0105812778;03.2017.1102;;;Sakinah Mawaddah Ainur Rohmah ;;Perempuan;;Sby, '20/11/2010;;Moch. Unsi, SH.;wiraswsata;Naily Rohmah;IRT;jl. Karangrejo timur no. 2 Surabaya;
+590;2;38;8;0118074619;03.2017.1103;;;Salsabilla Nur Rachmadhan;;Perempuan;;Sby, 10-8-2011;;Hery Supriyadi;peg. Swasta;Ririn Indarti;IRT;menur II/21 A;
+591;2;38;8;0107560820;03.2017.1104;;;Shakila Rifaya Zafirah;;Perempuan;;Sby, 25/10/2010;;Budi Santoso;peg. Sawsta;Maruly Adityantari, S.Si. ;peg. Sawsta;griya taman asri AE 12 sepnjang  sidoarjo;
+592;2;38;8;0119621438;03.2017.1105;;;Syadzi Iffah  Shalihatul Imtitsal;;Perempuan;;Bandung, 30/3/2011;;Andhi Sofiyanto;PNS (pjk);Fajar Indah Triashening ;IRT;komplek beacukai blok B no. 26. Jl gayung kebonsari;
+593;2;38;8;0102001709;03.2017.1106;;;Tsania Ilana Mafada;;Perempuan;;Sby, 14/10/2010;;Akhmad Ruziq, ST. ;wiraswasta;dr. Rosna Suswanti ;dokter;Bulak Rukem Timur 2C no 9 sby;
+594;2;39;8;0119258144;03.2017.1107;;;Afifa Nur Aulia Ummi Yusro ;;Perempuan;;Mojokerto, 10 Agustus 2011;;Sugeng Anto;Wiraswasta;Naning Retnaningsih;TU KB/TK/TPA Wildani 2;Karangan VI/ 112 Sby;
+595;2;39;8;0113780297;03.2017.1108;;;Afiza Herbina Maulida;;Perempuan;;Sby, 19 Februari 2011;;Ahmad Mashari;Wiraswasta;Bempi Dorana;IRT;jl golf II / 102 A jogoloyo  Sby;
+596;2;39;8;0113511181;03.2017.1110;;;Ananda Puteri Ayu Jasmine;;Perempuan;;Sidoarjo, 8/6/2011;;Bagus Praditya Saputra;peg. Swasta;Andinta Wulandini;wiraswasta;karah agung 1/ 42 sby ;
+597;2;39;8;0109504972;03.2017.1111;;;Anggita Vania Dewi ;;Perempuan;;Sby, '11/3/2010;;Kusnan Lugito;PNS (PLN);Hesti Yuli Windi;IRT;ketintang baru XVIII/ 12 sby;
+598;2;39;8;0113339593;03.2017.1112;;;Anisah Nur Dzikri Fauziah Rakhmadiana ;;Perempuan;;Sby, 17/03/2011;;Acep Herdiana, S.Pd.;guru;Diah Rakhmawati;guru;Jambangan Indah III kav 17 sby ;
+599;2;39;8;0102831208;03.2017.1113;;;Anna Rizma Althafunnisa;;Perempuan;;Sby 10/12/2010;;Moch Rofi'i;wiraswasta;Musa'adah ;IRT;darmorejo 3B no. 6 SBY ;
+600;2;39;8;0115716184;03.2017.1115;;;Ariqa Naura Azahra;;Perempuan;;Sby, 9/9/2011;;Restu Kartiko Widi;dosen ;Titin Indriati;IRT;jl. Jambangan Kebon Agung 1A Sby ;
+601;2;39;8;0107258691;03.2017.1116;;;Athiqa Putri Humairah;;Perempuan;;Sby, 11-12-2010;;Tofan Afrelly;peg. Swasta;Ida Rachmawati;GURU TK;jl. Aquamarin I 12 H a15 KBD;
+602;2;39;8;0101554180;03.2017.1118;;;Chintya Ayu Khanzania ;;Perempuan;;Sby, 9/10/2010;;Assegaf Mukmin Billah, SE;peg. Swasta;Bina Siswandeni, ST. ;PNS;karah agung 1A/ 14 Sby;
+603;2;39;8; 0113804803;03.2020.1395;;;Devitrigyan Khadijah Kurniarty;;Perempuan;;Jayapura, 19 Januari 2011;;Slamet Kurniawan;Pegawai Bulog;Miarti Respin;IRT;Griya Kebraon Utama AT II RT 01 Rw X Surabaya ;
+604;2;39;8;0107838981;03.2017.1119;;;Devina Putri Porniawan ;;Perempuan;;Sby, 17/12/2010;;Willy Porniawan;Wiraswasta;Sarwiyani;IRT;Gayungan Elok A3 Surabaya;
+605;2;39;8;0109211409;03.2021.1514;;;Ghefira Athaya Putri Perwiratama;;Perempuan;;Banyumas, 28 Desember 2010;;Ragil Pamungkas;peg. swasta;Wiwii Neni Kuswanti;Karyawan Swasta;Perum . Royal Ketintang Regency Blok I 21 Sby;
+606;2;39;8;0106922582;03.2017.1122;;;Nabila Yulia Anasya Putri ;;Perempuan;;Sby 15/07/2010;;Ahmad Akhirunas ;peg. Swasta;Chusnul Rofidah;IRT;Karangan 210 Surabaya;
+607;2;39;8;0113011440;03.2017.1123;;;Nadhira kanza Yuvinda;;Perempuan;;Sby, 24/6/2011;;Wahyu Widayat;peg. Swsata;Indah Rahmawati;IRT;gayungan 1A no. 1 sby ;
+608;2;39;8;0113914223;03.2019.1272;;;Nafisa Zahria Syaquila ;;Perempuan;;Sidoarjo 03 Mei 2011;;Hasannuddin;karyawan Swasta;Ilkhananh;Karyawan Swasta;Putat Jaya Timur/Putat 35A Surabaya;
+609;2;39;8;0107581087;03.2017.1125;;;Rafa Amira Andriani Purnomo ;;Perempuan;;Sby, 4/10/2010;;Moch. Purnomo, S.Pd. ;dosen;Erni Luki Andriani, S.Pd. ;peg.swasta;karangrejo sawah X/5;
+610;2;39;8;0112465200;03.2017.1126;;;Syafira Rahma Wardani;;Perempuan;;ponorogo, '16/1/2011;;Afit Susilo ;peg. Swasta;Ratih Candrawati Wardani ;peg. Swasta;taman gunung anyar blok G/ 57;
+611;2;39;8;0107600983;03.2017.1127;;;Sydney Al-Meeira wahono;;Perempuan;;Sidoarjo, '1/11/2010;;Sulistio Wahono;peg. BUMN;Wiwin Sulistyani;peg. BUMN;jambangan gg 7/ 11 sby;
+612;2;39;8;0108731323;03.2019.1385;;;Vania Callysta Jasmine;;Perempuan;;Sidoarjo 13 Agustus 2010;;Purwanto;karyawan Swasta;Sovi Dwi Lestari;IRT;Perum Wisata Semanggi Blok A No 4 Surabaya;
+613;2;39;8;0113187987;03.2017.1128;;;Zahra Aqila Mumtazah;;Perempuan;;bengkulu, 6/3/2011;;Sunardi;pns;Kuswati;IRT;komplek dinas BPKP Blok E/ 7 waru sidoarjo;
+614;2;39;8;0113220449;03.2017.1129;;;Zelda Maritza Atalili ;;Perempuan;;Sby, '5/1/2011;;Widodo;wiraswsata ;Deni Fenani;IRT;mennaggal V/45 Sby;
+615;2;39;8;0105148015;03.2017.1130;;;Zhifarra Undzira Putri;;Perempuan;;Sby, 27/4/2010;;Freddy Hendrawan ;wiraswasta ;Lina;IRT;wonorejo 2/64;
+616;2;39;8;0114985839;03.2017.1131;;;Zidni Istighfarin Pribadi;;Perempuan;;Sby, 18-2-2011;;Moh. Toto Pribadi ;peg. swasta;Ervina Kusumaningsih;peg. swasta;Jl ketintang Barat V/ 74 Surabaya;
+617;2;1;3;;1.022.313;`3578050810190001;3578-LU-23102019-0105;ABIDZAR ALGHIFARI GHAZI SETIAWAN;;Laki-laki;;SURABAYA;08/10/2019;AVIN SETIAWAN;TENTARA NASIONAL INDONESIA (TNI);PUTRI DWI SILVIA;BIDAN;KEDONDONG KIDUL 1/35, RT07/RW6 Des.Tegalsari Kec.Tegalsari, SURABAYA;
+618;2;1;3;;';`-;;AHMAD IBROHIM SIROJ ALAUDDIN;;Laki-laki;;SURABAYA;30/04/2018;UMAR;WIRASWASTA;NADIYAH;GURU;DUKUH BULAK BANTENG 2/117, RT03/RW08, Des.Bulak Banteng Kec. Kenjeran, SURABAYA;
+619;2;1;3;;1.022.315;`3578166310180003;3578-LU-25102018-0009;BENING HANANIA NARAMURTI;;Perempuan;;SURABAYA;13/10/2018;JULIATNA ANDIKA;WIRASWASTA;MAULIDA HASANAH;WIRASWASTA;AMPEL KENANGA 3, RT/02/RW04, des.Ampel, Kec. Semampir,  SURABAYA;
+620;2;1;3;;1.022.311;`3578051910180001;3578-LU-31102018-0083;KEVIN KYRA RAMADITYA;;Laki-laki;;SURABAYA;10/12/2018;RIZKY PRATAMA;;FIRANTI OKTARINI;;WONOREJO 3/106, RT04/RW05, des. Wonorejo, Kec. Tegalsari, SURABAYA;
+621;2;1;3;;1.022.314;`3578076408180001;3578-LU-25092018-0105;KINANTI ASY SYAMS SADEGA;;Perempuan;;SURABAYA;24/08/2018;GANANG DIKKA PURNOMO;WIRASWASTA;DEWI MAULIDIA;WIRASWASTA;"LEMAH PUTRA 3/28	RT03/RW09, des. Embong Kaliasin, Kec. Genteng, SURABAYA";
+622;2;1;3;;1.022.316;`3578055309180001;3578-LU-18102018-0085;NAILA HUMAIRA;;Perempuan;;SURABAYA;13/09/2018;SULAIMAN;WIRASWASTA;LATIFA;MENGURUS RUMAH TANGGA;"KUPANG PANJAAN 3-B/11	RT04/RW05, Dr. Soetomo, Kec. Tegalsari, SURABAYA";
+623;2;1;3;;1.022.312;`3578056504190003;3578-LU-13062019-0105;NUR KHADIJAH AZZAHRAH;;Perempuan;;SURABAYA;25/04/2019;VERRY KRISTIAN;KARYAWAN SWASTA;NOOR INAYAH;KARYAWAN SWASTA;"KEDONDONG KIDUL 1/17C	RT04/RW06, Des.Tegalsari, Kec. Tegalsari, SURABAYA";
+624;2;1;3;;1.022.310;`3578052805190004;3578-LU-01082019-0110;RAFAEYZA DZAKY FIRMANSYAH;;Laki-laki;;SURABAYA;28/05/2019;ARYS FIRMANSYAH, S.T;KARYAWAN BUMD;ROSALIA FATMA BAMIATI, ST;KARYAWAN SWASTA;"KEDONDONG KIDUL 1/31	RT07/RW06, Des. Tegalsari, Kec. Tegalsari, SURABAYA";
+625;2;2;3;;2.022.859;`3578052204170001;3578-LU-30052017-0129;ABDUL ROHMAN NAFIS;;Laki-laki;;SURABAYA;22/04/2017;ABDUL MANSUR;WIRASWASTA;HIKMATUS ZAHRO;MENGURUS RUMAH TANGGA;PANDIGILING 2/19, RT02/RW07, Kel. Tegalsari, Kec. Tegalsari, SURABAYA;
+626;2;2;3;;2.022.866;`3578050505170002;3578-LU-07082017-0007;ABYAN DANISH AHZA PRATAMA;;Laki-laki;;SURABAYA;05/05/2017;;;YUNI MULYANI;KARYAWAN SWASTA;PANDIGILING 4/2B, RT04/RW07, Kel. Tegalsari, Kec. Tegalsari, SURABAYA;
+627;2;2;3;;2.022.858;`3578052810170004;3578-LU-09012018-0205;ADERAL MADAWA OKTARIAN PUTERA;;Laki-laki;;SURABAYA;28/10/2017;SUNARTO;KARYAWAN SWASTA;NUR HIDAYATI;MENGURUS RUMAH TANGGA;KAMPUNG MALANG KULON 5/29, RT08/RW11, Kel. Wonorejo, Kec. Tegalsari, SURABAYA;
+628;2;2;3;;2.022.869;`3578091502180004;3578-LU-23032018-0080;ADITYA RIFKI AHMAD;;Laki-laki;;SURABAYA;15/02/2018;IRFAN JUNAIDI;;KUT ROOSYTA;WIRASWASTA;JANGKUNGAN 2-A/12, RT03/RT07, Kel. Nginden Jangkungan, Kec. Sukolilo, SURABAYA;
+629;2;2;3;;2.022.883;`3578054506170002;3578-LU-10072017-0195;AFANIN BACHITA RAMADHANI;;Perempuan;;SURABAYA;05/06/2017;SYAMSUL ARIFIN;KARYAWAN SWASTA;SULIYATI;MENGURUS RUMAH TANGGA;TEMPEL SUKOREJO I/73, RT05/RW07, kel.Wonorejo, Kec. Tegalsari, SURABAYA;
+630;2;2;3;;2.022.879;`3578066003170001;3578-LU-09052017-0073;AISYAH SYIFA AZZAHRA;;Perempuan;;SURABAYA;20/03/2017;RACHMAD RAFLI;KARYAWAN SWASTA;SITI FATIMAH;KARYAWAN SWASTA;KUPANG KRAJAN 7-A/1-B, RT06/RW04, kel. Kuprang Krajan, Kec. Sawahan, SURABAYA;
+631;2;2;3;;2.022.873;`3527036804170004;3527-LT-11042022-0086;ANDHITA KEISHA PUTRI ANDREAN;;Perempuan;;SURABAYA;28/04/2017;ANDRIE PERDANA PUTRA;PERDAGANGAN;ROMSAH;MENGURUS RUMAH TANGGA;DSN CAMPLONG, SAMPANG;
+632;2;2;3;;2.022.851;`3578051210170001;3578-LU-07112017-0030;ARVIN HAFIZH SETIYO PUTRA;;Laki-laki;;SURABAYA;10/12/2017;PRAMONO SETIYO HADI;KARYAWAN SWASTA;INDAH SETIYAWATI;PERAWAT;KEPUTRAN 9/3, RT 06/RW01, Kel. Keputran, Kec. Tegalsari, SURABAYA;
+633;2;2;3;;2.022.861;`3578071108170001;3578-LU-29082017-0156;AZRIL HAFISH RAHMAN;;Laki-laki;;SURABAYA;11/08/2017;RAFIQ RAHMAN;PERDAGANGAN;RACHMI IMANISA;MENGURUS RUMAH TANGGA;RUSUN URIP SUMOHARJO BLK C/110, RT03/RW04, Kel. Embong Kaliasin, Kec. Genteng, SURABAYA;
+634;2;2;3;;2.022.886;`3578056610170002;3578-LU-27122017-0159;DINDA SYAFINA NUR ROHMAN;;Perempuan;;SURABAYA;26/10/2017;DAFIT ROHMAN;JURU MASAK;NUR AFNI;MENGURUS RUMAH TANGGA;PANDEGILING TENGAH 8, RT07/RW07, Kel.Tegalsari, Kec. Tegalsari, SURABAYA;
+635;2;2;3;;2.022.865;`3578021609170001;3578-LU-12102017-0014;DYRGA ALHUSAYN KOES FENDI;;Laki-laki;;SURABAYA;16/09/2017;AMIR KOES FENDI;KARYAWAN SWASTA;IMA MUTAMIMAH;KARYAWAN SWASTA;BENDUL MERISI JAYA 4/34, RT02/RW12, Kel.Bendul Merisi, Kec. Wonocolo, SURABAYA;
+636;2;2;3;;2.022.877;`0;;FATIMAH AZZAHRA;;Perempuan;;SURABAYA;05/06/2017;;;;;WONOREJO 1, RT05/RW03, Kel. Wonorejo, Kec. Tegalsari, SURABAYA;
+637;2;2;3;;2.022.880;`3578300705170001;3578-LT-28022018-008;HANZALAH AULADI DZULFIQAR;;Laki-laki;;SURABAYA;07/05/2017;NIZAR DZULFIQAR;KARYAWAN SWASTA;RIYANA;MENGURUS RUMAH TANGGA;PAKAL MADYA, RT03/RW02, Kel. Pakal, Kec. Pakal, SURABAYA;
+638;2;2;3;;2.022.887;`3578056202180003;3578-LT-09012019-0018;HAURA SHAQEELA AZZAHRA;;Perempuan;;SURABAYA;22/02/2018;GELLEN WAHYU INDRA PRAJA;WIRASWASTA;SYLVIA NOOR MUSLIKHA;WIRASWASTA;PANDEGILING 5/22-A RT06/RW07, Kel. Tegalsari, Kec. Tegalsari, SURABAYA;
+639;2;2;3;;2.022.863;`3517067101170001;3517-LU-27032017-0007;INARA SHOLIHA;;Perempuan;;JOMBANG;31/01/2017;DIDIK ADI PURWANTO;WIRASWASTA;MAHANI;MENGURUS RUMAH TANGGA;DSN. DUKUH SARI RT02/RW3, JOMBANG;
+640;2;2;3;;2.022.882;`3578061309170003;3578-LU-03102017-0008;KAI HAZLAM;;Laki-laki;;SURABAYA;13/09/2017;HENDRO DWI CAHYONO;KARYAWAN SWASTA;SITI MASULAH;KARYAWAN SWASTA;KEMBANG KUNING MULYO 4/21, RT16/RW06, Kel. Pakis, Kec. Sawahan, SURABAYA;
+641;2;2;3;;2.022.849;`3578086404180004;3578-LU-01082018-0077;KAYLA APRILIANA DEWI;;Perempuan;;NGANJUK;24/04/2018;DONY SUBAKTIAR;WIRASWASTA;KHOSIATI LIANA;GURU;GUBENG KERTAJAYA 1/33, RT01/RW01, Kel.Gubeng, Kec. Gubeng, SURABAYA;
+642;2;2;3;;2.022.878;`0;;MAS ACHMAD DANIAL NURDIANSYAH AL HUSIN;;Laki-laki;;SURABAYA;04/04/2017;;;;;KEPUTRAN 6, Kec. Embong Kaliasin, Kec. Genteng, SURABAYA;
+643;2;2;3;;2.022.856;`3578067010170006;3578-LT-15112018-0142;MEDINAH MONALISA AZ-ZAHRA;;Perempuan;;SURABAYA;30/10/2017;PRADANA SETYAWAN;;MONIQUE LA ROSA LINTANGSARI;WIRASWASTA;BANYU URIP WETAN 4/57 C, RT01/RW04, Kel.Putat Jaya, Kec. Sawahan, SURABAYA;
+644;2;2;3;;2.022.870;`3578074902170001;3578-LU-28042017-0005;MILA AMALIA SHOLIHAH;;Perempuan;;BANGKALAN;09/02/2017;M. RIZAL;WIRASWASTA;UMI SARO;WIRASWASTA;KEPUTRAN KEJAMBON 1/49, RT03/RW12, Kel. Embong Kaliasin, Kec. Genteng, SURABAYA;
+645;2;2;3;;2.022.871;`3523170611170002;3523-LT-16092018-0066;MUHAMMAD ALFATH NUR KEVIN;;Laki-laki;;SURABAYA;06/11/2017;RINDA ERWANTHO;KARYAWAN SWASTA;SULASTRI;KARYAWAN SWASTA;DSN GREBEGAN, RT01/RW07, Kec. Genteng, TUBAN;
+646;2;2;3;;2.022.885;`3578062304180001;3578-LU-05052018-0065;MUHAMMAD AL FATIH;;Laki-laki;;SURABAYA;23/04/2018;ACHMAD HUSEN;WIRASWASTA;ELFIANA SAFIRA;MENGURUS RUMAH TANGGA;KUPANG KRAJAN 7-A/1-B, RT06/RW04, Kel. Kupang Krajan, Kec. Sawahan, SURABAYA;
+647;2;2;3;;2.022.850;`3578051901170002;3578-LU-06022017-0031;MUHAMMAD ATHALLAH IBRAHIM AL GHIFARI;;Laki-laki;;SURABAYA;19/01/2017;AGUS CAHYONO SYAIFUDDIN NUGROHO;KARYAWAN SWASTA;FERLY CHOIRIYAH;KARYAWAN SWASTA;PANDIGILING 1/44, RT01/RW07, Kel. Tegalsari, Kec. Tegalsari, SURABAYA;
+648;2;2;3;;2.022.862;`3578052012170001;3578-LU-19012018-0066;MUHAMMAD MEHDY MAHDAVIKIA;;Laki-laki;;SURABAYA;20/12/2017;BASTIAN AHMAD MALADI, S.ST;KARYAWAN SWASTA;FARAH JIHAN AUFA, S.ST;MENGURUS RUMAH TANGGA;KEPUTRAN 6/25, RT03/RW01, Kel.Keputran, Kec. Tegalsari, SURABAYA;
+649;2;2;3;;2.022.888;`3578051702170001;3578-LU-01032017-0016;MUHAMMAD NUR ASRORI AL ALIF;;Laki-laki;;SURABAYA;17/02/2017;ACHMAD CHOLIK;KARYAWAN SWASTA;NURUL HIDAYATI;MENGURUS RUMAH TANGGA;KEDONDONG KIDUL 1/77, RT12/RW06,Kel. Tegalsari, Kec. Tegalsari, SURABAYA;
+650;2;2;3;;2.022.874;`3521101701180001;3521-LU-23012018-0031;MUHAMMAD RASHYA ALFARIZQI;;Laki-laki;;NGAWI;17/01/2018;BAYU AKKA YANUAR;WIRASWASTA;NUKE IRMAWATI HABIBAH;PEGAWAI NEGERI SIPIL(PNS);GEBANG PUTIH 64, RT01/RW02, Kec. Genteng, SURABAYA;
+651;2;2;3;;2.022.860;`3578072202170002;3578-LU-23032017-0080;MUHAMMAD ULIL ERVAN;;Laki-laki;;SURABAYA;22/02/2017;KUNARTO;KARYAWAN SWASTA;PRATIWI AGUSTYANI;MENGURUS RUMAH TANGGA;KEPUTRAN PASAR KECIL 4/51, RT04/RW11, kel. Embong Kaliasin, Kec. Genteng, SURABAYA;
+652;2;2;3;;2.022.881;`3578051406170001;3578-LU-24072017-0103;MUH. ILHAM RAMADHAN SULISTYANTO;;Laki-laki;;SURABAYA;14/06/2017;ENDAR SULISTYANTO;KARYAWAN SWASTA;IRMA;MENGURUS RUMAH TANGGA;KEDONDONG KIDUL 1/62, RT 08/RW6, kel. Tegalsari, Kec. Tegalsari, SURABAYA;
+653;2;2;3;;2.022.864;`3578094701170002;3578-LU-17022017-0018;NADHIFATUS TSAQIFAH M.ALI;;Perempuan;;SURABAYA;07/01/2017;ALI AKBAR;WIRASWASTA;IRMAWATI;MENGURUS RUMAH TANGGA;MENUR 2/43 A, RT01/RW01, kel. Menur Pumpungan, Kec. Sukolilo, SURABAYA;
+654;2;2;3;;2.022.855;`3578074405170003;3578-LU-05072017-0127;NAFIZAH ALMAHYRA;;Perempuan;;SURABAYA;04/05/2017;FAUZAN;KARYAWAN SWASTA;RATNA MAHARANI;KARYAWAN SWASTA;KEPUTRAN KEJAMBON 2/88, RT09/RW12, kel. Embong Kaliasin, Kec. Genteng, SURABAYA;
+655;2;2;3;;2.022.853;`3578074311170001;3578-LT-21022018-0016;NAYLA NUR SYARIFA;;Perempuan;;KEDIRI;11/03/2017;GUNDAN RIZKI NOVIANTO;KARYAWAN SWASTA;NURUL HIDAYAH;KARYAWAN SWASTA;KEPUTRAN KEJAMBON 2/92, RT 09/RW12, kel. Embong Kaliasin, Kec. Genteng, SURABAYA;
+656;2;2;3;;2.022.854;`3578070703170001;3578-LU-30032017-0050;NAZRIL ALVIAN RAFFASYAH HARTANTO;;Laki-laki;;SURABAYA;07/03/2017;CHRIS NUR HARTANTO;KARYAWAN SWASTA;ATIN UMAYAH;KARYAWAN SWASTA;KEPUTRAN KEJAMBON 3/8, RT10/RW12, kel. Embong Kaliasin, Kec. Genteng, SURABAYA;
+657;2;2;3;;2.022.876;`3578075107170002;3578-LU-31072017-0029;QUEEN MIKHAYLA AZMI ATHIFA;;Perempuan;;SURABAYA;11/07/2017;HAFIEDZ ARDHIANSYAH;KARYAWAN SWASTA;SEVINA TRIANDINI;MENGURUS RUMAH TANGGA;KEPUTRAN  KEJAMBON 2/20, RT04/RW12, kel. Embong Kaliasin, Kec. Genteng, SURABAYA;
+658;2;2;3;;2.022.852;`3578074205170001;3578-LU-20052017-0040;RAISYA AGATHA ARTANTI;;Perempuan;;SURABAYA;02/05/2017;HUTOMO PRANOTO;KARYAWAN SWASTA;AGUSTIEN SUNARSIH;KARYAWAN SWASTA;KEPUTRAN PANJUNAN 2/15 A, RT02/RW13, kel. Embong Kaliasin, Kec. Genteng, SURABAYA;
+659;2;2;3;;2.022.884;`3578055909170001;32578-LU-01112017-0010;RANIAH SYAZWANI AS SALMA;;Perempuan;;SURABAYA;19/09/2017;MUHAMMAD HOLIYAK;KARYAWAN SWASTA;YUMIATI;KARYAWAN SWASTA;KEDONDONG KIDUL 1/22, RT06/RW06, kel. Tegalsari, Kec. Tegalsari, SURABAYA;
+660;2;2;3;;2.022.875;`3578054812160001;3578-LU-29122016-0012;SHOFIA MAULIDIA KAMILA;;Perempuan;;SURABAYA;06/12/2016;MOH. DAHLAN;KARYAWAN SWASTA;SITI AFIFAH;MENGURUS RUMAH TANGGA;KEDONDONG KIDUL 4/15, RT08/RW06, kel. Tegalsari, Kec. Tegalsari, SURABAYA;
+661;2;2;3;;2.022.867;`3578295310170002;3578-LU-24112017-0010;SILVIA HANUM RABBANI;;Perempuan;;SURABAYA;13/10/2017;HADI CAHYONO;WIRASWASTA;MIKE ANGGRAINI;KARYAWAN SWASTA;KEJAWAN LOR 3/20, RT03/RW02, kel. Kenjeran, Kec. Bulak, SURABAYA;
+662;2;2;3;;2.022.857;`3578074707170001;3578-LU-31082017-0049;SITI ARAFAH SYAFIRA;;Perempuan;;SURABAYA;07/07/2017;ABD. KORDIR;KARYAWAN SWASTA;SITI SOLEHAH;MENGURUS RUMAH TANGGA;KEPUTRAN KEJAMBON 3/32, RT10/RW12, kel. Embong Kaliasin, Kec. Genteng, SURABAYA;
+663;2;2;3;;2.022.868;`3175056410170002;3175-LT-20022019-0195;TALITHA AZZAHRA BAHRI;;Perempuan;;SURABAYA;24/10/2017;SYAIFUL BAHRI;KARYAWAN SWASTA;FITRIA NINGSIH;MENGURUS RUMAH TANGGA;DANA PRASETYA NO 37 A, RT09/RW08, JAKARTA TIMUR;
+664;2;2;3;;2.022.872;`3578054408170004;3578-LT-09062018-0036;ZAHRATUL BADRIYAH;;Perempuan;;SURABAYA;04/08/2017;ACH. SUJAI ZAIN;WIRASWASTA;MASRUROH;MENGURUS RUMAH TANGGA;KAMPUNG MALANG UTARA 2/15, RT03/RW04, kel. Tegalsari, Kec. Tegalsari, SURABAYA;
+665;2;3;4;`3164851341;1.020.295;`3578062810160007;3578-LT-14112018-0129;ABYAN NAUFAL;;Laki-laki;;SURABAYA;28/10/2016;PRADANA SETYAWAN;WIRASWASTA;MONIQUE LA ROSA LINTANG SARI;WIRASWASTA;BANYU URIP WETAN 4/57C, RT01/RW04, Kel. Putat Jaya, Kec. Sawahan,SURABAYA;
+666;2;3;4;`;2.021.826;`3578052111160002;3578-LU-01022017-0010;AHMAD AKMAL MUBARAQ;;Laki-laki;;SURABAYA;21/11/2016;WISNU KUNTJORO;WIRASWASTA;ALFI MUTOHAROH;WIRASWASTA;PANDEGILING 1/127, RT01/RW07, Kel. Tegalsari, Kec. Tegalsari, SURABAYA;
+667;2;3;4;`;2.021.827;`3578050506160002;3578-LT-15112016-0015;AHMAD ZAYN KURNIAWAN;;Laki-laki;;SURABAYA;05/06/2016;SUEB KURNIAWAN;WIRASWASTA;RAHMA KURNIA SARI;WIRASWASTA;PANDEGILING 1/123, RT01/RW07, Tegalsari, Kec. Tegalsari, SURABAYA;
+668;2;3;4;`;2.021.832;`3578185604160003;3578-LU-19052016-0041;AINUN MAHYA PUTRI GIZKA;;Perempuan;;SURABAYA;16/04/2016;EKO MOCHAMAD GIZIANTO;WIRASWASTA;EKA DARWATI;WIRASWASTA;WONOREJO 3/49, RT05/RW05, Kel. Wonorejo, Kec. Tegalsari, SURABAYA;
+669;2;3;4;`;2.021.987;`3578071204170002;3578-LU-12052017-0012;AMIRUDDIN KURNIA AL-SUDAIS;;Laki-laki;;SURABAYA;12/04/2017;ANTON KURNIAWAN;WIRASWASTA;MUSDALIFAH;WIRASWASTA;KEPUTRAN KEJAMBON 2/37, RT05/RW12, Kel. Embong Kaliasin, Kec. Genteng, SURABAYA;
+670;2;3;4;`3169243658;1.020.796;`3578076902160002;3578-LU-03052016-0253;ANISA SYAKIRA QOLBY;;Perempuan;;SURABAYA;29/02/2016;ARIF SURATMAN;WIRASWASTA;MARYAM ALFIA, S.SI;GURU;KEPUTRAN PANJUNAN 3/66, RT09/RW13, Kel. Embong Kaliasin, Kec. Genteng, SURABAYA;
+671;2;3;4;`;2.021.845;`3578104601170003;3578-LT-27072017-0035;ANNA SYIFAUL HUSNA;;Perempuan;;SURABAYA;06/01/2017;ANWARU MUSTOFA;WIRASWASTA;SHERLY VISTA NICHA;WIRASWASTA;KALIKEPITING JAYA 9/34, RT16/RW5, Kel. Pacarkembang, Kec. Tambaksari, SURABAYA;
+672;2;3;4;`;2.021.825;`3578060101160007;3578-LT-17102018-0135;AVROZAN REZA;;Laki-laki;;SURABAYA;01/01/2016;;;FAUSIYAH;MENGURUS RUMAH TANGGA;BANYU URIP JAYA 2/24-A, RT04/RW05, Kel. Putat Jaya, Kec. Sawahan, SURABAYA;
+673;2;3;4;`;2.021.834;`3578236305170001;3578-LU-12062017-0146;AZKIYA SYABAN AL-MUKARRAMAH;;Perempuan;;SURABAYA;23/05/2017;ASEP SARIPUDIN;WIRASWASTA;DEWI RATIH;WIRASWASTA;PAGESANGAN I / 17 - C, RT03/RW05, Kel. Pagesangan, Kec. Jambangan, SURABAYA;
+674;2;3;4;`;2.021.836;`3578051105160004;3578-LT-25012017-0025;DANISWARA WISANGGENI;;Laki-laki;;SURABAYA;11/05/2016;TIRTA WIDYA PERMANA;WIRASWASTA;SELVI LESTUNING DYAH;WIRASWASTA;KEDONDONG KIDUL 1/102, RT05/RW05, Kel. Tegalsari, Kec. Tegalsari, SURABAYA;
+675;2;3;4;`;2.021.840;`3507040711160001;3507-LT-28052019-0028;ERLANGGA ADI SAPUTRA;;Laki-laki;;MALANG;07/06/2016;MUJITO;WIRASWASTA;JUMIATI;WIRASWASTA;PADEGILING I/27, Kel. Tegalsari, Kec. Tegalsari, SURABAYA;
+676;2;3;4;`;2.021.842;`3578105503160007;3578-LT-28102016-0123;ERVI ARSYFA SALSABILLA;;Perempuan;;SURABAYA;15/03/2016;;;REFIA PUTRI AYU;WIRASWASTA;KAPAS MADYA 1-B/90, RT03, RW03, Kel. Kapasmadya Baru, Kec. Tambaksari, SURABAYA;
+677;2;3;4;;2.021.831;`3578214409160001;3578-LU-04102016-0089;HABIBAH QURROTA A`YUN;;Perempuan;;SURABAYA;04/09/2016;INSAN HABIBULLOH;WIRASWASTA;FAUZIAH;WIRASWASTA;PULOSARI 3/48-A, RT03/RW07, SURABAYA;
+678;2;3;4;`3172451314;1.020.798;`3578086904170001;3578-LU-12052017-0150;HASUNA ROFIQO;;Perempuan;;SURABAYA;29/04/2017;ALIF ACHMAD SALEH;WIRASWASTA;MELATI SUKMAWATI;GURU;MENUR 2-D/2, RT08/RW08, Kel. Airlangga, Kec. Gubeng, SURABAYA;
+679;2;3;4;`;2.021.830;`3578054312150001;3578-LT-13102016-0109;MARYAM AYUDIA SAJIDAH;;Perempuan;;SURABAYA;03/12/2015;SAPTO MINANG HADI;WIRASWASTA;SRI MULYANI;WIRASWASTA;KAMPUNG MALANG KULON 5/35-B, RT08/RW11, Wonorejo, Kec. Tegalsari, SURABAYA;
+680;2;3;4;`;2.021.837;`3578073112160001;3578-LU-06012017-0099;M. FARHAN MAULANA;;Laki-laki;;SURABAYA;31/12/2016;TRI WAHYUONO;WIRASWASTA;HOSAINAH;WIRASWASTA;KEPUTRAN PANJUNAN 5/12-B, RT05/RW13, Kel. Embong Kaliasin, Kec. Genteng, SURABAYA;
+681;2;3;4;`;2.021.835;`3578050707160001;3578-LU-15082016-0100;M. KHOIRUL ANAM;;Laki-laki;;SURABAYA;07/07/2016;SAENAL;WIRASWASTA;KHUSNUL KHOTIMAH;WIRASWASTA;KEPUTRAN 9/9, RT06/RW1, Kel. Keputran, Kec. Tegalsari, SURABAYA;
+682;2;3;4;`3178080019;1.020.799;`3578071101170001;3578-LU-19012017-0137;MUHAMMAD ALKAF PRATAMA;;Laki-laki;;SURABAYA;11/01/2017;ANGGA PRATAMA PUTRA;WIRASWASTA;YUVINDA PUTRI SYUKUR;WIRASWASTA;JL.KEPUTRAN PASAR KECIL 4/48, RT04/RW11, Kel. Embong Kaliasin, Kec. Genteng, SURABAYA;
+683;2;3;4;`;2.021.841;`3507045406160001;3578-LT-09012018-0006;NADYA ALYSSA AZZAHRA;;Perempuan;;MALANG;04/06/2016;SURYANTO;WIRASWASTA;TITIN SETYOWATI;WIRASWASTA;KEPUTRAN 4/6, Kel. Keputran, Kec. Tegalsari, SURABAYA;
+684;2;3;4;`3158343207;2.020.713;`3578055710150002;3578-LU-06012016-0063;SALWA MUTIARA YUSUF;;Perempuan;;SURABAYA;17/10/2015;MOCHAMMAD YUSUF;WIRASWASTA;MAURANI IMA ROFII;WIRASWASTA;KEDONDONG KIDUL I / 72, RT11/RW06, Kel. Tegalsari, Kec. Tegalsari, SURABAYA;
+685;2;3;4;`3166493486;1.020.801;`3578075606170002;3578-LU-07092017-0089;WIDYA ANINDI KUSUMANINGRUM;;Perempuan;;SURABAYA;16/06/2017;BAMBANG WIDODO;WIRASWASTA;DESY PANCANINGRUM, SE;WIRASWASTA;KEPUTRAN KEJAMBON2/123, RT08/RW12, Kel. Embong Kaliasin, Kec. Genteng, SURABAYA;
+686;2;3;4;;2.021.848;'3578051907170003;3578-LU-23092017-0092;MUHAMMAD HAIDAR ALI;;Laki-laki;;SURABAYA;19/07/2017;MOHAMAD RIDWAN;KARYAWAN SWASTA;ZAHROTUS SOLIKHA;MENGURUS RUMAH TANGGA;PANDEGILING 1/123, RT01/RW07, Kel. Tegalsari, Kec. Tegalsari, SURABAYA;
+687;2;3;4;;2.021.839;'3578052607170001;35780-LT-29112017-0096;MUHAMMAD ALDHIYO FIRDAUS;;Laki-laki;;SURABAYA;26/07/2017;SUYUD UDIYONO;WIRASWASTA;AL ALIFFAH NUR JANNAH;MENGURUS RUMAH TANGGA;PANDEGILING 5/7, RT05/RW07, Kel. Tegalsari, Kec. Tegalsari, SURABAYA;
+688;2;3;4;;2.021.843;'3578070802170001;3578-LU-22032017-0101;MOCHAMMAD HAFIZH SYARKAN;;Laki-laki;;SURABAYA;08/02/2017;RIYANTO;WIRASWASTA;RISYAH KURNIAWATI;MENGURUS RUMAH TANGGA;KEPUTRAN PANJUNAN 3/34, RT04/RW13, Kel. Embong Kaliasin, Kec. Genteng, SURABAYA;
+689;2;4;5;;01.2020.176;;;Isyta Mun'ama;Isyta;Perempuan;1;Surabaya;Surabaya, 10 Juli 2018;Ahmad Abdu Dzilqowiy;Guru MtS Alif Laam Mim;Nurul Hanifah;Guru SDIT Ghilmani;Jl.Pandegiling Tengah 37 B;
+690;2;4;5;;01.2020.185;;;M.Imadul Haq Abu Jud;Imad;Laki-laki;1;Surabaya;Surabaya, 21 April 2018;M.Arif rahman hakim;wiraswasta;Nurul fajri Yulfi;Guru SDIT Ghilmani;Jl.Sikatan XV/13;
+691;2;4;5;;01.2020.186;;;M Hafiz Permana;Hafiz;Laki-laki;;Surabaya;Surabaya, 7 April 2018;Raditya Permana;Pertamina;Elok Sofi Damayanti;IRT;Royal Ketintang regency D 23;
+692;2;4;5;;01.2021.194;;;Adzkia Hanum Hanania;Hanum;Perempuan;1;Surabaya;Surabaya, 29 Juni 2018;Muhammad Yusuf;swasta;Nuryatin;Swasta;Jemur Gayungan;
+693;2;4;5;;01.2021.195;;;Aisyah Kamilea Alesha Islamadina;Aisyah;Perempuan;1;Surabaya;Surabaya, 25 maret 2018;Nicko Febriandanu Amansyah;Swasta;Tesa Sartika Hyacinta Putri Garay;Guru SMP Al Falah;Jl. Jambangan Tama I NO 12B;
+694;2;4;5;;01.2021.197;;;Fatimah Nusaibah Prayitno;Fatimah;Perempuan;1;Surabaya;Surabaya, 17 januari 2019;Mohammad Febrianto Prayitno;swasta;Siti Khadijatush Shalihah;Guru Alif lam Miim;Karah Gang Masjid No 4C;
+695;2;4;5;;01.2021.199;;;Hadzkya Arsy Rizki Zhafrani;Hadzkya;Perempuan;1;Surabaya;Surabaya, 10 Juli 2019;RIZAL ANDRIANATA;Polisi;UKI YITNOWATI;Guru SMP Al falah;Wonokromo ss baru 6/20;
+696;2;4;5;;01.2021.200;;;Mochammad Ismail Ali Fauzi;Ismail;Laki-laki;1;Surabaya;Surabaya, 7 Oktober 2018;Misnali;wiraswasta;Marbaiyah;Juru Masak LPI AL haromain;Pondok Benowo Indah Blok EK-3 ;
+697;2;4;5;;01.2021.202;;;Ula Minhah Qorir Ummi Azmin ;Ula;Perempuan;1;Surabaya;Surabaya, 9 Juli 2019;Ahmad Muhajir Fauzal Iz;LAZIS Al haromain;Hijjatul Isnaini;Guru SDIT Ghilmani;Jl siwalankerto Utara no.5 gang ;
+698;2;4;5;;01.2021.203;;;Zachary Rahman Al Ahmad;Zacha;Laki-laki;1;Surabaya;Surabaya, 29 Juni 2018;Muhammad Arif Rahman;Swasta;Risabela Dian Fitri;IRT;Jl Sidosermo IV gang 1 no 9 ;
+699;2;4;5;;01.2021.204;;;Ahmad Mamduh Wafa Abu Ifroh;Wafa;Laki-laki;1;Surabaya;Surabaya, 29 Desember 2018;Rahadi Utomo;Swasta;Yulianingsih;Guru SDIT Ghilmani;Ketintang Baru Gg XVI NO 15;
+700;2;4;5;;01.2021.208;;;Kenzie Al Athatra Achmad;Kenzie;Laki-laki;;Surabaya;Surabaya, 28 September 2018;Misbakhul Azis;swasta;Nur Rachmawati;swasta;Jalan Ketintang Barat lll No. 95;
+701;2;4;5;;01.2022.213;;;Ahmad Basyir Romadlon  Abu Mufid;Ahmad;Laki-laki;1;Surabaya;29 May 2018;Siswo widodo;Accounting Coffe Toffe;Agus setyani muniroh;Guru Alif Laam Mim;Jl. Ketintang Barat 4/4;
+702;2;4;5;;01.2022.214;;;Aisyah Ridlo Ummi Iinas ;Aisyah;Perempuan;;Surabaya ;18 April 2018;Miftakhul Falakh;Guru SDIT Ghilmani;Nadhifatul Qonitah;IRT;Jl. Tempel Sukorejo V No. 6a Surabaya                      Jl.Bibis Karah II/4A Surabaya;
+703;2;4;5;;01.2022.215;;;Alif Adhitama Fiankhatra;Alif;Laki-laki;;Surabaya;03 September 2018;Firman nasukha;Guru honorer;Kholifia Woro Irzalina;Guru Honorer SMKN 2;Jl. Ketintang barat no 57;
+704;2;4;5;;01.2022.216;;;Almahdi Sharique Zhafran Hartono ;Zhafran;Laki-laki;;Sidoarjo;05 July 2019;;;Putri Ayu Sinta M;;Royal Ketintang Regency Blok H03;
+705;2;4;5;;01.2022.217;;;Aqilah Shanum Nurchalisa Fadiyanto;Shanum;Perempuan;;Surabaya;06 April 2019;Suprapmono Miyanto;Swasta;Nurul Fadilah;Swasta;Jalan Jambangan Indah IV no 18;
+706;2;4;5;;01.2022.218;;;Arsandi rivan pradipta ;Rivan;Laki-laki;;Surabaya ;18 September 2018;Nano Eko Bismoko;PNS;Devi Dwi Arini;BRI;Jl. Karah Blok E7 No. 06;
+707;2;4;5;;01.2022.219;;;Azkia Ronia Zahrotul Jannah;Azkia;Perempuan;1;Surabaya;20 April 2020;A.Yusuf MS;Trainer UMMI;Lestari Kusumahati;IRT;Kendangsari II/50;
+708;2;4;5;;01.2022.220;;;Bunayya Achmad  Arro'uf Putro Widiyo;Bunayya;Laki-laki;1;SURABAYA;31 August 2019;Tulus Widiyo Putro;PMK;Fatwa Dzikrul  Laila;GURU SDN Wonokromo 1;Jl. Karah Agung I/36 A Surabaya;
+709;2;4;5;;01.2022.221;;;Fatimah Arfi Albatul;Fatimah;Perempuan;;Surabaya;06 April 2020;Arif Adi Pratomo, SKM;BPJS Kesehatan;Bilqis Elfira Maharani, SKM;IRT;JL. Ketintang Barat III / 186 A;
+710;2;4;5;;01.2022.222;;;Ghumaisyah Nasywa Humaira';Ghumaisyah;Perempuan;1;Surabaya;15 August 2019;Didin Kustiawan;Swasta;Rineke Mardia Fani;Nakes RSMM;Jl. Ketintang Baru XVII/26-A Surabaya;
+711;2;4;5;;01.2022.223;;;Jingga Kanya Rajita;Jingga;Perempuan;;Surabaya;29 January 2020;Jayeng Rangga Bhirawa;PNS;Arinda Kusuma Wardani;Ibu Rumah Tangga;Jl. Pulo Wonokromo No.55, Surabaya;
+712;2;4;5;;01.2022.224;;;Melvien Zain Al asyiqi;Melvien;Laki-laki;;Jombang ;20 January 2022;Zainuddin;Wiraswasta;Safik Safaatin;Ibu Rumah Tangga;Jln. Ketintang Timur PTT I Gang 1 No 1;
+713;2;4;5;;01.2022.225;;;Muhammad zehan Fahd Khan;Zehan;Laki-laki;1;Blitar;11 June 2019;Tri Arisandi;Swasta;Binti Nur Hamidah;Guru SDN Pakis V;Pradah kali Kendal RT 4 RW 4 dukuh  pakis;
+714;2;4;5;;01.2022.226;;;Musthafa Majdi Tirmidzi;Fahmi;Laki-laki;;Sidoarjo;12 June 2019;Balok Dirgantoro, S.H.;Polri Polrestabes;Laylia Nur Afidah, M.Si.;Guru SMA Al Hikmah;Asrama Polisi Ketintang;
+715;2;4;5;;01.2022.227;;;Nadine Anindya Halwah;Nadine;Perempuan;1;Surabaya;06 March 2019;Januar Rizky kristanto;swasta;Triska nurwahyu;Swasta;Wonocolo gang 3 no.32 Surabaya 60237;
+716;2;4;5;;01.2022.228;;;Namira Tadzkiroh Ummi Aisyah;Namira;Perempuan;1;Surabaya;15 September 2019;Mochamad Nadir;Pedagang;Rita Rachmawati;Kepala KB/TKIT Wildani 2;Jl. Menur 1 no 38 C Surabaya;
+717;2;4;5;;01.2022.229;;;Parveen berlian redish;Parveen;Perempuan;;Surabaya;12 January 2019;Redish prastyono;Swasta AIA;Sri cahyaningsih;Swasta;Perum royal ketintang Regency H6 Surabaya;
+718;2;4;5;;01.2022.230;;;Radin Ahmad Al Hanan;Radin;Laki-laki;;Surabaya;10 December 2019;Ade Afrian;Swasta;Cholifah;IRT;Royal Ketintang Regency;
+719;2;4;5;;01.2022.231;;;Wisar Wening Pawestri;Wisar;Perempuan;;TREGGALEK;07 September 2018;Septian Widhi Nugroho;POLRI Polda;Malvica Septiana Sari;GURU SDN Rangkah 1;Asrama Polisi Ketintang BLOK B NO.7 ;
+720;2;4;5;;01.2022.232;;;Zahira Aurelia Tifahry;Aurel;Perempuan;;SURABAYA;25 October 2021;Sugeng Harijadi;Wiraswasta;Enny Suchastifa;PNS BPKAD Jatim;Sarmada Ketintang Residence NO 21;
+721;2;5;3;;02.2022.497;;;Afsheena Fatimah Azzahra;Afsheena;Perempuan;;Surabaya;17 January 2022;Eko Prasetyawan;Wiraswasta;Choirunnisa;IRT;Jalan Tandes Lor 3 no 2;085707507979
+722;2;5;3;;02.2022.498;;;Aisya Syifa Fathiyyaturahma;Aisya;Perempuan;;Surabaya;20 July 2017;SUTRISNO;SWASTA;HENNY RACHMAWATI;Guru SD;KETINTANG BARU XVI / 25;085755421391, 0889-9646-9561
+723;2;5;3;;02.2022.499;;;Aisyah Salsabilla Arafazam;Aisyah;Perempuan;;Surabaya;29 September 2017;Anton Budi Arifianto;wiraswasta;Eka Swaras Tutik,SS;IRT;Ketintang IV/21;821-3179-7879
+724;2;5;3;;02.2022.500;;;Alifa Barrah Azkadina;Ifa;Perempuan;;Surabaya;21 December 2017;Nurhadi Isromidasa;Swasta;Dian Kristian W. ;IRT;Jl. Jambangan Kebon Agung 2/45;081703500430, 0818880119
+725;2;5;3;;02.2022.501;;;Alisya Alfatunnisa;Alisya;Perempuan;;Surabaya;17 January 2018;Yusuf Husain;Swasta;Zulfi Ajeng Maritasari;IRT;Dk.Gemol 2b no 8;087751332173, 081333004070
+726;2;5;3;;02.2022.502;;;Ameera Labiba El Maziyah;Ameera;Perempuan;1;Ngawi;02 December 2017;Moh. Ali Masruf;Karyawan Swasta;Mita Yuniati;Dosen;Jirak RT. 01 RW. 01 desa. Sedayu gunung kab. Tulungagung                               Jl.Cipta Menanggal I Blok 18 no. EE1;085736219539, 082254002722
+727;2;5;3;;02.2022.503;;;Aminatus Sa’adah;Natusa;Perempuan;1;Surabaya;05 September 2017;Mochamad Shalachuddin;swasta;Ayu arista Dewi;IRT;Jl.Ketintang I/48;081333093826
+728;2;5;3;;02.2022.504;;;Anandra Abdul Zhahir;Zhahir;Laki-laki;;Surabaya;06 December 2017;Dadan Ramdani;Indonesia Power;Agustina Sudianti;IRT;"Gunungsari 4/72 RT 003 RW 001
+Surabaya";081235236967, 081334766487
+729;2;5;3;;02.2022.505;;;Arayyan Tesla Nugrahantoro;Iyan;Laki-laki;;Surabaya;15 September 2017;Argandy Wahyuntoro;PNS;Niken Nugraheni;Guru;KK Perum Wiyung Indah FF 9 Surabaya                               Royal Ketintang Regency G-19;085732020043
+730;2;5;3;;02.2022.506;;;ARIFANY MARYAM HAMIDAH;Hamidah;Perempuan;;SURABAYA;11 January 2018;ISNAYONO;SWASTA;LOLITAH;IRT;JL Raya Jambangan NO. 122A Jambangan Kebonagung Asri NO. 25;081249981128, 085648090221
+731;2;5;3;;02.2022.507;;;Asheeqa Nahda Hawa Rifai;Hawa;Perempuan;;Surabaya;30 October 2016;Mochammad Rifai;Guru SDIT Ghilmani;Eka Putri Noviasari;IRT;Jolotundo Baru I No. 20-A;8585497656
+732;2;5;3;;02.2022.508;;;Asygal Amien;Ega;Laki-laki;;Sidoarjo; 27 Oktober 2017;Novian Nur Syamsu;Petrosea;Dianita Solikha Rahayu;IRT; Jl.Jambu 8/G44 Pondok Candra, Waru, Sidoarjo;081330488544
+733;2;5;3;;02.2022.509;;;ELJHIDAN AL AYYUBI WIDIATMOKO;Eljhidan;Laki-laki;;Tangerang;06 December 2017;JAYENG WIDIATMOKO;Telkom Akses;ISJIHANY SUSILOWATI;Pegawai Swasta;Ngakar 002/001 Gading, Balerejo, Kab Madiun       Jalan Jetis Kulon 10G No.2A;081284666600, 085289048148
+734;2;5;3;;02.2022.510;;;Fadgham Shidqiandra Rahmat;Fadgham;Laki-laki;1;Surabaya;22 January 2018;Rahmat Sholihin ;Swasta;Reny Hendriyani ;Perawat ;Pulosari 3H no 8 sby;085733622733, 0812-3123-91
+735;2;5;3;;02.2022.511;;;Faizah Athiya Rowi;Athiya;Perempuan;;Surabaya;02 January 2018;Ahmad Robby Tawabi;Swasta;Diah Margareni Prajnya Paramita;BUMN;"Jl. Wisma Pagesangan VII/7   Ketintang Residence
+Jl. Ketintang Madya Cempaka No. 44 ";081232950546, 81297878554
+736;2;5;3;;02.2022.512;;;Farzan Ahda Abrisam;Farsan;Laki-laki;;Surabaya;26 July 2017;JUNI PRIHANTO;Swasta;NETY MAWARDA HATMANTI;Dosen;JL. JAMBANGAN INDAH IV/14 ; 813-3549-4966
+737;2;5;3;;02.2022.513;;;Gavin Zavier Izecson Ardillah David;Gavin;Laki-laki;1;Surabaya; 10 Oktober 2017;Roi David;Perawat;Milla Ardillah;Perawat;Jl.sidosermo 3 no 8;0838-5722-0029
+738;2;5;3;;02.2022.514;;;Ghayda AdzkiyaPutri Perwiratama;Ghayda;Perempuan;;Banyumas; 21 Juli 2017;Ragil Pamungkas;Swasta;Wiwi Neni Kuswanti;IRT;Royal Ketintang Regency Blok I No.20;811-2999-431, 813-2573-8158
+739;2;5;3;;02.2022.515;;;Hafiza Shidqia Annabiih;Shidqia;Perempuan;;Kediri;21 June 2017;DONNIS NOVIAN ANTONY;PNS Bea Cukai;MARIA ULFA;IRT;Jl. Dr. Saharjo Gg Bima RT 07/RW 01, Kota Kediri    Komplek Rumah Dinas Bea Cukai, Blok A No 28;085746845588, 085782594675
+740;2;5;3;;02.2022.516;;;Hanif Abhicandra Zafran;Hanif;Laki-laki;;Surabaya;18 April 2017;Darmanto,ST;swasta;Ikka Novitasari,ST;BUMN;Jl.Asem Jaya VII/46 Surabaya;081231216891
+741;2;5;3;;02.2022.517;;;Kayyisah Yumna El Shabira;Kay;Perempuan;;Surabaya;16 December 2017;Sugeng Santoso;Pegawai Swasra;Widya Widhani W;IRT;Perumahan Hillda Regency, Jl. Jambangan Indah IV No.45;081333501078, 081233402008
+742;2;5;3;;02.2022.518;;;Keinarra Arzetti  Athallah;Zetti;Perempuan;;Surabaya;26 October 2017;Jekiono;Polri;Vavio Oktavia;Guru;Aspol Ketintang Blok C 12;081340661224, 081216454334
+743;2;5;3;;02.2022.519;;;Khalid Fahreza Ibadurrahman;Khalid;Laki-laki;;Surabaya;03 February 2018;Iqbalul Machfudz,ST;Alm;Anisa Victoriana,SE;Swasta;Jambangan Indah IV/36;87855951536
+744;2;5;3;;02.2022.520;;;Khansa Adelia Naifah;Khansa;Perempuan;;Surabaya;24 April 2017;Nur Sulaiman;Programmer;Yuniarti Setiyo Rini;Ibu Rumah Tangga;Jl. Ketintang Baru XVII / 101 Surabaya;085730015505, 085731149892
+745;2;5;3;;02.2022.521;;;Khanza Shaqueena Nafhisa Azzahra;Shaqueena;Perempuan;;Surabaya;28 June 2018;susianto;swasta;Dwi Yatmiati;IRT;Jl.Ketintang barat no 43.a Surabaya;08121711754, 08121711754
+746;2;5;3;;02.2022.522;;;Luluk Aliyah Munasaroh;Luluk;Perempuan;;Surabaya;10 Novermber 2017;Muchammad Adib;Swasta;Miftachul Rizky Amelia;Swasta;Karangrejo VI/111;857-3138-6120
+747;2;5;3;;02.2022.523;;;Madinah Hafizhah Kusuma;Madinah;Perempuan;1;Sidoarjo;01 April 2018;Adi Kusuma;PTPN ;Nurul Indawati;Dosen UNESA;Jl.Mawar Ak 19A Juanda;081357475229
+748;2;5;3;;02.2022.524;;;Muhammad Abid Alkhalifi;Abid;Laki-laki;1;Surabaya;08 February 2017;Nono Tri Hariyanto;Guru;Erna Wiyanti;Guru;Griya Kencana 1K/53 ;08563180959
+749;2;5;3;;02.2022.525;;;Muhammad Amri Rasyid;Amri;Laki-laki;;Surabaya;16 November 2017;Fardhan Kuspramudana;Swasta;Indah Prasti Anggraeni;Swasta;GAYUNG KEBONSArI X/14;815-5304-4014
+750;2;5;3;;02.2022.526;;;Muhammad Anwar Al Kayyis Aja;Al kay;Laki-laki;1;Sidoarjo; 3 januari 2018;Ahmad jaiz;Swasta;Nur Hayati;Guru SDIT Ghilmani;Pekarungan RT 05 RW 2 Sukodono;085732888679
+751;2;5;3;;02.2022.527;;;Muhammad Arfa Purnama;Arfa;Laki-laki;;Surabaya;01 August 2017;Ahnan Priono;Wiraswasta;Eviana;IRT;Ketintang barat 1 no.24;081216011579, 082142868663
+752;2;5;3;;02.2022.528;;;Muhammad Dahlan Alfadani;Alfad;Laki-laki;1;Surabaya;05 April 2017;Novri Yopi ;Alm;Hidayatin Nuroniyah;Swasta;Karangrejo VI/111;857-5536-3797
+753;2;5;3;;02.2022.529;;;Muhammad Hafis Uways Asyhari;Uways;Laki-laki;;Depok;15 April 2022;M.Syakir Azhari;PNS;Faidza Nuficha ;IRT;Jln pondok pinang 3 No 44  Jakarta Selatan;81223349836
+754;2;5;3;;02.2022.530;;;Muhammad Hamdan Mahbubi;Hamdan;Laki-laki;;Surabaya;29 November 2017;Abdul Hakam;Alm;Kholilah;Guru;Jl.Ketintang Baru XVII No.26 Surabaya;081357347020
+755;2;5;3;;02.2022.531;;;Muhammad Sayyid Al Barri;Sayyid;Laki-laki;;Surabaya;05 June 2017;Subhi Zahir;Keuangan;Devy Chrisdewanthy;Pelabuhan;Simpang Darmo Permai Selatan 2/39                          Royal Ketintang Regency Blok D08 Surabaya;082143028916, 081578825686
+756;2;5;3;;02.2022.532;;;Nabhan Aula Alfin;Alfin;Laki-laki;;Surabaya;02 March 2021;H machfud ;Wiraswasta;Awali fitriyah;Swasta;Balongsari 5G No 16                              Karah Agung VI no 41 surabaya              ;081235228112, 81235228115
+757;2;5;3;;02.2022.533;;;Putri Hanania Rubina;Rubina;Perempuan;;Sidoarjo; 13 Juni 2018;Muhammad Chairuddin,SE;swasta;Dian Fransisca Ariyani,SE;IRT;JL. Karah IV NO. 59 ;812-4960-0300
+758;2;5;3;;02.2022.534;;;Rajaie Ali Mahmud;Ajje;Laki-laki;;Surabaya;16 March 2018;Rendra Rinaldi,S.Pd;Swasta;Ika kreshnawati;Swasta;Jl. Karah Indah Vi/E 21 surabaya;85645181804
+759;2;5;3;;02.2022.535;;;Rakhsandrina Rayyan El Fikri;Nana;Perempuan;;Surabaya;09 June 2018;Nizar Fikri;Pegawai Swasta;Ilhami Ginang Pratidina;Pegawai Swasta;Karangrejo sawah vii nomor 36 surabaya;081287899806, 082132527606
+760;2;5;3;;02.2022.536;;;Rayendra Ahnaf Wirandy Praptantyo;Rayendra;Laki-laki;;Surabaya;17 October 2017;Hendy Dwi Praptantyo;PNS Bea Cukai;Dara Nortaria Rosa Patria;IRT;Jl. Diponegoro Kab Mojokrerto                                Sarmada Ketintang Residence Kav 35;085258588445, 081270051450
+761;2;5;3;;02.2022.537;;;Razqa Alghaisan Hafiz;Razqa;Laki-laki;;Surabaya;20 February 2018;Bagus Widianto;Wiraswasta;Anni Maulani;Pegawai swasta;Jl. Bumiarjo No. 63 Surabaya;087851060184, 08113400036
+762;2;5;3;;02.2022.538;;;Reynamira Azkadina Azzahra;Reyna;Perempuan;;Surabaya;31 August 2017;Tirto Setiawan;Wiraswasta;Ismataria Husna;Wiraswasta;Menanggal 4 no 37 Gayungan Surabaya;082142212400, 082230105055
+763;2;5;3;;02.2022.539;;;Muhammad Dafiq Alfarizi;Aufar;Laki-laki;;Lamongan;11 May 2018;Wira Yudha Alam;Dosen;Khusnul Fikriyah;Dosen;jl karah no 93 Surabaya;813-3273-6000
+764;2;5;3;;02.2022.540;;;Tsaqif Hilmi Ar Rayyan;Rayyan;Laki-laki;;Surabaya;26 November 2017;Irfan Firman Nursubhan;Freelance;Clarashinta Canggih Septianasari;Dosen;Gubeng Klingsingan 2/29 Surabaya;081332350563, 082291336349
+765;2;5;3;;02.2022.541;;;Calysta Alvina Febrianita;Vina;Perempuan;;Surabaya;20 February 2018;Aindra Mahardika;SWASTA;Yunita Preti Firdayanti;IRT;Ds Bibis RT 01 RW 01 Magetan          Kebonsari Baru Selatan II no 18;085230156389   08970857568
+766;2;6;4;;02.2020.453;;;Suhailah Nailah Najah;Suhaila;Perempuan;;Surabaya;18 July 2016;Moenir;Guru;Dhina Innama;Guru SDIT Ghilmani;Bendul Merisi jaya Gg Musholla/11;081931064996
+767;2;6;4;;02.2021.463;;;Abdurrahman Ar Rayyan;Rayyan;Laki-laki;;Surabaya;09 January 2016;Fuad Ardianto;Sopir;Anggi purnama sari;Swasta;"Pakis wetan 2 no 8
+
+";081230075559
+768;2;6;4;;02.2021.464;;;Abimayu Arsakha Aslam;Abi;Laki-laki;;Surabaya;15 September 2016;HERMAWAN RAGIL PUTRA;PNS;ERLIN YUNITA;IRT;Perum Sarmada ketintang barat 1 , kav 24;082112191984
+769;2;6;4;;02.2021.465;;;Aisyah Mikayla Azzahra;Mikayla;Perempuan;1;Mojokerto;18 July 2016;Eko Bagus Subagio;Swasta;Erna Juwita;Guru SMP Al Falah;Jl.Kendangsari Gg Lebar No.102B;082257147458, 083856455458
+770;2;6;4;;02.2021.467;;;Aulia Luzzatul Bahraini;Izza;Perempuan;;Surabaya;19 December 2016;Bayu yuliansyah warsono;Swasta;Kartika oktaviyani;IRT;Jl Karangrejo Sawah 3 / 28 ;085730555533
+771;2;6;4;;02.2021.468;;;Ayesha Diandra Baskoro;Yesha;Perempuan;;Surabaya; 16 Oktober 2016;Farid Baskoro;Dosen UNESA;Yuyun Atik Indriani;PNS;Jl.Ketintang Madya I/4;08563376241, 085782202956
+772;2;6;4;;02.2021.469;;;Azkadiina Rasyidatur Rahullah;Azkadiina;Perempuan;;Surabaya;26 July 2016;Moch. Sidik Rochullah;TNI;dr. Fennyana Lesdyanto;PNS Dokter;Jl. Karangrejo VIII/18 Surabaya;081332629562
+773;2;6;4;;02.2021.470;;;Fadlilatus Suroyya Asy-Syukriyah;Dila;Perempuan;;Surabaya;19 April 2017;Rani Syukron;Guru;Nurus Saadah;Guru;Pulosari 3/14;081223199985
+774;2;6;4;;02.2021.471;;;Hishna Dini Ummi Silma;Silma;Perempuan;1;Surabaya;15 November 2016;Dani Maura;Guru SDIT Ghilmani;Fatimatuzzahro,S.Pd;Guru SDIT Ghilmani;Pepe Tani Kav 93 Sidoarjo;082264478225
+775;2;6;4;;02.2021.472;;;Kailasha De Hyang Kinanti;Kailasha;Perempuan;1;Surabaya;03 April 2017;Sandi Mario kirniawan;TNI;Novy pandu kurniaty;Hotel Shangrila;JL.GOLF 8 NO. 12;085707040789
+776;2;6;4;;02.2021.473;;;Kanzia Humaira Dirgantara;Zia;Perempuan;;Surabaya;02 December 2016;Yun Cerah Dirgantara;Swasta;Wurita Wira AS;                                                                                                 Apoteker;Palm Spring Blok G-53  ;081359294160,   082141142388
+777;2;6;4;;02.2021.474;;;Kenzo Yuga Altezza`;Kenzo;Laki-laki;;Surabaya;11 May 2017;Galih Satria Alit Widikusuma;;Yulida Ayu Damayanti;Alm;Jl.Ketintang Baru XVII/79 Surabaya;081233298001
+778;2;6;4;;02.2021.475;;;Khairunnisa Oktaviani Putri;Nisa;Perempuan;;Surabaya; 17 Oktober 2016;Setiyono;TNI;Novita;Swasta;Jl.Golf VIII/4;081249531646
+779;2;6;4;;02.2021.476;;;Khodijah Amna Ummi Afwa;Dija;Perempuan;;Surabaya;06 March 2017;Miftahul falakh;Guru SDIT Ghilmani;Nadhifatul qonitah;Online Shop;Jl. Karah 1 no. 47;081234098238
+780;2;6;4;;02.2021.477;;;M.Fathan Al Ghifari Kurniawan;Al;Laki-laki;1;Surabaya;12 September 2017;Wawan Kurniawan;Bank Jatim;Qoidatun Nikmah;Dosen UNUSA;Jl.Karangrejo VI Gg masjid II Bureng                            KK Dagan, Solokuro, Lamongan;085655308945
+781;2;6;4;;02.2021.478;;;Muhammad Abu Rubayyi';Ubay;Laki-laki;1;SURABAYA;07 December 2016;Rahadi Utomo;Swasta;Yulianingsih;Guru SDIT Ghilmani;Ketintang Baru Gg XVI NO 15;082143622492
+782;2;6;4;;02.2021.479;;;Muhammad Dananafsi Abu Kayyis;Dana;Laki-laki;1;Gresik; 19 Februari 2017;Ahmad Zaharuddin Nadhif;Wiraswasta;Nurul Khakimah;Guru TPA Waladi;Karangrejo RT 1 RW 1 Manyar Gresik;085708187828
+783;2;6;4;;02.2021.481;;;Muhammad Izzul Haq Abu Zimam;Zimam;Laki-laki;;Surabaya;05 March 2017;Imam Fauzan;Swasta;Eny Yuli Masita;IRT;Medayu Utara XXX/101;0817317598, 085104787282
+784;2;6;4;;02.2021.482;;;Muhammad Raffa Ribowo;Raffa;Laki-laki;;Surabaya; 22 Maret 2016;Sugeng Ribowo,ST;swasta;Sapto Wulaningsih;Swasta;Jl.Jambangan Indah IV/28;081233555798
+785;2;6;4;;02.2021.483;;;Muhammad Zhafran Noor Hazard;Zhafran;Laki-laki;;Surabaya;19 December 2016;sodiqin;Wiraswasta;Anita Nur Rusdiyah;Swasta;Ketintang II No 30;085258888190
+786;2;6;4;;02.2021.484;;;Nabeel AL Fatih Putra Erlangga;Nabeel;Laki-laki;;Surabaya;01 December 2016;Imron najib Erlangga;TELKOM;Nanda Pitasari;PJB;Jl.Griya Jambangan Asri B2 ;082139666689
+787;2;6;4;;02.2021.485;;;Naura Fatimah Azzahra;Naura;Perempuan;;Probolinggo;26 May 2016;Suhaiyanto;Guru SDIT Ghilmani;Neneng Maisyaroh;IRT;Jl.Karangrejo V/26 (pagar Hijau);089663637971
+788;2;6;4;;02.2021.486;;;Nufail Razqa Althaf;Nufail;Laki-laki;;Surabaya;23 December 2016;IR Iskandar;PNS;Latifah;Swasta;Jl.Jambangan Indah III/20 Surabaya;085731660636
+789;2;6;4;;02.2021.487;;;Sahna Arsyila Kisanum;Sahna;Perempuan;1;Blitar;17 June 2017;Tri Arisandi;swasta;Binti Nur hamidah;IRT;Jenek Kulon, II/2 Krembangan Sidoarjo             KK Dsn Parang, Blitar;085731187847
+790;2;6;4;;02.2021.488;;;Shahana Zalfadisha Alhusna;Shahana;Perempuan;;SURABAYA;12 January 2017;TOFAN NURDIYANSAH;PNS;ANINDYA DIAH ROSHIHA;Bidan;KARANGREJO SAWAH 7/36SURABAYA;081259100104
+791;2;6;4;;02.2021.489;;;Shaquila Kayana Prasetyo;Qila;Perempuan;;Surabaya;31 March 2017;Anang Prasetyo;Kedawung Setia;Nur Litasari Darwati;Swasta;Tempel Sukorejo I / 118 B;082143650464
+792;2;6;4;;02.2021.490;;;Vania Cantika Aurelia;Vania;Perempuan;;Surabaya;30 August 2016;Soeharjono;Wiraswasta;Marfuah;IRT;Ketintang Barat 1 No. 24;081259007051
+793;2;6;4;;02.2021.491;;;Wafa Amira Hanifa;Wafa;Perempuan;;Sidoarjo;18 November 2016;WAHYU HIDAYATULLAH; (ALM);Hanifah;Alm;Jl Kembang Kuning 3/7 A;082131977496
+794;2;6;4;;02.2021.492;;;Rashya Syarif;Rasya;Laki-laki;;Situbondo;01 December 2016;Hari Santoso;Swasta;Dwi Ningsih Nurul Khotimah;Luminor Sidoarjo;Dukuh Gemol;08113438780
+795;2;6;4;;02.2021.494;;;Raline Azkayra Medina;Raline;Perempuan;;Jakarta;12 May 2017;Taufan Aditya Perdana;PNS Bea Cukai;Henni Tri Ambarwati;IRT;Jl. Gayung Kebonsari Blok A No. 26 Komplek Bea Cukai ;081808280295
+796;2;6;4;;02.2021.495;;;Akhmad Maulana Akbar;Akbar;Laki-laki;;Sidoarjo;24 January 2017;Joko Prasetyo;Swasta;Yunitasari;Swasta;Jl.Ngagel Rejo;08573362286
+797;2;6;4;;02.2022.496;;;Adeebah inara;Jelita;Perempuan;;Surabaya;31 July 2016;Ismanu;Swasta;Rostantina Kurniawati,SP;Guru SDN Sawahan IV;Pulosari 3 J  15;8979068300

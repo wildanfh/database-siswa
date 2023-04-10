@@ -52,12 +52,3 @@ id | kelas_id | nisn | nis          | no_akta | nama_siswa              | tahun_
 
 add in .env
 SESSION_DRIVER=database
-
-@if (session('success'))
-          <div id="success-notification" class="bg-green-100 border border-green-400 text-green-700 px-4 py-3 rounded relative" role="alert">
-            <strong class="font-bold">Success!</strong>
-            <span class="block sm:inline">{{ session('success') }}</span>
-            <span id="success-close-btn" class="absolute top-0 bottom-0 right-0 px-4 py-3">x
-            </span>
-          </div>
-          @endif update this code to error notification
